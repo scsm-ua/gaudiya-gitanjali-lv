@@ -79,8 +79,7 @@ Sarvabhauma Bhattāčārjas, Gopinātha Āčārjas un Džīvas Gosvāmī *sampra
     nadīyā prakāśe nityānanda-gauranidhi
     patita-pāvana-kṣetre milāila vidhi
 
-Šrī Nitjānanda un Šrī Gaura Mahāprabhū mūžīgi mīt Navadvīpas Dhāmā, Nādijā. Taču tagad, pateicoties mūsu likteņus mainošā Šrī Gurudēva žēlsirdībai, Viņu dievišķās formas ir 
-izpaudušas sevi arī Purī-dhāmā.
+Šrī Nitjānanda un Šrī Gaura Mahāprabhū mūžīgi mīt Navadvīpas Dhāmā, Nādijā. Taču tagad, pateicoties mūsu likteņus mainošā Šrī Gurudēva žēlsirdībai, Viņu dievišķās formas ir izpaudušas sevi arī Purī-dhāmā.
 
 #### 12
 

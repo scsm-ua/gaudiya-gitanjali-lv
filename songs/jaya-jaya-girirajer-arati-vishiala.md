@@ -71,3 +71,6 @@ Ar savu neizmērojamo slavu un augstsirdību Tu parādīji Kuliju (vietu, kur ti
     sānande ārati dekhe e adhama dāsa 
 
 Mūžam Tu sevi izpaud kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps redz tavu āratī un izjūt milzīgu prieku!
+
+
+> page = 32

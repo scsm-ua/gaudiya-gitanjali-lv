@@ -33,7 +33,7 @@ Otrais apvainojums: uzskatīt padievus vienlīdzīgus Visaugstajam, kā arī uzs
 #### 3
 
     “guru kṛṣṇa-rūpa hana śāstrera pramāṇe
-    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne’’
+    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne”
     se gurute martya-buddhi avajñādi tyaji
     iṣṭa-lābha kara, nirantara nāma bhaji
 
@@ -100,6 +100,7 @@ Astotais apvainojums: uzskatīt Svētā Vārda dziedāšanu par līdzvērtīgu d
     tāre nāma dāne aparādha suniśchita
 
 Ir cilvēki, kuri ir Dieva augstākās gribas apmānīti un tādēļ zaudējuši ticību. Viņi ir naidīgi pret Svēto Vārdu. Sniegt viņiem norādes kalpošanai Svētajam Vārdam viennozīmīgi ir apvainojums.
+
 Devītais apvainojums: tiekšanās dāvāt Svēto Vārdu neticīgajiem.
 
 #### 10
