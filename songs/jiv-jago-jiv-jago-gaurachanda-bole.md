@@ -1,43 +1,43 @@
-# Aruṇodoya-kīrtan
+# Aruṇodoya-kīrttan
 
-## Part 2
+## II daļa
 
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
     jīv jāgo, jīv jāgo, gaurāchā̐da bole
     kota nidrā jāo māyā-piśāchīra kole
 
-Lord Gaurāṅga calls, “Wake up, sleeping souls! Wake up, sleeping souls! You have slept so long in the lap of the witch Māyā.”
+Kungs Gauranga sauc: “Mostieties, guļošās dvēseles! Mostieties, guļošās dvēseles! Jau tik ilgi jūs esat gulējušas raganas Majas klēpī!”
 
-#### 2
+#### 1
 
     bhajibo boliyā ese saṁsāra-bhitore
     bhuliyā rohile tumi avidyāra bhore
 
-“You came into this world saying, ‘O my Lord, I will certainly worship You’, but having forgotten this promise, you have remained in great ignorance.”
+“Jūs esat nākušas šajā pasaulē ar vārdiem “Mans Kungs, tici man, es Tevi pielūgšu!” taču, šo solījumu aizmirsušas, jūs iegrimāt tumsonībā!”
 
-#### 3
+#### 1
 
     tomāre loite āmi hoinu avatāra
-    āmi vinā bandhu āra ke āche tomāra
+    āmi binā bandhu āra ke āche tomāra
 
-“I have descended just to save you. Other than Myself, who else is your friend?”
+“Esmu nolaidies pie jums vienīgi, lai glābtu jūs! Vai jums ir kāds cits draugs, izņemot Mani?”
 
-#### 4
+#### 1
 
     enechi auṣadhi māyā nāśibāro lāgi’
     hari-nāma mahā-mantra lao tumi māgi’
 
-“I have brought the medicine for destroying the illusion of *māyā*. Now pray for this Hari-nāma-mahāmantra and take it.”
+“Esmu atnesis līdzekli, kas atbrīvos jūs no majas ilūzijas. Jel lūdzietes pēc Harīnāma-mahā-mantras un pieņemiet to!”
 
-#### 5
+#### 1
 
     bhakativinoda prabhura-charaṇe poḍiyā
     sei hari-nāma-mantra loilo māgiyā
 
-Ṭhākur Bhakti Vinod fell at the lotus feet of Lord Gaurāṅga, and after begging for the Holy Name he received that *mahāmantra*.
+Thākurs Bhaktivinoda - krītot pie lotosam līdzīgajām Kunga Gaurangas pēdām un lūdzot Svēto Vārdu, saņēma mahā-mantru.
 
 
-> page = 55
+> page = 43

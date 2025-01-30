@@ -1,16 +1,13 @@
-# Śrīla Gaura Kiśora Dās Bābājī Mahārāj
+# Šrīla Gaura Kišora Dāsa Bābadžī Mahārādža
 
-### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+### Šrila Bhakti Rakšak Šridhārs Dēv-Gosvami Mahārādža
 
     namo gaurakiśorāya
-        bhaktāvadhūta mūrtaye
+        bhaktāvadhūta mūrttaye
     gaurāṅghri padma-bhṛṅgāya
         rādhā-bhāva-niṣeviṇe
 
-“I bow to our Guru, Śrīla Gaura Kiśora Dās,\
-the pure devotee beyond social class;\
-the bee in the lotus of the feet of Śrī Gaurāṅga,\
-who deep in his heart serves Śrī Rādhā forever.”
+Es klanos mūsu guru Šrīlas Gaura Kišora Dāsa priekšā, kurš ir tīrs bhakta un stāv augstāk par visiem sociālajiem iedalījumiem. Viņš līdzinās bitei Šrī Gaurangas pēdu lotosā un savā sirdī vienmēr kalpo Šrī Rādhai.
 
 
-> page = 15
+> page = 16

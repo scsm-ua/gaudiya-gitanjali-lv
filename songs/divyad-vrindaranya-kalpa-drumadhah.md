@@ -1,13 +1,13 @@
-# Śrī-Śrī-Guru-Gaurāṅga-Gāndharvā-Govindasundarjīu
+# Šrī-Šrī-Guru-Gauranga-Gandharva-Govindasundardži
 
-## Nabadwīp, Śrī Chaitanya Sāraswat Maṭh
+### Navadvīpa, Šrī Čaitanja Sarasvat Maths
 
     dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
         śrīmad-ratnāgāra-siṁhāsana-sthau
-    śrī gāndharvā-śrīla-govinda-devau
+    śrī gāndharvvā-śrīla-govinda-devau
         preṣṭhālībhiḥ sevyamānau smarāmi
 
-I constantly meditate upon that Divine Couple Śrī Śrī Gandharvā-Govinda, who are seated upon a wonderful throne highly decorated with brilliant jewels. They are sitting within the illustrious forest of Vraja, beneath a mind-attracting desire tree, accompanied by Their dedicated servitors such as Śrī Lalitā Devī, Śrī Rūpa Mañjarī and other intimate servants like the *priyanarma sakhīs*.
+Es pastāvīgi domāju par Dievišķo Pāri, Šrī Šrī Gandharva-Govinda, kuri sēž brīnišķīgā, dimantiem rotātā tronī izslavētajā Vradžas mežā zem visus prātus pievelkošā vēlmju koka. Viņi sēž pašaizliedzīgo kalpotāju – Šrī Lalitas Devi un Šrī Rūpas Mandžārī kompānijā, kā arī citu tuvu pavadoņu, tādu kā prijanarma-sakhī, sabiedrībā.
 
 
 > page = 20

@@ -1,15 +1,15 @@
 # Śrī Nām-kīrtan
 
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
-    jaśomatī-nandana    vraja-vara nāgara,
+    jaśomatī-nandana    braja-baro nāgara,
         gokula-rañjana kāna
     gopī-parāṇa-dhana    madana manohara,
         kālīya-damana-vidhāna
 
-Śrī Krishna is the beloved son of Mother Yaśodā, the transcendental lover of the land of Vraja and the delight of Gokula. One of His nicknames is Kāna. He is the life and soul of the *gopīs*. He is the enchanter of Cupid and the conqueror of the Kālīya serpent.
+Šrī Krišna ir mātes Jašodas mīļais dēls un Vrādžas zemes transcendentālais mīļotais. Viņu sajūsmā apbrīno visa Gokula! Viens no Viņa vārdiem ir Kāna. Viņš ir *gopiju* dzīvība un dvēsele. Viņš valdzina pašu Kupidonu un uzvar čūsku Kāliju.
 
 #### 2
 
@@ -17,25 +17,26 @@
     vipina-purandara    navīna nāgara-bora,
         vaṁśī-badana suvāsā
 
-The Holy Names of Krishna are spotless and full of sweetness and beauty. Krishna is the king of the forest of Vṛndāvan. He is the ever-fresh youth, an excellent dresser, and the best of lovers. He always plays sweet melodies upon His flute.
+Krišnas Svētie Vārdi ir nevainojami tīri, tie ir saldas garšas un skaistuma pilni. Krišna ir Vrindāvanas mežu karalis. Viņš ir vienmēr jauns un krāšņs, Viņš ir labākais no visiem mīļotajiem. Uz savas flautas Viņš spēlē saldākās melodijas.
 
 #### 3
 
-    vraja-jana-pālana    asura-kula-nāśana,
+    braja-jana-pālana    asura-kula-nāśana,
         nanda-godhana rākhoyālā
-    govinda mādhava    navanīta-taṣkara,
+    govinda mādhava    navanīta-taṣkara, 
         sundara nanda-gopālā
 
-Krishna is the guardian of all who live in Vṛndāvan, and the destroyer of demons. He tends the cows and is known as Govinda, for He delights the cows and the senses. He is Mādhava, the husband of the goddess of fortune, He loves to steal butter and He is the beautiful cowherd boy of Nanda Mahārāj.
+Krišna pasargā visus Vrindāvanas mežu iemītniekus un uzvar dēmonus. Viņš gana govis un ir pazīstams kā Govinda – tas, kurš priecē gan govis, gan maņas. Viņš ir Mādhava, veiksmes dievietes vīrs. Krišna ir brīnišķais ganuzēns, Nanda Mahārādža dēls, kurš ļoti mīl zagt sviestu!
 
 #### 4
 
-    yamunā-taṭa-chara    gopī-basana-hara,
+    jamunā-taṭa-chara    gopī-basana-hara,
         rāsa-rasika kṛpāmoya
     śrī-rādhā-vallabha    vṛndāvana-naṭabara,
         bhakativinod-āśraya
 
-Wandering on the banks of the Yamunā River, Krishna stole the garments of the *gopīs* while they were bathing. He enjoys the mellows of the rāsa dance. He is the most merciful, beloved lover of Śrīmatī Rādhārāṇī. He is the great dancer of Vṛndāvan, and the supreme shelter of Śrīla Bhakti Vinod Ṭhākur.
+Pastaigājoties pa Jamūnas upes krastiem, Krišna nolaupa peldošos *gopiju* drēbes. Viņš izbauda rāsas dejas saldo garšu! Viņš ir visžēlsirdīgākais! Viņš ir vienīgais Šrīmatī Rādharanī mīļotais. Krišna ir Vrindāvanas lieliskākais dejotājs un Šrīlas Bhaktivinoda Thākura augstākais patvērums!
 
 
-> page = 49
+> page = 39
+> page = 60

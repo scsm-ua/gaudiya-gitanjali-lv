@@ -5,18 +5,19 @@
     kṛṣṇa-bhakti-prade devi
         satyavatyai namo namaḥ
 
-I eternally offer my respects unto Śrī Vṛndādevī, Śrīmatī Tulasī Mahārāṇī, who is the dearmost object of Lord Keśava’s affection. I bow down before Satyavatī who can bestow pure dedication unto Lord Krishna.
+Es mūžam klanos Šrī Vrindadevī, Šrīmatī Tulasī Mahārānī, priekšā. Viņu maigi mīl pats Kungs Kešava. Es klanos Satjavatī priekšā, kura dāvā tīru kalpošanu Kungam Krišnam!
 
     atha natvā mantra-gurūn
         gurūn bhāgavatārthadān
     vyāsān jagat-gurūn natvā
         tato jayam udīrayet
 
-Then, let me bow down before all my spiritual masters: the guru who gave me the divine mantra, as well as all those who have taught me the meaning of Śrīmad Bhāgavatam. Let me offer my respectful obeisances unto Śrīla Vyāsadeva, the spiritual master of the entire universe and the giver of the all-conquering conclusions of Śrīmad Bhāgavatam.
+Es atkal un atkal klanos savu garīgo skolotāju priekšā – Guru, kurš iesvētīja mani dievišķajā mantrā, un visu to priekšā klanos es, kuri atklāj slēpto “Šrīmad-Bhagavatam” nozīmi. Cieņas pilns es klanos Šrī Vjāsadēva, Visuma garīgā skolotāja, priekšā, kurš devis izsmeļošus “Šrīmad-Bhāgavatam” skaidrojumus.
 
-    jayaḥ sa-parikara śrī-śrī-guru-gaurāṅga-gāndharvā-govindasundar-pādapadmānāṁ jayastu!
+    jayaḥ sa-parikara śrī-śrī-guru-gaurāṅga-gāndharvvā-
+    govindasundar-pādapadmānāṁ jayastu!
 
-Let the holy lotus feet of Śrī Gurudeva, Śrīman Mahāprabhu, and Śrī Śrī Gāndharvā-Govindasundar, along with Their eternal associates, be victorious over all!
+Lai Šrī Gurudēva, Šrīmāna Mahāprabhū un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!
 
 
 > page = 22

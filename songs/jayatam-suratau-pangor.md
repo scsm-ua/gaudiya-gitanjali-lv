@@ -7,7 +7,7 @@
     mat-sarvasva-padāmbhojau
         rādhā-madana-mohanau
 
-O Śrī Śrī Rādhā-Madana-mohan, I am a helpless cripple and my meagre intelligence is absorbed in the vile material sense objects. Kindly let deep devotional attachment arise for the exclusive wealth of my life which is Your lotus feet. May Your Lordships, who are so compassionate and affectionate, be forever victorious!
+Ak, Šrī Šrī Rādha-Madana-Mohan, es esmu bezpalīdzīgs kroplis! Mans vājais prāts ir piekalts pretīgajiem maņu apmierināšanas objektiem. Es lūdzu Jūs, apveltiet mani ar patiesu pieķeršanos manas dzīves nenovērtējamajai bagātībai – Jūsu lotosam līdzīgajām pēdām. Un lai Jūsu svētību, tik līdzcietīgu un mīlošu, vienmēr un visur pavada uzvara!
 
 
 > page = 19

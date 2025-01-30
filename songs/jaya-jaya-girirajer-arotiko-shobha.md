@@ -1,84 +1,83 @@
-# Śrī Śrī Girirāj-
-# Govardhan Ārati
+# Śrī Śrī Girirāj-Govardhan Ārati
 
-### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
+### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
 
 #### 1
 
     jaya jaya girirājer ārotiko śobhā
-    śrī-vraja-maṇḍala mājhe jaga mana lobhā
+    śrī-braja-maṇḍala mājhe jaga mana lobhā
 
-All glories to the beautiful ārati of Śrī Girirāj which is going on in Śrī Vraja Maṇḍal, attracting the minds of all living entities of the universe.
+Visa slava brīnišķīgajam Šrī Girirādža *āratī*, kurš norisinās Šrī Vrādža-*mandalā*. Šis *āratī* pievilina visas dzīvās būtnes Visumā!
 
 #### 2
 
     pramoda-madana-līla śrī-rādhā-ramaṇa
-    yathā nitya-līlā kore loye sakhī-gaṇa
+    jathā nitya-līlā kore loye sakhī-gaṇa
 
-Lord Śrī Rādha-Ramaṇa [Krishna who gives pleasure to his beloved Śrīmatī Rādhārāṇī] is eternally playing His joyful Loving Pastimes there in the association of the *Sakhīs* of Śrīmatī Rādhārāṇī.
+Kungs Rādha-Ramana (Krišna, kurš sagādā baudu savai mīļotajai Rādharānī) vienmēr šajā vietā vada savas priekpilnās mīlas rotaļas Šrīmatī Rādharānī *sakhī* (draudzeņu) sabiedrībā.
 
 #### 3
 
     mālatī-mādhavī-kuñja kandare kandare
     nigūḍha nikuñja-līla hari manohare
 
-Here deep within the groves of *mālatī* flowers and *mādhavī* creepers, the confidential Pastimes of the charming Lord Hari are going on.
+Šeit, *mālatī* ziedu un *mādhavī* liānu audzēs, norisinās brīnišķīgā Kunga Harī slepenās rotaļas.
 
 #### 4
 
     śyāma-kuṇḍa rādhā-kuṇḍa kusum sarovara
     mānasa gaṅgā dāna-ghāṭī jāra abhyantara
 
-Within this holy place are Śyāma Kuṇḍa, Rādhā Kuṇḍa, Kusum Sarovar, Mānasa Gaṅgā and Dāna-ghāṭī.
+Šeit atrodas Šjāma-*kunda*, Rādha-*kunda*, Kusum Sarovārs, Mānasa Ganga un Dāna-ghatī.
 
 #### 5
 
     śrī-govinda-kuṇḍa līlāsthalī nāhi sīmā
     divāniśi-bhakta-vṛnda kore parikramā
 
-With Śrī Govinda Kuṇḍa, these holy places of divine Pastimes are without limit. Day and night the devotees are performing circumambulation in worship.
+Kopā ar Šrī Govinda-*kundu*, šīs svētās dievišķo rotaļu vietas ir bezgalīgas. Dienu un nakti bhaktas pielūgsmē tās apstaigā.
 
 #### 6
 
     ‘śrīdhar-svāmī-sevāśram’ parama śobhana
-    yathā nitya-sevā kore sārasvata-gaṇa
+    jathā nitya-sevā kore sārasvata-gaṇa
 
-Here there is the supremely beautiful Śrīdhar Swāmī Sevāśram where devotees of Śrī Chaitanya Sāraswat Maṭh are performing their eternal service.
+Šeit atrodas neiedomājami skaistais Šrīdhāra Svāmī sēva-*ašrams*, kur kalpo Šrī Čaitanja Sarasvat Matha bhaktas.
 
 #### 7
 
     abhinna śrī kṛṣṇa jñāne bhajibāra tore
     mahāprabhu samarpilā raghunātha kore
 
-Śrīman Mahāprabhu gave Śrī Śrī Girirāj Jīu to Śrī Raghunāth Goswāmī so that Śrī Dās Goswāmī could worship His Lordship knowing Him to be non-different from Krishna.
+Šrīmans Mahāprabhū dāvāja Šrī Raghunātham Gosvāmī Šrī Šrī Girirādžu-džiu, lai Šrī Dāsa Gosvāmī varētu pielūgt Šrī Girirādžu zinot, ka Viņš nav atšķirams no Kunga Krišnas.
 
 #### 8
 
     gosvāmī śrī-raghunātha dāsere smariyā
     nirantara sevā kore antarmanā hoiyā
 
-The devotees of Śrī Chaitanya Sāraswat Maṭh worship Śrī Śrī Girirāj Jīu in a deep mood of devotion in remembrance of Śrī Raghunāth Dās Goswāmī.
+Šrī Čaitanja Sarasvat Matha *bhaktas* pielūdz Šrī Šrī Girirādžu-džiu dziļā garīgas kalpošanas noskaņojumā un vienmēr atceras Šrī Raghunāthu Dāsu Gosvāmī.
 
 #### 9
 
     jaya giri-govardhana divya-rasāloy
     rūpa-sanātana-jīva-raghunāthāśroy
 
-All glories to Śrī Giri Govardhan which is the abode of divine rasa and the shelter of Śrī Rūpa, Sanātan, Jīva and Raghunāth Goswāmīs.
+Visa slava Šrī Giri Govardhānam, kur mīt dievišķā rasa un kurā patvērumu raduši Šrī Rūpa, Sanātana, Džīva un Raghunātha Gosvāmī!
 
 #### 10
 
     surendra-munīndra-śiva-śuka-mahājana
     dekhena ārati-śobhā durllabha-darśana
 
-The beauty of the ārati of Śrī Girirāj Jīu which is rare and precious is being seen by Lord Indra, Nārada Muni, Lord Shiva, Śukadeva Goswāmī and all the great personalities.
+Šrī Girirādža-džiu *āratī* reto un nenovērtējamo skaistumu vēro kungs Indra, Nārada Munī, kungs Šiva, Šukadēva Gosvāmī un visas izcilās personības!
 
 #### 11
 
     sevya o sevaka-rūpe nitya parakāśa
     sānande ārati dekhe e adhama dāsa
 
-Śrī Śrī Girirāj Jīu is eternally manifested as both the worshipable Lord and the servitor Lord. This fallen servant sees the *ārati* of Śrī Girirāj Jīu with great ecstasy.
+Šrī Šrī Girirādža-džiu mūžam pauž sevi kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps sajūsmā vēro Šrī Girirādža-džiu *āratī*!
 
 
-> page = 38
+> page = 34
