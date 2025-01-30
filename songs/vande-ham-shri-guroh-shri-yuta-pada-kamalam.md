@@ -2,8 +2,8 @@
 
     vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
         śrī-gurūn vaiṣṇavāṁś cha
-    śrī-rūpaṁ sāgrajātaṁ saha-
-        gaṇaraghunāthānvitaṁ taṁ sa-jīvam
+    śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-
+        raghunāthānvitaṁ taṁ sa-jīvam
     sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ
         kṛṣṇa-chaitanya-devaṁ
     śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-

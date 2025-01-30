@@ -21,7 +21,7 @@ Apslēptais Govardhans grezni rotā Koladvīpu. Tagad tas ir izpaudis savu vienr
     mālatī-mādhavī-kuñja kandare kandare
     nigūḍha-nikuñja-līlā hari-manohare
 
-Tur, mālatī un mādhavī ziedu audzēs, Kungs Harī bauda savas slepenās, valdzinošās rotaļas.
+Tur, *mālatī* un *mādhavī* ziedu audzēs, Kungs Harī bauda savas slepenās, valdzinošās rotaļas.
 
 #### 4
 

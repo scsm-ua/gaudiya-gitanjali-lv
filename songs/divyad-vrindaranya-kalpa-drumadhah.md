@@ -1,6 +1,6 @@
 # Šrī-Šrī-Guru-Gauranga-Gandharva-Govindasundardži
 
-### Navadvīpa, Šrī Čaitanja Sarasvat Maths
+## Navadvīpa, Šrī Čaitanja Sarasvat Maths
 
     dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
         śrīmad-ratnāgāra-siṁhāsana-sthau
