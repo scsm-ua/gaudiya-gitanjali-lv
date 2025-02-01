@@ -1,5 +1,5 @@
 
-### Intro
+### Vandana
 
 - [Vandana](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
 - [Praṇām Mantra to Šrīla Bhakti Bimal Avadhūts Mahārādža](songs/vande-vaikuntha-vritti-stham.md)
@@ -21,7 +21,7 @@
 - [Harē Krišna mahā-mantra](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [Daśa-vidha Nāmāparādha](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
 
-### Morning Songs
+### Rīta dziesmas
 
 - [Gupta Govardhana Āratī](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [Śrī Śrī Girirāj-Govardhan Ārati](songs/jaya-jaya-girirajer-arotiko-shobha.md)
