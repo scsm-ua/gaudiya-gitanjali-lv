@@ -1,16 +1,6 @@
 
 ### Vandana
 
-
-
-
-
-
-
-
-
-
-
 - [Vandana](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
 - [Pranām Mantra Šrīlam Bhakti Bimal Avadhūtam Mahārādžam](songs/vande-vaikuntha-vritti-stham.md)
 - [Pranām Mantra Šrīlam Bhakti Sudhīr Gosvāmī Mahārādžam](songs/goswaminam-sudhirakhyam.md)
