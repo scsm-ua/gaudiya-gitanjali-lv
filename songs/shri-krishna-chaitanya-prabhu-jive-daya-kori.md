@@ -1,6 +1,4 @@
-# Śaraṇāgati
-
-## Labvēlīgs aicinājums
+# Śaraṇāgati – labvēlīgs aicinājums
 
 ### Šrīla Bhaktivinoda Thākurs
 
