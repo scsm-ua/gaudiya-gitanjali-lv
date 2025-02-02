@@ -1,79 +1,76 @@
-# Nām-saṅkīrtan
+# Nāma-Saṅkīrttan
 
-### by Śrīla Narottam Dās Ṭhākur
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 
-    hari haraye namaḥ kṛṣṇa yādavāya namaḥ
-    yādavāya mādhavāya keśavāya namaḥ
+    hari haraye namaḥ kṛṣṇa jādavāya namaḥ
+    jādavāya mādhavāya keśavāya namaḥ
 
-O Lord Hari, O Lord Krishna, I offer my obeisances to You, who are known as Yādava, Hari, Mādhava, and Keśava.
+Ak, Kungs Harī, Kungs Krišna, es klanos Tavā priekšā, Tevi zina kā Jādavu, Harī, Mādhavu un Kēšavu!
 
 #### 2
 
-    gopāla govinda rāma śrī madhusūdana
+    gopāla govinda rām śrī madhusūdana
     giridhārī gopīnātha madana-mohana
 
-O Gopāla, Govinda, Rāma, Śrī Madhusūdan, Giridhārī, Gopīnāth, Madana-mohan!
+Ak, Gopal, Govinda, Rāma, Šrī Madhūsudana, Girīdharī, Gopinath, Mādana-mohan!
 
 #### 3
 
     śrī-chaitanya nityānanda śrī advaita-chandra
     gadādhara śrīvāsādi gaura-bhakta-vṛnda
 
-All glories to Śrī Chaitanya and Nityānanda. All glories to the moonlike Śrī Advaita Āchārya. All glories to Śrī Gadādhara Paṇḍit and all the devotees of Śrī Chaitanya headed by Śrīvās Ṭhākur.
+Visa slava Šrī Čaitanjam Mahāprabhū un Nitjānandam Prabhū! Visa slava Mēnesim līdzīgajam Šrī Advaitam Āčārjam! Visa slava Šrī Gadādhāram Panditam un visiem Šrī Čaitanjas bhaktām ar Šrīvāsu Thākuru priekšgalā!
 
 #### 4
 
     jaya rūpa sanātana bhaṭṭa raghunātha
     śrī-jīva-gopāla-bhaṭṭa dāsa raghunātha
 
-Allgloriesto Śrī Rūpa Goswāmī, Sanātan Goswāmī, Raghunāth Bhaṭṭa Goswāmī, Śrī Jīva Goswāmī, Gopāla Bhaṭṭa Goswāmī, and Raghunāth Dās Goswāmī.
+Visa slava Šrī Rūpam Gosvāmī, Sanātanam Gosvāmī, Raghunātham Bhattam Gosvāmī, Šrī Džīvam Gosvāmī, Gopālam Bhattam Gosvāmī un Raghunātham Dāsam Gosvāmī!
 
 #### 5
 
     ei choy gosāir kori charaṇa vandana
     jāhā hoite bighna-nāś abhīṣṭa pūraṇa
 
-I offer my obeisances to the Six Goswāmīs. By offering them my obeisances all obstacles to devotion are destroyed and all spiritual desires are fulfilled.
+Es klanos sešu Vrindāvanas Gosvāmī priekšā! Klanoties viņiem, visi garīgas kalpošanas ceļā esošie šķēršļi tiek iznīcināti un visas garīgās vēlēšanās piepildās!
 
 #### 6
 
     ei choy gosāir jā̐ra mu̐i tā̐ra dāsa
     tā̐-sabāra pada-reṇu mora pañcha-grāsa
 
-I am a servant of that person who is a servant of these six Goswāmīs. The dust of their holy feet is my five kinds of foodstuffs.
+Es kalpoju tam, kurš kalpo Gosvāmī. Putekļi no viņu svētajām pēdām ir pieci mana ēdiena veidi.
 
 #### 7
 
-    tā̐dera charaṇa sebi bhakta sane vāsa
+    tā̐dera charaṇa sebi bhakta sane bāsa
     janame janame mora ei abhilāṣa
 
-This is my desire, that birth after birth I may live with those devotees who serve the lotus feet of these six Goswāmīs.
+Šāda ir mana vēlēšanās – lai dzimšanu pēc dzimšanas es dzīvotu tādu bhaktu sabiedrībā, kuri kalpo sešu Gosvāmī lotosam līdzīgajām pēdām!
 
 #### 8
 
-    ei choy gosāi jabe vraje koilā vāsa
+    ei choy gosāi jabe braje koilā bāsa
     rādhā-kṛṣṇa-nitya-līlā korilā prakāśa
 
-When these six Goswāmīs lived in Vraja they revealed and explained the eternal Pastimes of Rādhā and Krishna.
+Kad šie Gosvāmī dzīvoja Vradžā, viņi atklāja un skaidroja Šrī Rādhas un Šrī Krišnas mūžīgās rotaļas!
 
 #### 9
 
     ānande bolo hari bhaja vṛndāvana
     śrī-guru-vaiṣṇava-pade majāiyā mana
 
-Absorbing your mind in meditation upon the divine feet of the Spiritual Master and the holy Vaiṣṇavas, chant the names of Lord Hari in ecstasy, and worship the transcendental realm of Vṛndāvan.
+Domājot par garīgā skolotāja un svēto Vaišnavu dievišķajām pēdām, dziediet ekstāzē Kunga Harī vārdus un pielūdziet Vrindāvanas transcendentālo pasauli!
 
 #### 10
 
     śrī-guru-vaiṣṇava-pāda-padma kori āśa
-    (hari) nāma-saṅkīrtana kohe narottama dāsa
+    (hari) nāma-saṅkīrttana kohe narottama dāsa
 
-Desiring the lotus feet of Śrī Guru and the Vaiṣṇavas, Narottam Dās sings the *saṅkīrtan* of the Holy Name.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-nama-sankirttan-hari-haraye-namah-krishna)
+Vēloties gūt Šrī Guru un Vaišnavu lotosam līdzīgo pēdu patvērumu, Narottams Dāsa dzied Svētā Vārda sankirtanu - Svētā Vārda slavu!
 
 
-> page = 66
+> page = 55

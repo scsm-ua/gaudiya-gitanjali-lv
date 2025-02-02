@@ -1,33 +1,33 @@
 # Śrī Śrī Gurvāṣṭaka
 
-### by Śrīla Viśvanāth Chakravartī Ṭhākur
+### Šrīla Višvanāths Čakravartī Thākurs
 
 #### 1
 
-    saṁsāra-dāvānala-līḍha-loka-
+    saṁsāra-dāvānala-līḍha-loka
     trāṇāya kāruṇya-ghanāghanatvam
     prāptasya kalyāṇa-guṇārṇavasya
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master, who is the ocean of auspicious qualities. Just to deliver all planes of life that are suffering in the forest fire of the material world, he, as the rain-cloud of mercy, melts to shower down the waters of compassion.
+Es pielūdzu garīgā skolotāja, labvēlīgu īpašību okeāna, lotosam līdzīgās pēdas! Lai glābtu visas dzīvas būtnes – gan cienīgas, gan necienīgas, kuras cieš šīs materiālās pasaules ugunī, viņš lej savas līdzcietības straumes un tādējādi līdzinās lietus mākonim!
 
 #### 2
 
-    mahāprabhoḥ kīrtana-nṛtya-gīta-
+    mahāprabhoḥ kīrttana-nṛtya-gīta
     vāditra-mādyan-manaso rasena
     romāñcha-kampāśru-taraṅga-bhājo
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master, whose heart is maddened in nectarean love for Śrīman Mahāprabhu by the grand congregational chanting of the Holy Name. Dancing, singing, and playing the khol and karatāls,etc.; his body thrills with joy, trembles, and waves of tears flow from his eyes.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņa sirds ir neprātīga no mīlestības nektāra uz Šrīmānu Mahāprabhū kopīgi dziedot Svēto Vārdu! Kad viņš, spēlējot kholu vai karatālas, dejo un dzied, viņa ķermenis laimē trīc un no viņa acīm plūst asaru straumes.
 
 #### 3
 
     śrī-vigrahārādhana-nitya-nānā-
-    śṛṅgāra-tan-mandira-mārjanādau
+    śrṅgāra-tan-mandira-mārjanādau
     yuktasya bhaktāṁś cha niyuñjato ’pi
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master, who personally engages in many types of worshipful services such as dressing the deity and cleansing the Lord’s holy temple, and similarly engages the devotees (in his retinue).
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņš ir aizņemts dažādos garīgas kalpošanas veidos, tādos kā Dievību ģērbšana un Kunga svētā tempļa tīrīšana; līdzīgos veidos viņš iesaista kalpošanā arī citus *bhaktas*.
 
 #### 4
 
@@ -36,7 +36,7 @@ I worship the lotus feet of the Divine Master, who personally engages in many ty
     kṛtvaiva tṛptiṁ bhajataḥ sadaiva
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master, who fully satisfies the devotees of Śrī Krishna with four types of nectarean prasādam foodstuffs that are chewed, sucked, licked, and drunk (that is, he brings about the dispellation of mundanity and the awakening of the joy of love that develops from respecting *prasādam*), and he is thereby himself satisfied.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņš dāvā Šrī Krišnas *bhaktām* četru veidu nektāra *prasādu* (kuru košļā, sūkā, laiza un dzer). Pateicoties tam, pasaulīgais valdzinājums nobāl un mostas slāpes pēc garīgas mīlestības! Kad viņš redz, kā *bhaktas* bauda *prasādu*, viņa sirds piepildās ar prieku!
 
 #### 5
 
@@ -45,7 +45,7 @@ I worship the lotus feet of the Divine Master, who fully satisfies the devotees 
     prati-kṣaṇāsvādana-lolupasya
     vande guroḥ śrī-charaṇaravindam
 
-I worship the lotus feet of the Divine Master, whose heart is insatiably desirous of tasting the infinite Holy Names, Forms, Qualities and Pastimes of Śrī Rādhā-Mādhava that are full of the sweetness of love divine.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņa sirds neremdināmi slāpst pēc Šrī Šrī Rādha-Mādhavas Svētā Vārda, veidola, īpašībām un ar dievišķo mīlestību pārpildīto rotaļu saldās garšas nektāra!
 
 #### 6
 
@@ -54,7 +54,7 @@ I worship the lotus feet of the Divine Master, whose heart is insatiably desirou
     tatrāti-dākṣyād ati-vallabhasya
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master, who is extremely dear to the Supreme Divine Couple who sport in the groves of Vraja, because he is greatly expert in those appropriate engagements that are performed by the *sakhīs* in order to serve the amorous Pastimes of the Divine Couple.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņš ir bezgalīgi dārgs Dievišķajam Pārim, kurš rotaļājas Vradžas birzīs! Viņš pārzina visu, ko dara *sakhī*, lai apkalpotu Dievišķā Pāra mīlas rotaļas.
 
 #### 7
 
@@ -63,28 +63,25 @@ I worship the lotus feet of the Divine Master, who is extremely dear to the Supr
     kintu prabhor yaḥ priya eva tasya
     vande guroḥ śrī-charaṇāravindam
 
-I worship the lotus feet of the Divine Master (who is the simultaneously inconceivably distinct and nondistinct manifest embodiment of the Supreme Personality of Godhead): all the Scriptures sing the glories of his being the direct non-different form of the Supreme Lord Śrī Hari, and the pure saints also concede this; yet, he is the most beloved of the Lord.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Neaptveramā veidā viņš vienlaicīgi ir atšķirams un neatšķirams no Visaugstā! Visi svētie Raksti slavē viņu kā neatšķiramu no Visaugstā Kunga Šrī Harī, un to atzīst arī realizētas dvēseles un svētie. Tajā pašā laikā viņu visvairāk mīl arī pats Kungs!
 
 #### 8
 
     yasya prasādād bhagavat-prasādo
     yasyāprasādāt na gatiḥ kuto ’pi
     dhyayaṁ stuvaṁs tasya yaśas tri-sandhyaṁ
-    vande guroḥ śrī-charaṇaravindam
+    vande guroḥ śrī-charaṇaravindam 
 
-I worship the lotus feet of the Divine Master, ever singing his glories and meditating upon him at the three junctions of the day. By his grace alone one gains the grace of the Lord, and if he is displeased the soul has no shelter anywhere.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas, vienmēr slavējot viņu un domājot par viņu – rītā, dienā un vakarā! Tikai pateicoties viņa žēlsirdībai var iegūt Kunga žēlastību! Ja viņš ir neapmierināts ar kādu, tam nelaimīgajam vairs nerast patvērumu nekur!
 
 #### 9
 
     śrīmad guroraṣṭakam etad uchair
     brāhme muhūrte paṭhati prayātnāt
-    yas tena vṛndāvana-nātha-sākṣāt-
+    yas tena vṛndāvana-nātha-sākṣāt
     sevaiva labhyā januṣo ’nta eva
 
-One who, during the Brāhma-muhūrta (nintysix minutes before sunrise) with meticulous regularity wholeheartedly sings these eight prayers to the Divine Master, attains, upon leaving the body in his spiritual perfection, the qualification to engage in the direct service of the Lord of Vṛndāvan.
+Tas, kurš ar tīru sirdi dzied šīs astoņas lūgšanas garīgajam skolotājam *brahma-muhurtā* (deviņdesmit sešas minūtes pirms saules lēkta), varēs kalpot Vrindāvanas Valdniekam!
 
 
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-sri-gurvvashtakam-samsara-davanala-lidha-loka)
-
-
-> page = 56
+> page = 48

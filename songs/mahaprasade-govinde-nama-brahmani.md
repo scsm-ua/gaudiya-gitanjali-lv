@@ -3,7 +3,7 @@
     mahāprasāde govinde nāma brahmaṇi vaiṣṇave
     svalpa pūṇya vatāṁ rājan viśvāso naiva jāyate
 
-For those who have not amassed sufficient pious credits they will never be able to honour Mahāprasāda, Lord Govinda, the Holy Name, the *brāhmaṇs* and the Vaiṣṇavas.
+Tie, kam nav pietiekošu  garīgās tikumības uzkrājumu, nevarēs godāt *mahāprasādu*, Kungu Govindu, Kunga Svēto Vārdu un Vaišnavus.
 
 
-> page = 72
+> page = 62

@@ -1,75 +1,57 @@
-# Auspicious Invocation
-# to Śaraṇāgati
+# Śaraṇāgati
 
-### by Śrīla Bhakti Vinod Ṭhākur
+## Labvēlīgs aicinājums
+
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
-    śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
+    śrī-kṛṣṇa-chaitanya prabhu jīve doyā kori’
     svapārṣada svīya dhāma saha avatari
 
-Lord Śrī Krishna Chaitanya,\
-&nbsp;&nbsp;&nbsp;&nbsp;Being gracious upon the *jīva*-souls,\
-Along with Your associates and abode\
-&nbsp;&nbsp;&nbsp;&nbsp;You descended to this world
+Kungs Šrī Krišna Čaitanja, žēlsirdīgs pret dvēselēm, kopā ar saviem pavadoņiem un mājvietu tu nolaidies šajā pasaulē.
 
 #### 2
 
-    atyanta durlabha prema koribāre dāna
-    śikhāya saraṇāgati bhakatera prāṇa
+    antyanta durlabha prema koribāre dāna
+    śikhāya śaraṇāgati bhakatera prāṇa
 
-To distribute freely\
-&nbsp;&nbsp;&nbsp;&nbsp;the love divine most rare;\
-By teaching exclusive surrender,\
-&nbsp;&nbsp;&nbsp;&nbsp;the life and soul of the devotee
+Tu atnāci, lai dāsni dāvātu tik reto dievišķo mīlestību, sludinot nedalītu pašatdevi, bhaktu dzīves pašu būtību.
 
 #### 3
 
     dainya, ātmanivedana, goptṛtve varaṇa
     ‘avaśya rakṣibe kṛṣṇa’—viśvāsa pālana
 
-Humility, self-giving,\
-&nbsp;&nbsp;&nbsp;&nbsp;Embracing His guardianship,\
-‘Krishna will certainly protect me’ —\
-&nbsp;&nbsp;&nbsp;&nbsp;Maintaining this faith.
+Pazemība, pašatdeve, sevis atdošana Dieva gribai, “Krišna mani noteikti pasargās” – šādas ticības uzturēšana.
 
 #### 4
 
     bhakti-anukūla mātra kārjera svīkāra
-    bhakti-pratikūla bhāva—varjanāṅgīkāra
+    bhakti-pratikūla bhāva—varjjanāṅgīkāra
 
-Acceptance of all activities\
-&nbsp;&nbsp;&nbsp;&nbsp;favourable to devotion;\
-Embracing rejection of\
-&nbsp;&nbsp;&nbsp;&nbsp;adversity to devotion.
+Kalpošanai labvēlīgas darbības pieņemšana un nelabvēlīgas – noraidīšana.
 
 #### 5
 
     ṣaḍ-aṅga śaraṇāgati hoibe jā̐hāra
     tā̐hāra prārthanā śune śrī-nandakumāra
 
-Those who surrender in this sixfold way —\
-Their prayer will be heard\
-&nbsp;&nbsp;&nbsp;&nbsp;by the divine son of Nanda.
+To lūgšanas, kuri sniedz sevi Dievam šajos sešos veidos, nešaubīgi tiks Nandas dēla sadzirdētas!
 
 #### 6
 
     rūpa-sanātana-pade dante tṛṇa kori’
     bhakativinoda poḍe dui pada dhori’
 
-Taking in his mouth a straw, falling\
-&nbsp;&nbsp;&nbsp;&nbsp;at the lotus feet of Śrī Rūpa-Sanātan;\
-Śrī Bhakti Vinod clasps their holy lotus feet.
+Saspiežot zobos zāles stiebriņu un krītot pie Šrī Rūpas un Šrī Sanātanas pēdām, Šrī Bhaktivinoda pazemīgi apskauj viņu svētās, lotosam līdzīgās pēdas.
 
 #### 7
 
     kā̐diyā kā̐diyā bole, āmi to’ adhama
-    śikhāye śaraṇāgati karahe uttama
+    śikhāye śaraṇāgati korohe uttama
 
-Weeping, weeping, I implore thee,\
-&nbsp;&nbsp;&nbsp;&nbsp;‘O I am afallen!\
-Please teach me to surrender,\
-&nbsp;&nbsp;&nbsp;&nbsp;teach me pure devotion.’
+Raudot, lejot asaras, es vēršos pie viņiem: “Es esmu pats kritušākais! Lūdzu, māciet man pašatdevi, māciet man tīru kalpošanu!”
 
 
-> page = 58
+> page = 50
