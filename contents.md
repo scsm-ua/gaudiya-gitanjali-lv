@@ -31,10 +31,10 @@
 - [Aruṇodoya-kīrtan 1](songs/udilo-aruna-puraba-bhage.md)
 - [Aruṇodoya-kīrtan 2](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
 - [Śrī Śrī Gurvāṣṭaka](songs/samsara-davanala-lidha-loka.md)
-- [Auspicious Invocation to Śaraṇāgati](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
+- [Śaraṇāgati](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
 - [Vibhāvarī Śeṣa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [Ṭhākura-vaiṣṇava-gaṇa](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
-- [Nām-saṅkīrtan](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
+- [Nāma-Saṅkīrttan](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
 
 ### Midday Songs
 
