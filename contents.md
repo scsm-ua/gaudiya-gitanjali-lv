@@ -21,7 +21,7 @@
 - [Hare Krishna mahāmantra](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [Daśa-vidha Nāmāparādha](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
 
-### Dienas dziesmas
+### Rīta dziesmas
 
 - [Śrī Govinda Kuṇḍa Gupta-Govardhan Ārati](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [Śrī Śrī Girirāj-Govardhan Ārati](songs/jaya-jaya-girirajer-arotiko-shobha.md)
@@ -36,6 +36,6 @@
 - [Ṭhākura-vaiṣṇava-gaṇa](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
 - [Nāma-Saṅkīrttan](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
 
-### Midday Songs
+### Dienas dziesmas
 
 - [Mahāprasāda](songs/mahaprasade-govinde-nama-brahmani.md)
