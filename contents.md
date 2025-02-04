@@ -21,7 +21,7 @@
 - [Hare Krishna mahāmantra](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [Daśa-vidha Nāmāparādha](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
 
-### Morning Songs
+### Dienas dziesmas
 
 - [Śrī Govinda Kuṇḍa Gupta-Govardhan Ārati](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [Śrī Śrī Girirāj-Govardhan Ārati](songs/jaya-jaya-girirajer-arotiko-shobha.md)
