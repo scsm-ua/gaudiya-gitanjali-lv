@@ -6,7 +6,7 @@
 
 #### 1
 
-    jaya guru mahārāja koruṇā-sāgara
+    jaya guru mahārāja karuṇā-sāgara
     śrī bhakti rakṣaka deva-gosvāmī śrīdhara
 
 Visa slava Šrīlam Guru Mahārādžam, Šrīlam Bhakti Rakšak Šrīdhāram Dēv-Gosvāmī Mahārādžam, kurš līdzinās žēlsirdības okeānam!
@@ -35,7 +35,7 @@ Abi Kungi, līdzīgi tīram zeltam, spoži mirdz, un Viņu kaklus rotā brīniš
 #### 5
 
     murachita koṭikāma rūparāsaraṅge
-    madhura narttana-bhāva varābhaya bhaṅge
+    madhura nartana-bhāva varābhaya bhaṅge
 
 Miljoni kupidonu krīt bez samaņas pie dievišķajām Viņu Svētību pēdām lūkojoties uz Viņu skaistumu. Viņu dievišķās figūras rotaļīgi šūpojas dejas ritmā! Viņi dejo aizskarot katru sirdi un lejot žēlsirdību pār nebrīvām dvēselēm.
 

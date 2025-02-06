@@ -21,7 +21,7 @@ Kungs Gauranga sauc: “Mostieties, guļošās dvēseles! Mostieties, guļošās
 #### 3
 
     tomāre loite āmi hoinu avatāra
-    āmi binā bandhu āra ke āche tomāra
+    āmi vinā bandhu āra ke āche tomāra
 
 “Esmu nolaidies pie jums vienīgi, lai glābtu jūs! Vai jums ir kāds cits draugs, izņemot Mani?”
 

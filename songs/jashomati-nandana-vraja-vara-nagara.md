@@ -4,7 +4,7 @@
 
 #### 1
 
-    jaśomatī-nandana    braja-baro nāgara,
+    jaśomatī-nandana    vraja-vara nāgara,
         gokula-rañjana kāna
     gopī-parāṇa-dhana    madana manohara,
         kālīya-damana-vidhāna
@@ -21,7 +21,7 @@ Krišnas Svētie Vārdi ir nevainojami tīri, tie ir saldas garšas un skaistuma
 
 #### 3
 
-    braja-jana-pālana    asura-kula-nāśana,
+    vraja-jana-pālana    asura-kula-nāśana,
         nanda-godhana rākhoyālā
     govinda mādhava    navanīta-taṣkara, 
         sundara nanda-gopālā
@@ -30,7 +30,7 @@ Krišna pasargā visus Vrindāvanas mežu iemītniekus un uzvar dēmonus. Viņš
 
 #### 4
 
-    jamunā-taṭa-chara    gopī-basana-hara,
+    yamunā-taṭa-chara    gopī-basana-hara,
         rāsa-rasika kṛpāmoya
     śrī-rādhā-vallabha    vṛndāvana-naṭabara,
         bhakativinod-āśraya

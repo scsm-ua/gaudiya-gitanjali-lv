@@ -1,11 +1,11 @@
 # Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
 
-    gurvvābhīṣṭa-supūrakaṁ guru-gaṇair
+    gurvābhīṣṭa-supūrakaṁ guru-gaṇair
         āśīṣa-saṁbhūṣitaṁ
     chintyāchintya-samasta-veda-nipuṇaṁ
         śrī-rūpa-panthānugam
     govindābhidham ujjvalaṁ vara-tanuṁ
-        bhakty anvitaṁ-sundaraṁ
+        bhakty anvitaṁ sundaraṁ
     vande viśva-guruñ cha divya-bhagavat-
         premṇo hi bīja-pradam
 
