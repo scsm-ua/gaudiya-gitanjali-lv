@@ -1,76 +1,77 @@
-# Gupta Govardhana Āratī
+# Śrī Govinda Kuṇḍa
+# Gupta-Govardhan Ārati
 
-### Šrīla Bhakti Sundars Govinda Dēv-Gosvāmī Mahārādža
+### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
 #### 1
 
     jaya jaya girirājer ārati viśāla
     śrī gaura-maṇḍala-mājhe bhuvana-maṅgala
 
-Visa slava krāšņajam Šrī Girirādža āratī! Tas norisinās Šrī Gaura-Mandalas vidū, nesot svētību visam Visumam!
+All glories, all glories, to the grand ārati of Śrī Girirāj! In the midst of Śrī Gaura Maṇḍal, it is benefitting the entire universe.
 
 #### 2
 
     koladvīpe śobhe gupta-govardhanarūpa
     vyakta hoilā śrī govinda kuṇḍe aparūpa
 
-Apslēptais Govardhans grezni rotā Koladvīpu. Tagad tas ir izpaudis savu vienreizējo skaistumu Šrī Govinda-kundā.
+The hidden Govardhan graces Koladwīp with its beauty. Now it has manifested its exquisite beauty in Śrī Govinda Kuṇḍa.
 
 #### 3
 
     mālatī-mādhavī-kuñja kandare kandare
     nigūḍha-nikuñja-līlā hari-manohare
 
-Tur, *mālatī* un *mādhavī* ziedu audzēs, Kungs Harī bauda savas slepenās, valdzinošās rotaļas.
+There are groves of *mālatī* and *mādhavī* flowers in its various caves. In these groves, Lord Hari plays His hidden, mysterious, and enchanting Pastimes.
 
 #### 4
 
     apūrva kuṇḍera śobhā jena sudhābhāṇḍa
     surendra-surabhī-sevā-saubhāgya-mārtaṇḍa
 
-Kundas nesalīdzināmais skaistums ir kā aromātisks medus. Kungs Indra un dievišķā govs Surabhī spožajos labvēlīgas veiksmes staros veic savu kalpošanu.
+The incomparable beauty of the Kuṇḍa is like a reservoir of honey. Even Lord Indra and the divine Surabhī cow are rendering their service under the shining sun of good fortune.
 
 #### 5
 
     śrī bhakti-rakṣaka deva-gosvāmī śrīdhara
     prakāśilā tava sevā dīpta manohara
 
-Šrīla Bhakti Rakšaks Šrīdhārs Dēv-Gosvāmī Mahārādža dāvā savu spožo un burvīgo garīgo kalpošanu uzticībā Tev.
+Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj has manifested the effulgent and enchanting devotional service to You.
 
 #### 6
 
     śrī chaitanya-sārasvata maṭha suśobhana
     yathā nitya sevā kore sārasvata-gaṇa
 
-Šrī Čaitanja Sarasvat Maths ir ļoti skaista vieta, kur Matha bhaktas vienmēr atrodas iekšējā garīgas kalpošanas noskaņojumā.
+Śrī Chaitanya Sāraswat Maṭh is a beautiful place where devotees of the Maṭh are always rendering their devotional service.
 
 #### 7
 
     gosvāmī śrī-raghunātha dāsere smariyā
     nirantara sevā kore antarmaṇā hoiyā
 
-Atceroties Šrī Raghunāthu Dāsu Gosvāmī, viņi kalpo, iegrimuši apcerīgā noskaņojumā.
+Remembering Śrī Raghunāth Dās Goswāmī, they are continuously serving in an introspective mood.
 
 #### 8
 
     jaya gupta-govardhana divya-rasāloy
     rūpa-raghunāthānuga-bhaktera āśroy
 
-Visa slava apslēptajam Govardhanam, transcendentālās rasas rezervuāram! Tas ir Šrī Rūpas un Šrī Raghunātha pēdās sekojošo bhaktu patvērums.
+All glories to the hidden Govardhan, which is a reservoir of transcendental rasa. It is the refuge of the devotees who are following in the footsteps of Śrī Rūpa and Śrī Raghunāth.
 
 #### 9
 
     kuliyā-prakāśa tava achintya-mahimā
     divāniśi bhakta-vṛnda kore parikramā
 
-Ar savu neizmērojamo slavu un augstsirdību Tu parādīji Kuliju (vietu, kur tiek piedoti visi apvainojumi). Dienu un nakti bhaktas te veic parikramu — apstaigā šo vietu garīgas kalpošanas noskaņojumā.
+By Your inconceivable glories and magnanimity, You have manifested Kuliyā (where all offences are forgiven). Day and night, the multitudes of devotees are circumambulating this place.
 
 #### 10
 
     sevya o sevaka-rūpe nitya parakāśa
-    sānande ārati dekhe e adhama dāsa 
+    sānande ārati dekhe e adhama dāsa
 
-Mūžam Tu sevi izpaud kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps redz tavu āratī un izjūt milzīgu prieku!
+You are eternally manifested both as the worshipable Lord and as the servitor Lord. This fallen servant sees Your ārati with great joy.
 
 
-> page = 32
+> page = 36

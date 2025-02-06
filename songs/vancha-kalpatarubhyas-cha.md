@@ -5,21 +5,21 @@
     patitānāṁ pāvanebhyo
         vaiṣṇavebhyo namo namaḥ
 
-Cieņpilns es klanos pie dižo Vaišnavu svētajām pēdām. Viņi, līdzīgi vēlmju kokiem, ir spējīgi piepildīt visas Kunga bhaktu vēlēšanās. Viņus var salīdzināt ar bezgalīgiem bez iemesla dāvātas žēlsirdības okeāniem, jo viņi glābj no pasaulīgajām ciešanām kritušas dvēseles. Es izsaku viņiem savu visdziļāko cieņu.
+I bow down unto the holy feet of the pure Vaiṣṇavas, who are like desire trees able to fulfil all the devotees’ aspirations. The Lord’s devotees are comparable to a vast ocean of causeless mercy, as they deliver the fallen souls from material existence. I offer all respects unto them.
 
     pañcha-tattvātmakaṁ kṛṣṇaṁ
         bhakta-rūpa-svarūpakam
     bhaktāvatāraṁ bhaktākhyaṁ
         namāmi bhakta-śaktikam
 
-Es cieņpilni klanos Kungam Krišnam viņa piecos aspektos, pazīstamos kā Panča-tattva. Es godāju Šrī Gaurangadēvu, kurš nācis šajā pasaulē kā Kunga bhakta, baudot Sevis Paša mūžīgo saldumu. Es klanos Kunga Nitjānandas Prabhū priekšā. Viņš nav atšķirams no Šrī Gaurangas un vienlaicīgi ir viņa vecākais brālis. Es izsaku cieņu dižajam Šrī Advaitam Prabhū, bhakti iemiesojumam, un mūžīgajiem Kunga pavadoņiem, tādiem kā Šrīvass Pandits, jo viņi mīloši kalpo Dievam. Es cieņpilni krītu pie to bhaktu pēdām, kuri savās rokās tur patiesu pilnīgas garīgas pašatdeves spēku: Šrī Rāmānanda Rāja, Šrī Gadādhara Pandits un Šrī Svarūpa Damodāra. 
+I offer my obeisances unto Lord Krishna in His fivefold aspect known as the pañcha-tattva: I offer my respects unto Śrī Gaurāṅgadev, who appears as a devotee of the Lord relishing His own internal mellows. Furthermore I bow down before Lord Nityānanda Prabhu, who is the self-same form and elder brother of Śrī Gaurāṅga. Next, I pay homage unto that great personality Śrī Advaita Prabhu, who is an incarnation of the Lord’s devotee, and unto the Lord’s eternal associates like Śrīvās Paṇḍit, who serve the Lord in loving devotional relationships. Finally, I bow down at the feet of those devotees who hold the actual potency of unalloyed dedication in their hands: Śrī Rāmānanda Rāya, Śrī Gadādhara Paṇḍit, and Śrī Swarūp Dāmodar.
 
     namo mahā-vadānyāya
         kṛṣṇa-prema-pradāya te
     kṛṣṇāya kṛṣṇa-chaitanya-
         nāmne gaura-tviṣe namaḥ
 
-Es klanos Kunga Gaurangas priekšā, kura dievišķais tēls mirdz zelta staros un kuram piemīt visžēlsirdīgākā Dieva iemiesojuma īpašības. Viņa garīgās rotaļas katram dāsni dāvā tīru mīlestību uz Kungu Krišnu. Viņš nav neviens cits kā pats Šrī Krišna, pazīstams Kalī laikmetā kā Šrī Krišna Čaitanja.
+I offer my obeisances unto Lord Gaurāṅga, whose divine complexion is a radiant golden hue and who possesses the qualities of the most benevolent incarnation. His spiritual Pastimes freely grant pure love for Lord Krishna to all. He is none other than Lord Krishna known in the age of Kali as Śrī Krishna Chaitanya.
 
 
 > page = 19

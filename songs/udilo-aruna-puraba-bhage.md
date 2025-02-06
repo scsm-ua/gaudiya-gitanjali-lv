@@ -11,7 +11,7 @@
     bhakata-samūha loiyā sāthe,
     gelā nagara-brāje
     
-Pirms pašas saules ausmas, kad debesis austrumos sāk sārtoties, Šrī Gauraharī, dārgakmens divreiz dzimušo vidū, mostas no miega. Kopā ar saviem bhaktām viņš uzsāk *kīrtanu*, apstaigājot pilsētas un ciemus.
+Pirms pašas saules ausmas, kad debesis austrumos sāk sārtoties, Šrī Gauraharī, dārgakmens divreiz dzimušo vidū, mostas no miega. Kopā ar saviem bhaktām viņš uzsāk kīrtanu, apstaigājot pilsētas un ciemus.
 
 #### 2
 

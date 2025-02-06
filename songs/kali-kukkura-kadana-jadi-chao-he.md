@@ -1,6 +1,6 @@
 # Prabhāti Gīti
 
-### Šrīla Bhaktivinoda Thākurs
+### by Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
@@ -8,7 +8,7 @@
     kaliyuga-pāvana    kali-bhaya-nāśana,
         śrī śachī-nandana gāo he
 
-Ak, mans prāts, tu līdzinies nožēlojamam Kalī laikmeta sunim! Ja tu alksti atbrīvošanu no tām briesmīgajām bailēm, kuras caurvij šo tumšo laikmetu, dziedi Šačī dēla Svēto Vārdu – jo Viņš ir glābējs!
+Oh mind, you are like a miserable dog of *Kali-yuga*! If you want deliverance, then sing the Holy Name of the son of Śachī, for He is the saviour and destroyer of fear in this dark age of Kali.
 
 #### 2
 
@@ -17,7 +17,7 @@ Ak, mans prāts, tu līdzinies nožēlojamam Kalī laikmeta sunim! Ja tu alksti 
     nimai viśvambhara    śrīnivāsa-īśvara,
         bhakata samūha-chitachorā
 
-Viņš ir Gadādharas transcendentālais kupidons, pati Nitjānandas Prabhū dzīvība un dvēsele, un Šrī Advaitas Āčārjas pielūgtais Kungs! Viņš ir pazīstams kā Nīmais, jo ir dzimis zem nīma koka; Višvambhara, jo Viņš ir Visuma uzturētājs; Viņš ir Šrīvas Thākura Kungs! Viņš nolaupa visu viņam veltījušos dvēseļu sirdis!
+He is the transcendental cupid of Gadādhara, the life and soul of Nityānanda Prabhu, and the worshipable Lord of Śrī Advaita Āchārya. He is known as Nimai as He was born under a Neem tree; Viśvambhara as He is the sustainer of the universe; He is the master of Śrīvās Ṭhākur, and He steals the hearts of all of the devotees.
 
 #### 3
 
@@ -26,7 +26,7 @@ Viņš ir Gadādharas transcendentālais kupidons, pati Nitjānandas Prabhū dz�
     gṛhījana-śikṣaka    nyāsikula-nāyaka,
         mādhava-rādhābhāva pūra
 
-Viņš ir Nādijas mēness, Majāpuras Kungs un augstsirdīgais glābējs! Viņš atklāja visiem Krišnas Svētā Vārda dziedāšanas slavu. Viņš ir mājsaimnieku skolotājs un *sannjāsī* virspavēlnieks. Šrī Čaitanja Mahāprabhū – tas ir Krišna, Rādharānī ekstātiskās mīlas jūtu pārpilns.
+He is the moon of Nadia, the Lord of Māyāpur, and heroic saviour who inaugurated the chanting of the Holy Name of Krishna. He is the teacher of all householders and the commander-in-chief of all *sannyāsīs*. Śrī Chaitanya Mahāprabhu is Krishna, filled with the ecstatic heart’s sentiment of Śrīmatī Rādhārāṇī.
 
 #### 4
 
@@ -35,16 +35,16 @@ Viņš ir Nādijas mēness, Majāpuras Kungs un augstsirdīgais glābējs! Viņ�
     rūpānanda-vardhana    sanātana pālana,
         haridāsa-modana-dhīra
 
-Viņš attīrīja Sarvabhauma Bhattāčārju un izglāba Prataparūdru Mahārādžu, vareno Orissas valdnieku. Viņš ir Rāmanānda Raja varonis un aizstāvis. Viņš ir Šrīlas Rūpas Gosvāmī vienmēr pieaugošās laimes avots un Šrīlas Sanātanas Gosvāmī sargātājs. Par Viņu jūsmo apdomīgais Haridāsa Thākurs.
+He purified Sārvabhauma Bhaṭṭāchārya and rescued Pratāparudra Maharaj, the great king of Orissa. He is the hero and protector of Rāmānanda Rāy. He increases the ecstasy of Śrīla Rūpa Goswāmī and He is the guardian of Śrīla Sanātan Goswāmī. He delights the sober Haridās Ṭhākur.
 
 #### 5
 
     vraja rasa-bhāvana duṣṭamata-śātana,
         kapaṭī-vighātana-kāma
-    śuddha bhakta-pālana    śuṣka jñāna-tāḍana,
+    śuddha bhakta-pālana śuṣka jñāna-tāḍana,
         cholo bhakti-dūṣaṇa-rāma
 
-Vrindāvanas maigā, saldā garša ir pilnībā pārņēmusi Šrī Krišnu Čaitanju. Šī saldā garša attīra prātu no netīrām domām, iznīcinot iekāri un maldus. Tā aizdzen sausas empīriskas zināšanas, kuras aizsedz skaistumu, kas piemīt nedalītai garīgai kalpošanai Dievam! Viņš aizstāv, balsta un nepagurstoši sargā sev pilnībā nodevušās dvēseles!
+Śrī Krishna Chaitanya is absorbed in the mellows of Vṛndāvan. He removes the filthy thoughts of the mind, destroying lust and deceit. He drives away dry empiric knowledge which obscures the beauty of pure devotion. He is the protector, maintainer and constant guardian of His pure devotees.
 
 
-> page = 38
+> page = 48

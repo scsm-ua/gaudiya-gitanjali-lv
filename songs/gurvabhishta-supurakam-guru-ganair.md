@@ -1,4 +1,4 @@
-# Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+# Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
     gurvābhīṣṭa-supūrakaṁ guru-gaṇair
         āśīṣa-saṁbhūṣitaṁ
@@ -9,7 +9,16 @@
     vande viśva-guruñ cha divya-bhagavat-
         premṇo hi bīja-pradam
 
-Ar lielāko cieņu es klanos tā priekšā, kuru rotā visas Guru-vargas svētības un kurš piepilda sava guru visslēptākās vēlēšanās. Viņš ir visu patiesību zintnieks – gan tveramo, gan netveramo. Izcils Šrī Rūpas dievišķās mācības sekotājs, viņš ir pazīstams kā Šrī Bhakti Sundar Govinda. Viņa mirdzošais tēls izstaro Krišna-bhakti. Viņš ir nācis no augstākās pasaules un šajā pasaulē ticis slavēts kā patiess garīgais skolotājs, spējīgs dāvāt Dievišķās Mīlestības sēklas. 
+“His Guru’s most cherished wishes, he’s truly fulfilling,\
+Adorned with his guru-varga’s affectionate blessing.\
+In knowledge both conceivable and inconceivable,\
+His expertise illumines the ontological whole.\
+He’s the foremost follower of Śrī Rūpa’s divine aim,\
+Śrī Bhakti Sundar Govinda is his celebrated name.\
+His beautiful figure stands out, clean, clear and effulgent,\
+Devotionally endowed with transcendent sentiment.\
+I worship him, the world-wide guru from high above,\
+The empowered bestower of the seed of Divine Love.”
 
 
-> page = 13
+> page = 12

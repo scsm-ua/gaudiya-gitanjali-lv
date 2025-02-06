@@ -7,6 +7,7 @@
     karṣan veṇu-svanair gopīr
         gopīnāthaḥ śriye ’stu naḥ
 
-Šrī Gopinātha, kurš dāvā garīgas kalpošanas garšu, stāv Jamūnas upes krastā vietā, kura pazīstama kā Vamšīvata. Uz šo vietu viņa flautas saldās skaņas vilina Vradža-dhāmas ganumeiteņu sirdis. Apburošais Kungs, atver mums savus labvēlīgos apskāvienus!
+Śrī Gopīnāth, who instigates the exchange of devotional mellows, is standing upon the banks of the Yamunā River at the special place known as Vaṁśīvaṭa. There, the sweet tune of His flute is naturally attracting the hearts of the cowherd maidens of Vraja Dhām. May that charming Lord bring us within His auspicious embrace.
+
 
 > page = 21

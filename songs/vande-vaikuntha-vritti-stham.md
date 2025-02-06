@@ -1,11 +1,11 @@
-# Šrīla Bhakti Bimal Avadhūts Mahārādža
+# Śrīla Bhakti Bimal Avadhūt Mahārāj
 
     vande vaikuṇṭha-vṛtti-stham
         parama-karuṇāspadam
     vimalam avadhūtākhyaṁ
         govindāṅghari-niṣevayā
 
-Es klanos Šrīlas Bhakti Bimal Avadhūta priekšā, kurš ir Nitai-Gauras līdzcietības iemiesojums. Ar savu dižo saprātu viņš meklē neskaitāmus veidus (*vaikuntha-vritti*) kalpot Viņiem un dalīt citiem Viņu augstāko žēlastību. Viņš ir neparasts bhakta (*bhaktavadhūta*), viņš ir tīrs (*bimal*), jo velta sevi tikai un vienīgi kalpošanai Govindas (Krišnas) un sava guru Šrīlas Bhakti Sundar Govindas Dev-Gosvāmī Mahārādžas lotosam līdzīgajām pēdām.
+“I offer my obeisances to Śrīla Bhakti Bimal Avadhūt Mahārāja, the embodiment of Nitāi-Gaura’s compassion. His vast intelligence dwells in endless ways (*vaikuṇṭha vṛtti*) to serve and distribute the highest mercy. An unconventional devotee (*bhaktāvadhūta*) he is pure (*vimal*) as he possesses exclusive dedication to the service of the holy name lotus feet of Govinda (Krishna) and his Guru Śrīla Bhakti Sundar Govinda Dev-Goswāmī.”
 
 
-> page = 11/1
+> page = 10

@@ -1,17 +1,27 @@
-# Bhagavāns Šrīla Bhaktisiddhānta Sarasvatī
+# Bhagavān Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 
-### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
     śrī-siddhānta-sarasvatīti vidito
-        gauḍīya-gurv-anvaye
+        gauḍīya-gurv-anvaye           
     bhāto bhānuriva prabhāta-gagane
-        yo gaura-saṅkīrtanaiḥ
+        yo gaura-saṅkīrtanaiḥ 
     māyāvāda-timiṅgilodara-gatān
-        uddhṛtya jīvanimān
+        uddhṛtya jīvanimān 
     kṛṣṇa-prema-sudhābdhi-gāhana-sukhaṁ
         prādāt prabhuṁ taṁ bhaje
 
-Izcilāko Gaudija-vaišnava skolotāju vidū viņš ir pazīstams kā Šrīla Bhaktisiddhānta Sarasvatī. Kā ausmā mirdzoša saule viņš nāca, lai glābtu dvēseles, kuras sagrābusi visu aprijošā impersonālisma filosofija. Sludinot Kunga Gaurangas mācību par Kunga Krišnas Svētā Vārda dziedāšanu, viņš dāvājis iespēju grimt Šrī Krišnas, Augstākās Personības mīlestības okeānā. Šrīla Bhaktisiddhānta – mans kungs un dievišķais skolotājs. Pie viņa lotosam līdzīgajām pēdām es lūdzu mūžīgu kalpošanu viņam!
+“In the great Gauḍīya Vaiṣṇava teachers’ line,\
+as Śrīla Bhakti Siddhānta Saraswatī he’s renowned.\
+Like the radiant sun in the morning sky,\
+he appeared to rescue all souls swallowed by\
+the all-devouring impersonal philosophy.\
+By spreading the teachings of Lord Gaurāṅga\
+to sing the Holy Name of Lord Śrī Krishna,\
+he gave all the chance to dive in the ocean \
+of love of Śrī Krishna, the Supreme Person.\
+Śrīla Bhakti Siddhānta, my lord, divine master —\
+at his feet do I pray to serve him forever.”
 
 
-> page = 15
+> page = 14

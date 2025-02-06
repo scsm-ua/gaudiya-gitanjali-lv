@@ -1,10 +1,11 @@
-# Šrīla Bhakti Sudhīrs Gosvāmī Mahārādža
+# Śrīla Bhakti Sudhīr Goswāmī Mahārāj
 
-    goswāminaṁ sudhīrākhyaṁ
+    goswāminaṁ sudhīrākhyam
         govinda-preṣṭham āśraye
     gaura-gāthā-rataṁ nityaṁ
         śrīdhara-pāda-sevanam
 
-Es pieņemu patvērumu pie Šrīlas Bhakti Sudhīra Gosvāmī Mahārādžas, Govindas (Krišnas) un Šrīlas Govinda Mahārādžas favorīta, jo viņš ir atkarīgs no nebeidzamas Gaurangas Mahāprabhū slavināšanas un ir pieņēmis mūžīgu patvērumu kalpošanā Šrīlas Šrīdhāra Mahārādžas (Šrī Rādhas otrā “es”) lotosam līdzīgajām pēdām. 
+“I take shelter in Śrīla Bhakti Sudhīr Goswāmī Mahārāja, Govinda Krishna’s favourite and Śrīla Govinda Mahārāja’s favourite, as he is addicted to always singing the glories of Gaurāṅga Mahāprabhu, having taken eternal shelter in service to the lotus feet of Śrīla Śrīdhar Mahārāja (Śrī Rādhā’s other self).”
 
-> page = 11/2
+
+> page = 11

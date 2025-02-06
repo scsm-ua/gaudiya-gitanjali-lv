@@ -1,6 +1,6 @@
 # Vibhāvarī Śeṣa
 
-### Šrīla Bhaktivinoda Thākurs
+### by Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
@@ -9,7 +9,7 @@
     bolo hari hari,    mukunda murāri,
         rāma kṛṣṇa hayagrīva
 
-Nakts tuvojas izskaņai un saule jau sāk aust. Mosties, ak, dvēsele, nav laika gulēt! Dziedi Kunga Harī atbrīvošanu dāvājošos Svētos Vārdus! Tā Vārdus, kurš ir dēmona Mura ienaidnieks, Augstākais Baudītājs, Visupievilcīgais, tā Vārdus, kurš nāca kā iemiesojums ar zirga galvu – Hajagrīva.
+The night has come to an end and the light of dawn is entering. O *jīva*-soul, arise and give up your sleep. Chant the Holy Names of Lord Hari, who is the giver of liberation; the enemy of the Mura demon; the Supreme Enjoyer; the all-attractive one; and the horse-headed incarnation, Hayagrīva.
 
 #### 2
 
@@ -18,7 +18,7 @@ Nakts tuvojas izskaņai un saule jau sāk aust. Mosties, ak, dvēsele, nav laika
     pūtanā-ghātana,    kaiṭabha-śātana,
         jaya dāśarathi-rāma
 
-Kungs Harī iemiesojās kā pus-cilvēks, pus-lauva, Nrisimha. Viņš nāca kā pundur-*brahmanis* vārdā Upendra, kurš uzvarēja dēmonu Madhu. Viņš ir Vradžas karaļa, Mahārādža Nandas, mīļotais dēls, un Viņa ķermenis ir tumšā krāsā. Viņš uzvarēja raganu Putānu un iznīcināja dēmonu Kaitabhu. Visa slava Kungam Harī, kurš nāca kā Kungs Rāma, karaļa Dāšatrī dēls!
+Lord Hari incarnated as the half-man, half-lion, Nṛṣiṁha. He appeared as a  dwarf-*brāhmaṇ* named Upendra and is the killer of the Madhu demon. He is the beloved son of the King of Vraja, Nanda Mahārāj, and is blackish in complexion. He is the slayer of the Pūtanā witch and the destroyer of the demon Kaiṭabha. All glories to Lord Hari, who appeared as Lord Rāma, the son of King Dāśarath.
 
 #### 3
 
@@ -27,7 +27,7 @@ Kungs Harī iemiesojās kā pus-cilvēks, pus-lauva, Nrisimha. Viņš nāca kā 
     gopī-priya-jana,    rādhikā-ramaṇa,
         bhuvana-sundara-vara
 
-Viņš ir Mātes Jašodas mīļais dēls. Viņš sagādā prieku govīm, zemei un garīgajām maņām. Viņš ir govju aizstāvis, Viņš ir Vrindāvanas meža valdnieks, *gopīju* un Rādhikas mīļotais, Viņš ir visbrīnišķīgākais visā Visumā.
+He is the darling of Mother Yaśodā; the giver of pleasure to the cows, land, and spiritual senses; and the protector of the cows. He is the Lord of the Vṛndāvan forest; the *gopīs*’ beloved; the lover of Rādhikā; and the most beautiful personality in all the worlds.
 
 #### 4
 
@@ -36,7 +36,7 @@ Viņš ir Mātes Jašodas mīļais dēls. Viņš sagādā prieku govīm, zemei u
     vrajera rākhāla,    gopa-vṛnda-pāla,
         chitta-hārī baṁśī-dhārī
 
-Rāmačandras tēlā Viņš uzvarēja dēmonisko valdnieku Rāvanu. Kad viņš nāca kā Krišna, Viņš zaga no vecākajām *gopījām* sviestu un no jaunākajām *gopījām* – drēbes, kamēr viņas peldējās Jamūnā. Viņš ir Vradžas ganuzēns un visu ganuzēnu aizstāvis. Viņš laupa sirdis un nekad nešķiras no flautas.
+As Rāmachandra He brought about the end of the demoniac King Rāvaṇa; as Krishna He stole the older gopīs’ butter; He stole the younger *gopīs*’ clothes while they were bathing in the Yamunā. He is a cowherd boy of Vraja and the protector of the cowherd boys. He steals the hearts of all and always holds a flute.
 
 #### 5
 
@@ -45,7 +45,7 @@ Rāmačandras tēlā Viņš uzvarēja dēmonisko valdnieku Rāvanu. Kad viņš n
     navīna nīrada,    rūpa manohara,
         mohana-vaṁśī-bihārī
 
-Kungu Krišnu, Nandas dēlu, pielūdz labākie no jogiem. Viņš kliedē visu Vradžas iemītnieku bailes. Viņa apburošais ķermenis ir svaiga negaisa mākoņa krāsā. Pastaigājoties un spēlējot savu flautu, Viņš ir neparasti pievilcīgs!
+Lord Krishna is worshiped by the best of yogis and is the son of Nanda. He removes all the fears of the inhabitants of Vraja. He is the colour of a fresh rain cloud, and His form is enchanting. When He wanders about, playing His flute, He looks very charming.
 
 #### 6
 
@@ -54,7 +54,7 @@ Kungu Krišnu, Nandas dēlu, pielūdz labākie no jogiem. Viņš kliedē visu Vr
     kadamba-kānana,    rāsa-parāyaṇa,
         vṛndā-vipina-nivāsī
 
-Viņš ir Jašodas dēls un valdnieku Kamsas uzvarētājs. Viņš griežas Rāsas dejā Vrindāvanas birzīs. Aizrāvies ar šo deju zem kadambas koku lapotnēm, Krišna izklaidējas Vrindāvanas mežā.
+He is the son of Yaśodā and the killer of King Kaṁsa, and He sports in the Rāsa dance among the groves of Vraja. Krishna engages in this Rāsa dance underneath the kadamba trees, and He resides in the forest of Vṛndāvan.
 
 #### 7
 
@@ -63,7 +63,7 @@ Viņš ir Jašodas dēls un valdnieku Kamsas uzvarētājs. Viņš griežas Rāsa
     gopāṅgaṇāgaṇa,    chitta-vinodana,
         samasta-guṇa-gaṇa-dhāma
 
-Viņš dāvā laimi saviem *bhaktām*. Krišna ir neizsīkstošs mīlestības avots. Viņš transcendentāls Kupidons, kurš ar savām ziedu bultām tēmē uz *gopīju* sirdīm, lai iekvēlinātu tajās slāpes pēc mīlestības. Viņš ir *gopīju* siržu prieks un visu pārsteidzošo īpašību mājvieta.
+He increases the ecstasy of His devotees. He is the reservoir of all love and is the transcendental Cupid who uses His flowered arrows to increase the loving desires of the gopīs. He is the pleasure of the *gopīs*’ hearts and the abode of all wonderful qualities.
 
 #### 8
 
@@ -72,7 +72,7 @@ Viņš dāvā laimi saviem *bhaktām*. Krišna ir neizsīkstošs mīlestības av
     nāma-sudhā-rasa,    gāo kṛṣṇa-jaśa,
         rākho vachana mana mora
 
-Kungs Krišna ir Jamūnas upes dzīvība. Viņš ir vienmēr mīlas rotaļu pārņemts. Viņš ir kā mirdzošs mēness *gopījām*, kuras, līdzīgi putniem čakora, dzīvo pateicoties Mēness gaismai. Mans prāts, ak, ieklausies šajos vārdos un slavē Šrī Krišnu, dziedot Viņa Svētos Vārdus, kuri ir nektāra saldās garšas piepildīti!
+Lord Krishna is the life of the River Yamunā. He is always absorbed in amorous Pastimes, and He is the moon of the *gopīs*’ minds, which are like the chakora birds that subsist only upon moonlight. O mind, obey these words of mine and sing the glories of Śrī Krishna in the form of these Holy Names, which are full of nectarean mellows.
 
 
-> page = 52
+> page = 62

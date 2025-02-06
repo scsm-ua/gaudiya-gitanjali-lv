@@ -1,76 +1,79 @@
-# Nāma-Saṅkīrttan
+# Nām-saṅkīrtan
 
-### Šrīla Narottams Dāsa Thākurs
+### by Śrīla Narottam Dās Ṭhākur
 
 #### 1
 
     hari haraye namaḥ kṛṣṇa yādavāya namaḥ
     yādavāya mādhavāya keśavāya namaḥ
 
-Ak, Kungs Harī, Kungs Krišna, es klanos Tavā priekšā, Tevi zina kā Jādavu, Harī, Mādhavu un Kēšavu!
+O Lord Hari, O Lord Krishna, I offer my obeisances to You, who are known as Yādava, Hari, Mādhava, and Keśava.
 
 #### 2
 
     gopāla govinda rāma śrī madhusūdana
     giridhārī gopīnātha madana-mohana
 
-Ak, Gopal, Govinda, Rāma, Šrī Madhūsudana, Girīdharī, Gopinath, Mādana-mohan!
+O Gopāla, Govinda, Rāma, Śrī Madhusūdan, Giridhārī, Gopīnāth, Madana-mohan!
 
 #### 3
 
     śrī-chaitanya nityānanda śrī advaita-chandra
     gadādhara śrīvāsādi gaura-bhakta-vṛnda
 
-Visa slava Šrī Čaitanjam Mahāprabhū un Nitjānandam Prabhū! Visa slava Mēnesim līdzīgajam Šrī Advaitam Āčārjam! Visa slava Šrī Gadādhāram Panditam un visiem Šrī Čaitanjas bhaktām ar Šrīvāsu Thākuru priekšgalā!
+All glories to Śrī Chaitanya and Nityānanda. All glories to the moonlike Śrī Advaita Āchārya. All glories to Śrī Gadādhara Paṇḍit and all the devotees of Śrī Chaitanya headed by Śrīvās Ṭhākur.
 
 #### 4
 
     jaya rūpa sanātana bhaṭṭa raghunātha
     śrī-jīva-gopāla-bhaṭṭa dāsa raghunātha
 
-Visa slava Šrī Rūpam Gosvāmī, Sanātanam Gosvāmī, Raghunātham Bhattam Gosvāmī, Šrī Džīvam Gosvāmī, Gopālam Bhattam Gosvāmī un Raghunātham Dāsam Gosvāmī!
+Allgloriesto Śrī Rūpa Goswāmī, Sanātan Goswāmī, Raghunāth Bhaṭṭa Goswāmī, Śrī Jīva Goswāmī, Gopāla Bhaṭṭa Goswāmī, and Raghunāth Dās Goswāmī.
 
 #### 5
 
     ei choy gosāir kori charaṇa vandana
     jāhā hoite bighna-nāś abhīṣṭa pūraṇa
 
-Es klanos sešu Vrindāvanas Gosvāmī priekšā! Klanoties viņiem, visi garīgas kalpošanas ceļā esošie šķēršļi tiek iznīcināti un visas garīgās vēlēšanās piepildās!
+I offer my obeisances to the Six Goswāmīs. By offering them my obeisances all obstacles to devotion are destroyed and all spiritual desires are fulfilled.
 
 #### 6
 
     ei choy gosāir jā̐ra mu̐i tā̐ra dāsa
     tā̐-sabāra pada-reṇu mora pañcha-grāsa
 
-Es kalpoju tam, kurš kalpo Gosvāmī. Putekļi no viņu svētajām pēdām ir pieci mana ēdiena veidi.
+I am a servant of that person who is a servant of these six Goswāmīs. The dust of their holy feet is my five kinds of foodstuffs.
 
 #### 7
 
     tā̐dera charaṇa sebi bhakta sane vāsa
     janame janame mora ei abhilāṣa
 
-Šāda ir mana vēlēšanās – lai dzimšanu pēc dzimšanas es dzīvotu tādu bhaktu sabiedrībā, kuri kalpo sešu Gosvāmī lotosam līdzīgajām pēdām!
+This is my desire, that birth after birth I may live with those devotees who serve the lotus feet of these six Goswāmīs.
 
 #### 8
 
     ei choy gosāi jabe vraje koilā vāsa
     rādhā-kṛṣṇa-nitya-līlā korilā prakāśa
 
-Kad šie Gosvāmī dzīvoja Vradžā, viņi atklāja un skaidroja Šrī Rādhas un Šrī Krišnas mūžīgās rotaļas!
+When these six Goswāmīs lived in Vraja they revealed and explained the eternal Pastimes of Rādhā and Krishna.
 
 #### 9
 
     ānande bolo hari bhaja vṛndāvana
     śrī-guru-vaiṣṇava-pade majāiyā mana
 
-Domājot par garīgā skolotāja un svēto Vaišnavu dievišķajām pēdām, dziediet ekstāzē Kunga Harī vārdus un pielūdziet Vrindāvanas transcendentālo pasauli!
+Absorbing your mind in meditation upon the divine feet of the Spiritual Master and the holy Vaiṣṇavas, chant the names of Lord Hari in ecstasy, and worship the transcendental realm of Vṛndāvan.
 
 #### 10
 
     śrī-guru-vaiṣṇava-pāda-padma kori āśa
     (hari) nāma-saṅkīrtana kohe narottama dāsa
 
-Vēloties gūt Šrī Guru un Vaišnavu lotosam līdzīgo pēdu patvērumu, Narottams Dāsa dzied Svētā Vārda sankirtanu - Svētā Vārda slavu!
+Desiring the lotus feet of Śrī Guru and the Vaiṣṇavas, Narottam Dās sings the *saṅkīrtan* of the Holy Name.
 
 
-> page = 55
+[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-nama-sankirttan-hari-haraye-namah-krishna)
+
+
+> page = 66

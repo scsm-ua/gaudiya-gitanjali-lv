@@ -1,13 +1,16 @@
-# Šrīla Džagannātha Dāsa Bābadžī Mahārādža
+# Śrīla Jagannāth Dās Bābājī Mahārāj
 
-### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
     gaura-vrajāśritāśeṣair
-        vaiṣṇavair vandya-vigraham
+        vaiṣṇavair vandya-vigraham 
     jagannātha-prabhuṁ vande
         premābdhiṁ vṛddha-vaiṣṇavam
 
-Es pielūdzu dižā visu Vaišnavu skolotāja pēdas, kurš ir atzīts tīras garīgas kalpošanas patriarhs, visu Navadvīpas un Vrindāvanas Vaišnavu mīļotais mīlestības okeāns, Šrīla Džagannātha Prabhū. 
+“The great venerable Grandsire of pure devotion,\
+loved by all Vaiṣṇavas of both Nabadwīp and Vṛndāvan —\
+I worship the feet of that great Vaiṣṇava Guru,\
+the ocean of love, Śrīla Jagannāth Prabhu.”
 
 
-> page = 18 
+> page = 17

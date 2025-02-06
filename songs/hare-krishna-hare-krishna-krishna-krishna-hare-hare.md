@@ -1,11 +1,20 @@
-# Harē Krišna mahā-mantra
+# Hare Krishna mahāmantra
+
+### Illumination by Śrīla Śrīdhar Mahārāj
 
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
     hare rāma hare rāma rāma rāma hare hare
 
-### Šrīlas Šrīdhāra Mahārādžas komentārs
+In the Name of Rāma within the Hare Krishna mantra, the Gauḍīya Vaiṣṇavas will find Rādhā-ramaṇa Rāma. That means, “Krishna, who gives pleasure (*ramaṇ*) to Śrīmatī Rādhārāṇī.” In our conception, the Hare Krishna mantra is wholesale Krishna consciousness, not Rāma  (Lord  Rāmachandra)  consciousness.  Śrī  Chaitanya’s highest conception of things is always *svayaṁ bhagavān*, Krishna-*līlā*, Rādhā-Govinda-*līlā*. That is the real purpose of Śrī Chaitanya Mahāprabhu’s advent and teachings.
 
-Gaudija-vaišnavi Rāmas Vārdā, kuru satur Harē Krišna mantra, saskata Rādha-rāmana Rāmu. Tas nozīmē: “Krišna, kurš dāvā prieku (*raman*) Šrīmatī Rādharanī”. Mūsu izpratnē Harē Krišna mantra satur tikai un vienīgi Krišnas apziņu un nevis Rāmas (Kunga Rāmačandras) apziņu. Šrī Čaitanjas augstākais ideāls ir vienīgi *Svajam Bhagavāns*, *Krišna-līla*, *Rādha-Govinda-līla*. Tāds ir patiesais Šrī Čaitanjas Mahāprabhū atnākšanas un mācības mērķis. No šāda skatupunkta Harē Krišna mantrā netiek pieminēta Ajodhjas *Rāma-līla*. Augstākā Harē Krišna mantras nozīme nav saistīta ar to... No mantras iekšējās nozīmes izpratnes ir atkarīgi mūsu garīgie panākumi... Iekšēja izpratne virzīs bhaktas pretī viņu mērķim.
+In that consideration, the Hare Krishna mantra does not mention the Rāma-*līlā* of Āyodhya at all. There is no connection with that in the highest conception of the Hare Krishna mantra.  The inner conception of the mantra is responsible for our spiritual attainment. The inner conception of the devotee will guide them to their destination.
 
 
-> page = 24
+[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/maha-mantra)
+
+[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/mahamantra)
+
+[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-mahamantra)
+
+
+> page = 28

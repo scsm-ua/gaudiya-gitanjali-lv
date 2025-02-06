@@ -1,55 +1,75 @@
-# Śaraṇāgati - labvēlīgs aicinājums
+# Auspicious Invocation
+# to Śaraṇāgati
 
-### Šrīla Bhaktivinoda Thākurs
+### by Śrīla Bhakti Vinod Ṭhākur
 
 #### 1
 
     śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
     svapārṣada svīya dhāma saha avatari
 
-Kungs Šrī Krišna Čaitanja, žēlsirdīgs pret dvēselēm, kopā ar saviem pavadoņiem un mājvietu tu nolaidies šajā pasaulē.
+Lord Śrī Krishna Chaitanya,\
+&nbsp;&nbsp;&nbsp;&nbsp;Being gracious upon the *jīva*-souls,\
+Along with Your associates and abode\
+&nbsp;&nbsp;&nbsp;&nbsp;You descended to this world
 
 #### 2
 
     atyanta durlabha prema koribāre dāna
     śikhāya saraṇāgati bhakatera prāṇa
 
-Tu atnāci, lai dāsni dāvātu tik reto dievišķo mīlestību, sludinot nedalītu pašatdevi, bhaktu dzīves pašu būtību.
+To distribute freely\
+&nbsp;&nbsp;&nbsp;&nbsp;the love divine most rare;\
+By teaching exclusive surrender,\
+&nbsp;&nbsp;&nbsp;&nbsp;the life and soul of the devotee
 
 #### 3
 
     dainya, ātmanivedana, goptṛtve varaṇa
     ‘avaśya rakṣibe kṛṣṇa’—viśvāsa pālana
 
-Pazemība, pašatdeve, sevis atdošana Dieva gribai, “Krišna mani noteikti pasargās” – šādas ticības uzturēšana.
+Humility, self-giving,\
+&nbsp;&nbsp;&nbsp;&nbsp;Embracing His guardianship,\
+‘Krishna will certainly protect me’ —\
+&nbsp;&nbsp;&nbsp;&nbsp;Maintaining this faith.
 
 #### 4
 
     bhakti-anukūla mātra kārjera svīkāra
     bhakti-pratikūla bhāva—varjanāṅgīkāra
 
-Kalpošanai labvēlīgas darbības pieņemšana un nelabvēlīgas – noraidīšana.
+Acceptance of all activities\
+&nbsp;&nbsp;&nbsp;&nbsp;favourable to devotion;\
+Embracing rejection of\
+&nbsp;&nbsp;&nbsp;&nbsp;adversity to devotion.
 
 #### 5
 
     ṣaḍ-aṅga śaraṇāgati hoibe jā̐hāra
     tā̐hāra prārthanā śune śrī-nandakumāra
 
-To lūgšanas, kuri sniedz sevi Dievam šajos sešos veidos, nešaubīgi tiks Nandas dēla sadzirdētas!
+Those who surrender in this sixfold way —\
+Their prayer will be heard\
+&nbsp;&nbsp;&nbsp;&nbsp;by the divine son of Nanda.
 
 #### 6
 
     rūpa-sanātana-pade dante tṛṇa kori’
     bhakativinoda poḍe dui pada dhori’
 
-Saspiežot zobos zāles stiebriņu un krītot pie Šrī Rūpas un Šrī Sanātanas pēdām, Šrī Bhaktivinoda pazemīgi apskauj viņu svētās, lotosam līdzīgās pēdas.
+Taking in his mouth a straw, falling\
+&nbsp;&nbsp;&nbsp;&nbsp;at the lotus feet of Śrī Rūpa-Sanātan;\
+Śrī Bhakti Vinod clasps their holy lotus feet.
 
 #### 7
 
     kā̐diyā kā̐diyā bole, āmi to’ adhama
     śikhāye śaraṇāgati karahe uttama
 
-Raudot, lejot asaras, es vēršos pie viņiem: “Es esmu pats kritušākais! Lūdzu, māciet man pašatdevi, māciet man tīru kalpošanu!”
+Weeping, weeping, I implore thee,\
+&nbsp;&nbsp;&nbsp;&nbsp;‘O I am afallen!\
+Please teach me to surrender,\
+&nbsp;&nbsp;&nbsp;&nbsp;teach me pure devotion.’
 
 
-> page = 50
+> page = 58

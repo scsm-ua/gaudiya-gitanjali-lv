@@ -1,13 +1,18 @@
-# Šrīla Bhaktivinoda Thākurs
+# Śrīla Bhakti Vinod Ṭhākur
 
-### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
 
     vande bhaktivinodaṁ śrī-
         gaura-śakti-svarūpakam
     bhakti-śāstrajña-samrājaṁ
         rādhā-rasa-sudhā-nidhim
 
-Es klanos Šrī Thākura Bhaktivinodas priekšā, kurš ir Mahāprabhū dievišķās mīlestības iemiesojums. Viņš ir karalis Svēto Rakstu slēptās būtības pazinēju vidū. Viņš ir Šrī Rādhas garīgās kalpošanas okeāns.
+“I bow to Śrī Ṭhākur Bhakti Vinod,\
+Mahāprabhu’s love divine personified.\
+He’s the king of all knowers\
+of the purpose of the Scriptures,\
+and he is the ocean\
+of Śrī Rādhā’s devotion.”
 
 
-> page = 17
+> page = 16

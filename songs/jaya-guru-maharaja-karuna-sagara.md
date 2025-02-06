@@ -1,85 +1,85 @@
 # Śrī Śrī Nitāi-Chaitanya-Ārati
 
-### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+### by Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj
 
-### Dzied *āratī* laikā Šrī Čaitanja Sarasvat Matha templī Džagannātha Purī
+### for the Āratis in our Jagannāth Puri Branch Temple
 
 #### 1
 
     jaya guru mahārāja karuṇā-sāgara
     śrī bhakti rakṣaka deva-gosvāmī śrīdhara
 
-Visa slava Šrīlam Guru Mahārādžam, Šrīlam Bhakti Rakšak Šrīdhāram Dēv-Gosvāmī Mahārādžam, kurš līdzinās žēlsirdības okeānam!
+All glories to Śrīla Guru Mahārāj, Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj who is like an ocean of mercy.
 
 #### 2
 
     prakāśile nīlāchale bhuvana-maṅgala
     nitāi-chaitanya-deva-sevā samujjvala
 
-Pateicoties viņa žēlsirdībai, Šrī Šrī Nitai-Čaitanjadēvs izpauda sevi Purī-dhāmā, dāvājot svētību visai pasaulei.
+By his mercy, Śrī Śrī Nitāi-Chaitanyadeva have manifested in Puri Dhām bestowing auspiciousness upon the whole world and revealing their effulgent devotional service.
 
 #### 3
 
     gorāpreme mātoyārā nityānanda-rūpa
     rasarāja mahābhāva chaitanya-svarūpa
 
-Šrī Nitjānanda Prabhū dejo, noreibis dievišķās mīlestības ekstāzē uz Šrī Gauru, kurš ir pats Rasarādža Šrī Krišna, pieņēmis Mahābhāvas, Šrīmatī Rādharānī, sirdi un starojumu.
+Śrī Nityānanda Prabhu’s form is dancing ecstatically intoxicated with divine love for Śrī Gaura, whose manifestation is Rasarāj Śrī Krishna taking the heart and halo of Mahābhāva, Śrīmatī Rādhārāṇī.
 
 #### 4
 
     kasita-kāñchana jini śrī-aṅga labaṇi
     du̐hu̐gale vanamālā bhāvera dolanī
 
-Abi Kungi, līdzīgi tīram zeltam, spoži mirdz, un Viņu kaklus rotā brīnišķīgu meža ziedu virtenes.
+Both Lords are standing fully effulgent, glowing just like freshly cut gold, as garlands of various beautiful forest flowers play on their necks.
 
 #### 5
 
     murachita koṭikāma rūparāsaraṅge
     madhura nartana-bhāva varābhaya bhaṅge
 
-Miljoni kupidonu krīt bez samaņas pie dievišķajām Viņu Svētību pēdām lūkojoties uz Viņu skaistumu. Viņu dievišķās figūras rotaļīgi šūpojas dejas ritmā! Viņi dejo aizskarot katru sirdi un lejot žēlsirdību pār nebrīvām dvēselēm.
+Millions and millions of Cupids fall unconscious before the divine feet of Their Lordships, seeing their beauty as their divine forms playfully sway to and fro. They are dancing, touching the hearts of everyone and freely bestowing mercy upon the conditioned souls.
 
 #### 6
 
     koṭi-chandra-bhānuśobhā ratna-siṁhāsane
     prema netre dekhe mahā-bhāgyavāna jane
 
-Starojot līdzīgi miljonam mēnešu, Viņi stāv savā dārgakmeņiem rotātajā tronī. Veiksmīgas ir to bhaktu dvēseles, kuras, pateicoties savai mīlestībai, var skatīt Viņu dievišķos tēlus!
+Brilliant like millions of moons They stand effulgent upon Their jewelled throne. The fortunate souls, their devotional eyes full of love and affection can see Their divine forms.
 
 #### 7
 
     mṛdaṅga mandirā bāje suśaṅkha-dhvanita
     śruti-mauli-ratnamālā-dīpa nirājita
 
-*Āratī* laikā templī jūsmīgi skan mridangas un gliemežvāki un tiek piedāvātas lampādas ar ghī sviestu. Dažādas Vēdu daļas bhakti-jogā ir pieņēmušas katras uguntiņas veidolu un āratī laikā pielūdz Viņu Svētības.
+In the temple during the *ārati*, the *mṛdaṅgas* resound sweetly as conchshells are blown and the ghee lamp is offered. The different parts of the Vedas within bhakti yoga have taken form in each light as a bhakti yoga light and through this form they are worshipping Their Lordships in the ārati.
 
 #### 8
 
     bhuvana-mohana du̐hu̐ rūpera ārati
-    gupta-vṛndāraṇya-vāsī dekhe niravadhi  
+    gupta-vṛndāraṇya-vāsī dekhe niravadhi
 
-Šādu *āratī* var redzēt tikai Navadvīpas Dhāmas iedzīvotāji un Šrī Čaitanjas dārgie pavadoņi. Katrs, kurš kļūs par tā liecinieku, tiks savaldzināts!
+This type of *ārati* is only seen by the residents of Nabadwīp Dhām and the dear associates of Śrī Chaitanya. Anyone who sees it will be extremely charmed by it.
 
 #### 9
 
     śrī svarūpa rāmānanda rūpa-sanātana
     raghunātha haridāsa gadādhara dhana
 
-Šrī Čaitanjas dārgie pavadoņi: Šrī Svarūpa Damodārs, Rāmananda Rajs, Rūpa Gosvāmī, Sanātana Gosvāmī, Raghunāths Dāsa Gosvāmī, Haridāsa Thākurs un Gadadhārs Pandits, piedalās šajā *āratī*.
+Śrī Chaitanya’s dear associates, Śrī Swarūp Dāmodar, Rāmānanda Rāya, Rūpa Goswāmī, Sanātan Goswāmī, Raghunāth Dās Goswāmī, Haridās Ṭhākur and Gadādhara Paṇḍit are seeing and performing this *ārati*.
 
 #### 10
 
     sārvabhauma gopīnātha jīvānuga-jana
     dekhena ārati-śobha durllabha-darśana
 
-Sarvabhauma Bhattāčārjas, Gopinātha Āčārjas un Džīvas Gosvāmī *sampradājas* sekotāji vēro *āratī*, kurš citiem nav redzams.
+Sārvabhauma Bhaṭṭāchārya, Gopīnāth Āchārya and the followers in the *sampradāya* of Jīva Goswāmī are all seeing that ārati which is unable to be seen by others.
 
 #### 11
 
     nadīyā prakāśe nityānanda-gauranidhi
     patita-pāvana-kṣetre milāila vidhi
 
-Šrī Nitjānanda un Šrī Gaura Mahāprabhū mūžīgi mīt Navadvīpas Dhāmā, Nādijā. Taču tagad, pateicoties mūsu likteņus mainošā Šrī Gurudēva žēlsirdībai, Viņu dievišķās formas ir izpaudušas sevi arī Purī-dhāmā.
+Śrī Nityānanda and Śrī Gaura Mahāprabhu have manifested eternally in Nabadwīp Dhām, Nadia. But now Their divine forms have manifested in Puri Dhām, mercifully given by our fortune-maker, Śrī Gurudeva.
 
 #### 12
 
@@ -87,7 +87,7 @@ Sarvabhauma Bhattāčārjas, Gopinātha Āčārjas un Džīvas Gosvāmī *sampra
     śrī guru-prasāde dekhe ei adhama dāsa
     (śrī guru-prasāde dekhe śrī govinda dāsa)
 
-Neizprotamā kārtā Šrī Šrī Nitai-Čaitanja ir izpauduši sevi un, pateicoties Šrī Gurudēva žēlsirdībai, šī kritusī dvēsele redz Viņu *āratī* un piedalās *sankirtanā*!
+Inconceivably Śrī Śrī Nitāi-Chaitanya have manifested and through the mercy of Śrī Gurudeva this fallen soul sees Their ārati and joins within the saṅkīrtan.
 
 
-> page = 36
+> page = 40
