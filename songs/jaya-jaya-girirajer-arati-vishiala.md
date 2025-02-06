@@ -68,7 +68,7 @@ Ar savu neizmērojamo slavu un augstsirdību Tu parādīji Kuliju (vietu, kur ti
 #### 10
 
     sevya o sevaka-rūpe nitya parakāśa
-    sānande ārati dekhe e adhama dāsa 
+    sānande ārati dekhe e adhama dāsa
 
 Mūžam Tu sevi izpaud kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps redz tavu āratī un izjūt milzīgu prieku!
 
