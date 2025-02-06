@@ -56,7 +56,7 @@ Starojot līdzīgi miljonam mēnešu, Viņi stāv savā dārgakmeņiem rotātaj�
 #### 8
 
     bhuvana-mohana du̐hu̐ rūpera ārati
-    gupta-vṛndāraṇya-vāsī dekhe niravadhi  
+    gupta-vṛndāraṇya-vāsī dekhe niravadhi
 
 Šādu *āratī* var redzēt tikai Navadvīpas Dhāmas iedzīvotāji un Šrī Čaitanjas dārgie pavadoņi. Katrs, kurš kļūs par tā liecinieku, tiks savaldzināts!
 
