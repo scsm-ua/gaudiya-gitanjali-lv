@@ -52,7 +52,7 @@ Kungu Krišnu, Nandas dēlu, pielūdz labākie no jogiem. Viņš kliedē visu Vr
     yaśodā-nandana,    kaṁsa-nisūdana,
         nikuñja-rāsa-vilāsī
     kadamba-kānana,    rāsa-parāyaṇa,
-        vṛndā-vipina-nivāsī  
+        vṛndā-vipina-nivāsī
 
 Viņš ir Jašodas dēls un valdnieku Kamsas uzvarētājs. Viņš griežas Rāsas dejā Vrindāvanas birzīs. Aizrāvies ar šo deju zem kadambas koku lapotnēm, Krišna izklaidējas Vrindāvanas mežā.
 
