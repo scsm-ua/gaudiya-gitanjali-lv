@@ -4,14 +4,14 @@
 
 #### 1
 
-    hari haraye namaḥ kṛṣṇa jādavāya namaḥ
-    jādavāya mādhavāya keśavāya namaḥ
+    hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+    yādavāya mādhavāya keśavāya namaḥ
 
 Ak, Kungs Harī, Kungs Krišna, es klanos Tavā priekšā, Tevi zina kā Jādavu, Harī, Mādhavu un Kēšavu!
 
 #### 2
 
-    gopāla govinda rām śrī madhusūdana
+    gopāla govinda rāma śrī madhusūdana
     giridhārī gopīnātha madana-mohana
 
 Ak, Gopal, Govinda, Rāma, Šrī Madhūsudana, Girīdharī, Gopinath, Mādana-mohan!
@@ -46,14 +46,14 @@ Es kalpoju tam, kurš kalpo Gosvāmī. Putekļi no viņu svētajām pēdām ir p
 
 #### 7
 
-    tā̐dera charaṇa sebi bhakta sane bāsa
+    tā̐dera charaṇa sebi bhakta sane vāsa
     janame janame mora ei abhilāṣa
 
 Šāda ir mana vēlēšanās – lai dzimšanu pēc dzimšanas es dzīvotu tādu bhaktu sabiedrībā, kuri kalpo sešu Gosvāmī lotosam līdzīgajām pēdām!
 
 #### 8
 
-    ei choy gosāi jabe braje koilā bāsa
+    ei choy gosāi jabe vraje koilā vāsa
     rādhā-kṛṣṇa-nitya-līlā korilā prakāśa
 
 Kad šie Gosvāmī dzīvoja Vradžā, viņi atklāja un skaidroja Šrī Rādhas un Šrī Krišnas mūžīgās rotaļas!
@@ -68,7 +68,7 @@ Domājot par garīgā skolotāja un svēto Vaišnavu dievišķajām pēdām, dzi
 #### 10
 
     śrī-guru-vaiṣṇava-pāda-padma kori āśa
-    (hari) nāma-saṅkīrttana kohe narottama dāsa
+    (hari) nāma-saṅkīrtana kohe narottama dāsa
 
 Vēloties gūt Šrī Guru un Vaišnavu lotosam līdzīgo pēdu patvērumu, Narottams Dāsa dzied Svētā Vārda sankirtanu - Svētā Vārda slavu!
 

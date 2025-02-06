@@ -7,7 +7,7 @@
     ṭhākura vaiṣṇava-gaṇa    kori ei nivedana
         mo boḍo adhama durāchāra
     dāruṇa-saṁsāra-nidhi    tāhe ḍhūbailo vidhi
-        keśe dhori more koro para
+        keśe dhori more kara para
 
 Svētie Vaišnavi, kaut arī esmu kritis bezgodis, es vēršos pie jums ar lūgumu! Liktenis ir iemetis mani šajā biedējošajā atkārtojošos dzimšanu un nāvju bezdibenī! Lūdzu jūs, glābiet mani no šī bezdibeņa, izvelciet mani aiz matiem!
 

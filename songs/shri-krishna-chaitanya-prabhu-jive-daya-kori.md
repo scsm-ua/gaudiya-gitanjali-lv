@@ -1,18 +1,20 @@
-# Śaraṇāgati – labvēlīgs aicinājums
+# Śaraṇāgati
+
+## Labvēlīgs aicinājums
 
 ### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
-    śrī-kṛṣṇa-chaitanya prabhu jīve doyā kori’
+    śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
     svapārṣada svīya dhāma saha avatari
 
 Kungs Šrī Krišna Čaitanja, žēlsirdīgs pret dvēselēm, kopā ar saviem pavadoņiem un mājvietu tu nolaidies šajā pasaulē.
 
 #### 2
 
-    antyanta durlabha prema koribāre dāna
-    śikhāya śaraṇāgati bhakatera prāṇa
+    atyanta durlabha prema koribāre dāna
+    śikhāya saraṇāgati bhakatera prāṇa
 
 Tu atnāci, lai dāsni dāvātu tik reto dievišķo mīlestību, sludinot nedalītu pašatdevi, bhaktu dzīves pašu būtību.
 

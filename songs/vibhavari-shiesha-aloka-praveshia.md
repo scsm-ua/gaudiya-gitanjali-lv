@@ -14,7 +14,7 @@ Nakts tuvojas izskaņai un saule jau sāk aust. Mosties, ak, dvēsele, nav laika
 #### 2
 
     nṛsiṁha vāmana,    śrī-madhusūdana,
-        brajendra-nandana śyāma
+        vrajendra-nandana śyāma
     pūtanā-ghātana,    kaiṭabha-śātana,
         jaya dāśarathi-rāma
 
@@ -22,10 +22,10 @@ Kungs Harī iemiesojās kā pus-cilvēks, pus-lauva, Nrisimha. Viņš nāca kā 
 
 #### 3
 
-    jaśodā dulāla,    govinda-gopāla,
+    yaśodā dulāla,    govinda-gopāla,
         vṛndāvana purandara
     gopī-priya-jana,    rādhikā-ramaṇa,
-        bhuvana-sundara-bara
+        bhuvana-sundara-vara
 
 Viņš ir Mātes Jašodas mīļais dēls. Viņš sagādā prieku govīm, zemei un garīgajām maņām. Viņš ir govju aizstāvis, Viņš ir Vrindāvanas meža valdnieks, *gopīju* un Rādhikas mīļotais, Viņš ir visbrīnišķīgākais visā Visumā.
 
@@ -33,7 +33,7 @@ Viņš ir Mātes Jašodas mīļais dēls. Viņš sagādā prieku govīm, zemei u
 
     rāvāṇāntakara,    mākhona-taskara,
         gopī-jana-vastra-hārī
-    brajera rākhāla,    gopa-vṛnda-pāla,
+    vrajera rākhāla,    gopa-vṛnda-pāla,
         chitta-hārī baṁśī-dhārī
 
 Rāmačandras tēlā Viņš uzvarēja dēmonisko valdnieku Rāvanu. Kad viņš nāca kā Krišna, Viņš zaga no vecākajām *gopījām* sviestu un no jaunākajām *gopījām* – drēbes, kamēr viņas peldējās Jamūnā. Viņš ir Vradžas ganuzēns un visu ganuzēnu aizstāvis. Viņš laupa sirdis un nekad nešķiras no flautas.
@@ -41,7 +41,7 @@ Rāmačandras tēlā Viņš uzvarēja dēmonisko valdnieku Rāvanu. Kad viņš n
 #### 5
 
     jogīndra-bandana,    śrī-nanda-nandana,
-        braja-jana-bhaya-hārī
+        vraja-jana-bhaya-hārī
     navīna nīrada,    rūpa manohara,
         mohana-vaṁśī-bihārī
 
@@ -49,10 +49,10 @@ Kungu Krišnu, Nandas dēlu, pielūdz labākie no jogiem. Viņš kliedē visu Vr
 
 #### 6
 
-    jaśodā-nandana,    kaṁsa-nisūdana,
+    yaśodā-nandana,    kaṁsa-nisūdana,
         nikuñja-rāsa-vilāsī
     kadamba-kānana,    rāsa-parāyaṇa,
-        vṛndā-vipina-nivāsī
+        vṛndā-vipina-nivāsī  
 
 Viņš ir Jašodas dēls un valdnieku Kamsas uzvarētājs. Viņš griežas Rāsas dejā Vrindāvanas birzīs. Aizrāvies ar šo deju zem kadambas koku lapotnēm, Krišna izklaidējas Vrindāvanas mežā.
 
