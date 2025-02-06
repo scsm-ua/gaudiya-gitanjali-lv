@@ -28,7 +28,7 @@ Pateicoties viņa žēlsirdībai, Šrī Šrī Nitai-Čaitanjadēvs izpauda sevi 
 #### 4
 
     kasita-kāñchana jini śrī-aṅga labaṇi
-    du̐hu̐gale vanamālā bhāvera dolanī  
+    du̐hu̐gale vanamālā bhāvera dolanī
 
 Abi Kungi, līdzīgi tīram zeltam, spoži mirdz, un Viņu kaklus rotā brīnišķīgu meža ziedu virtenes.
 
