@@ -23,7 +23,7 @@ Krišnas Svētie Vārdi ir nevainojami tīri, tie ir saldas garšas un skaistuma
 
     vraja-jana-pālana    asura-kula-nāśana,
         nanda-godhana rākhoyālā
-    govinda mādhava    navanīta-taṣkara, 
+    govinda mādhava    navanīta-taṣkara,
         sundara nanda-gopālā
 
 Krišna pasargā visus Vrindāvanas mežu iemītniekus un uzvar dēmonus. Viņš gana govis un ir pazīstams kā Govinda – tas, kurš priecē gan govis, gan maņas. Viņš ir Mādhava, veiksmes dievietes vīrs. Krišna ir brīnišķais ganuzēns, Nanda Mahārādža dēls, kurš ļoti mīl zagt sviestu!
