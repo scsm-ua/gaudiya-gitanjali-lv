@@ -25,8 +25,8 @@ Tur, *mālatī* un *mādhavī* ziedu audzēs, Kungs Harī bauda savas slepenās,
 
 #### 4
 
-    apūrvva kuṇḍera śobhā jena sudhābhāṇḍa
-    surendra-surabhī-sevā-saubhāgya-mārttaṇḍa
+    apūrva kuṇḍera śobhā jena sudhābhāṇḍa
+    surendra-surabhī-sevā-saubhāgya-mārtaṇḍa
 
 Kundas nesalīdzināmais skaistums ir kā aromātisks medus. Kungs Indra un dievišķā govs Surabhī spožajos labvēlīgas veiksmes staros veic savu kalpošanu.
 
@@ -40,7 +40,7 @@ Kundas nesalīdzināmais skaistums ir kā aromātisks medus. Kungs Indra un diev
 #### 6
 
     śrī chaitanya-sārasvata maṭha suśobhana
-    jathā nitya sevā kore sārasvata-gaṇa
+    yathā nitya sevā kore sārasvata-gaṇa
 
 Šrī Čaitanja Sarasvat Maths ir ļoti skaista vieta, kur Matha bhaktas vienmēr atrodas iekšējā garīgas kalpošanas noskaņojumā.
 

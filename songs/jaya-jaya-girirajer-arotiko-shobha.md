@@ -5,14 +5,14 @@
 #### 1
 
     jaya jaya girirājer ārotiko śobhā
-    śrī-braja-maṇḍala mājhe jaga mana lobhā
+    śrī-vraja-maṇḍala mājhe jaga mana lobhā
 
 Visa slava brīnišķīgajam Šrī Girirādža *āratī*, kurš norisinās Šrī Vrādža-*mandalā*. Šis *āratī* pievilina visas dzīvās būtnes Visumā!
 
 #### 2
 
     pramoda-madana-līla śrī-rādhā-ramaṇa
-    jathā nitya-līlā kore loye sakhī-gaṇa
+    yathā nitya-līlā kore loye sakhī-gaṇa
 
 Kungs Rādha-Ramana (Krišna, kurš sagādā baudu savai mīļotajai Rādharānī) vienmēr šajā vietā vada savas priekpilnās mīlas rotaļas Šrīmatī Rādharānī *sakhī* (draudzeņu) sabiedrībā.
 
@@ -40,7 +40,7 @@ Kopā ar Šrī Govinda-*kundu*, šīs svētās dievišķo rotaļu vietas ir bezg
 #### 6
 
     ‘śrīdhar-svāmī-sevāśram’ parama śobhana
-    jathā nitya-sevā kore sārasvata-gaṇa
+    yathā nitya-sevā kore sārasvata-gaṇa
 
 Šeit atrodas neiedomājami skaistais Šrīdhāra Svāmī sēva-*ašrams*, kur kalpo Šrī Čaitanja Sarasvat Matha bhaktas.
 

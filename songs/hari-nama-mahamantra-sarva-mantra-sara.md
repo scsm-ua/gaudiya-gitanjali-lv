@@ -7,9 +7,9 @@
 #### 1
 
     hari-nāma mahāmantra sarva-mantra-sāra
-    yā̐dera karuṇā-bale jagate prachāra
-    sei nāma-parāyaṇa sādhu, mahājana
-    tā̐hādera nindā nā kariha kadāchana
+    jādera karuṇābale jagate prachāra
+    sei nāma-parāyaṇ sādhu, mahājana
+    tāhādera nindā nā koriho kadāchana
 
 Harē Krišna mahā-mantra ir vislabākā no visām mantrām. *Sādhū*, kuru sirdīs Svētais Vārds izpauž savas dievišķās rotaļas (*nāma-parājanas*), izplata to ar savas žēlsirdības spēku. Šie *mahādžāni* (dižās dvēseles) Kungam ir ļoti dārgi un vienīgi viņi saista mūs ar Viņa Svēto Vārdu. Nekad nekritizējiet un neatraidiet viņus.
 
@@ -17,10 +17,10 @@ Pirmais apvainojums: apvainot Kunga bhaktas.
 
 #### 2
 
-    vrajendra-nandana kṛṣṇa sarveśvareśvara
-    maheśvara ādi tā̐ra sevana-tatpara
+    vrajendranandana kṛṣṇa sarveśvareśvara
+    maheśvara ādi tāra sevana-tatpara
     nāma chintāmaṇi kṛṣṇa-chaitanya-svarūpa
-    bheda-jñāna nā karibe līlā-guṇa-rūpa
+    bheda-jñāna nā koribe līlā-guṇa-rūpa
 
 Vradžendra-nandana Krišna ir visu *rasu* ietvars un mūžam jaunais sākotnējais Visaugstais Kungs. Golokas Vrindāvana-dhamā Viņš ekstātiski bauda visas iespējamās garīgās attiecības (*rasas*). Viņš ir visupievilcīgais visu Dievu Dievs (Narājanas, Višnu un citu), visa un visu Kungs (*Sarvešvarešvara*). Visas Dieva ekspansijas un visi padievi ar Kungu Šivu (Mahešvaru) priekšgalā patiesi un iedvesmoti kalpo viņam, godājot Viņu par garīgas kalpošanas (*tatparas*) augstāko objektu.
 
@@ -32,8 +32,8 @@ Otrais apvainojums: uzskatīt padievus vienlīdzīgus Visaugstajam, kā arī uzs
 
 #### 3
 
-    “guru kṛṣṇa-rūpa hana śāstrera pramāṇe
-    guru-rūpe kṛṣṇa kṛpā kare bhāgyavāne”
+    “guru kṛṣṇa-rūpa hon śāstrera pramāṇe
+    guru-rūpe kṛṣṇa kṛpā kore bhāgyavāne”
     se gurute martya-buddhi avajñādi tyaji
     iṣṭa-lābha kara, nirantara nāma bhaji
 
@@ -43,10 +43,10 @@ Trešais apvainojums: apvainot Šrī Gurudēvu.
 
 #### 4
 
-    śruti, śruti-mātā-saha sātvata purāṇa
-    śrī-nāma-charaṇa-padma kare nīrājana
-    sei śruti-śāstra yebā karaye nindana
-    se aparadhīra saṅga karibe varjjana 
+    śruti, śruti-mātā-saha sātvata-purāṇa
+    śrī-nāma-charaṇa-padma kore nīrājana
+    sei śruti śāstra jebā karaye nindana
+    se aparadhīra saṅga koribe varjana
 
 Diev-atklātā patiesība tika nodota no Mātes Gajatrī un sasniedza savu kulmināciju Mahā-purānā – “Šrīmad-Bhāgavatam”. Šī patiesība nepārstājoši pielūdz (burtiski: piedāvā *āratī*) Šrī Nāma Prabhū (Svētā Vārda) lotosam līdzīgās pēdas ar savām atklāsmi un apgaismību nesošajām zinībām par tīru *bhakti*. Katrs, kurš zaimo jebkuru no Dieva atklātās patiesības rakstiem, kas veltīti tīrai garīgai kalpošanai – vai nu tieši zākājot vai izplatot tiem pretrunīgas pseido-mācības, ir apvainotājs. Vienmēr izvairies no šāda cilvēka nelabvēlīgās sabiedrības.
 
@@ -57,9 +57,9 @@ Ceturtais apvainojums: zaimot Svētos Rakstus.
     nāmera mahimā sarva-śāstrete vākhāne
     atistuti, heno kabhu nā bhāviha mane
     agastya, ananta, brahmā, śivādi satata
-    ye nāma-mahimā-gāthā saṅkīrttana-rata
+    je nāma-mahimā-gāthā saṅkīrtana-rata
     se nāma-mahimā-sindhu ke pāibe pāra
-    atistuti bale yei—sei durāchāra
+    atistuti bole jei—sei durāchāra
 
 Visi Diev-atklātie raksti sludina Svētā Vārda slavu. Šādi slavinājumi nebūt nav pārspīlējums (*atistuti*). Agastja, Ananta, Brahma, Šiva un visas cienīgākās, labākās un spēcīgākās personības no visas sirds mūžam *sankirtanā* slavē Svēto Vārdu. Kurš gan spēj izsmelt Svētā Vārda slavu, kas līdzinās bezgalīgam okeānam? Katrs, kurš uzdrīkstējies gānīties, ka Svētā Vārda slava ir pārspīlējums (*atistuti*), ir grēcinieks un garīgo veiksmi (*sukritī*) zaudējis nelietis.
 
@@ -67,7 +67,7 @@ Piektais apvainojums: uzskatīt Svētā Vārda slavu par pārspīlējumu.
 
 #### 6
 
-    kṛṣṇa-nāmāvali nitya golokera dhana
+    kṛṣṇa-nāmāboli nitya golokera dhana
     kalpita, prākṛta, bhāve—aparādhi-jana
 
 Krišnas Svētie Vārdi ir Goloka Vrindāvanas, augstākā garīgās pasaules līmeņa, mūžīgās bagātības. Garīgā pasaule ir piepildīta ar absolūtu ekstāzi, tā izpauž sevi pati (*adhokšadža*) un atrodas ārpus šīs materiālās pasaules (*aprākrita*). Katrs, kurš uzskata Krišnas Svētos Vārdus par fantāzijas augļiem (*kalpita*) vai šai pasaulei piederīgiem (*prākrita*), ir apvainotājs.
@@ -77,8 +77,8 @@ Sestais apvainojums: uzskatīt, ka Svētā Vārda slava ir materiāla vai ka tā
 #### 7
 
     nāme sarva-pāpa-kṣaya sarva-śāstre kaya
-    sārā-dina pāpa kari sei bharasāya—
-    emata durbuddhi yāra sei aparādhi
+    sārā-dina pāpa kori sei bharasāya—
+    emata durbuddhi jāra sei aparādhi
     māyā-pravañchita, duḥkha bhuñje niravadhi
 
 Raksti vispusīgi apliecina: Svētais Vārds spēj iznīcināt visus grēkus. Taču liekuļi (*durbuddhi*) turpina visu dzīvi grēkot, cerot uz Svētā Vārda atpestījošo spēku. Viņi ir apvainotāji, kurus apmānījusi maja (kuri zaudējuši Svētā Vārda žēlastību), viņi cietīs mūžīgi.
@@ -88,7 +88,7 @@ Septītais apvainojums: grēkot paļaujoties uz Svēto Vārdu savu tā saucamo d
 #### 8
 
     atulya śrī-kṛṣṇa-nāma pūrṇa-rasa-nidhi
-    tā̐ra sama nā bhāviha śubha-karma ādi
+    tāra sama nā bhāviha śubha-karma ādi
 
 Šrī Krišna-Nāma ir neatkārtojama *rasas* (mīlestības, ekstāzes, nektāra, attiecību ar Dievu utt.) dārgumu lāde, kas nav atšķirama no paša Kunga. Šrī Krišna-Nāma *sankirtana* ir labākais veids, kā kalpot Krišnam un apmierināt Viņu (t. i. pieņemt to, ko Dievs mums ir paredzējis). Tādēļ Šrī Krišna-Nāma atkārtošanu nevar uzskatīt par vienlīdzīgu vai salīdzināmu ar tikai nosacīti labvēlīgām materiālajām karmām, tādām kā vispārpieņemta reliģiozitāte (*dharma*), zvērestu ievērošana (*vrata*), atsacīšanās un nožēla (*tjaga*), reliģiozi rituāli un upurēšana (*huta*), došanās svētceļojumos, labdarība, patriotisms utt.
 
@@ -106,8 +106,8 @@ Devītais apvainojums: tiekšanās dāvāt Svēto Vārdu neticīgajiem.
 #### 10
 
     śuniyāo kṛṣṇa-nāma-māhātmya apāra
-    ye prīti-rahita, sei narādhama chhāra
-    ahaṁtā mamatā yāra antare bāhire
+    je priti-rahita, sei narādhama chāra
+    allaṅtā mamatā jāra antare bāhire
     śuddha kṛṣṇa-nāma tāra kabhu nāhi sphure
 
 Tas, kurš dzird par Krišna-Nāma neierobežoto slavu, taču neizjūt mīlestību pret Dieva Svēto Vārdu – kura sirds nekūst no mīlestības pret to – ir nelabojami atsvešinājusies, kritusi dvēsele, zemākais no cilvēkiem (*narādhama čhāra*). Krišnas tīrais Svētais Vārds (*šuddha-Krišna-Nām*) neizpaudīs sevi tādam cilvēkam, kura domas, vārdi un rīcība ārēji un iekšēji ir saistīti ar nelabojamu pieķeršanos egoistiskajai pasaulīgajai ilūzijai “es, man un mans” (*ahamta mamata*).
@@ -116,10 +116,10 @@ Desmitais apvainojums: dziedot Svēto Vārdu saglabāt savas materiālās pieķe
 
 #### 11
 
-    ei daśa aparādha kariyā varjjana
-    ye sujana kare harināma saṅkīrttana
-    apūrva śrī-kṛṣṇa-prema labhya tāre haya
-    nāma-prabhu tāra hṛde nitya vilasaya
+    ei daśa aparādha koriyā varjana
+    jena jana kore harināma saṅkīrtana
+    apūrva śrī-kṛṣṇa-prema labhya tāre hoy
+    nāma-prabhu tāra hṛde nitya vilasay
 
 Tās tīrās dvēseles, kas ir pārņemtas ar Harī-Nāma *sankirtanu*, izvairoties no šiem desmit Svētā Vārda apvainojumiem, izgaršo Šrī Krišnas *prēmas* brīnumaino augli, jo Šrī Nāma Prabhū (personiskais, patvarīgais un žēlsirdīgais Svētais Vārds, neatšķirams no paša Kunga) parādās viņu sirdīs un mūžam pauž tajā savu ekstātisko formu, īpašības un rotaļas.
 
