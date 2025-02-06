@@ -70,7 +70,7 @@ Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Neaptveramā veidā
     yasya prasādād bhagavat-prasādo
     yasyāprasādāt na gatiḥ kuto ’pi
     dhyayaṁ stuvaṁs tasya yaśas tri-sandhyaṁ
-    vande guroḥ śrī-charaṇaravindam 
+    vande guroḥ śrī-charaṇaravindam
 
 Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas, vienmēr slavējot viņu un domājot par viņu – rītā, dienā un vakarā! Tikai pateicoties viņa žēlsirdībai var iegūt Kunga žēlastību! Ja viņš ir neapmierināts ar kādu, tam nelaimīgajam vairs nerast patvērumu nekur!
 
