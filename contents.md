@@ -36,6 +36,6 @@
 - [Ṭhākura-vaiṣṇava-gaṇa](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
 - [Nāma-Saṅkīrttan](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
 
-### Midday Songs
+### Dienas dziesmas
 
 - [Mahāprasāda](songs/mahaprasade-govinde-nama-brahmani.md)

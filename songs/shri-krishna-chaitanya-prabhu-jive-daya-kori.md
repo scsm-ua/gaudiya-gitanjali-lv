@@ -1,18 +1,18 @@
-# Śaraṇāgati – labvēlīgs aicinājums
+# Śaraṇāgati - labvēlīgs aicinājums
 
 ### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
-    śrī-kṛṣṇa-chaitanya prabhu jīve doyā kori’
+    śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
     svapārṣada svīya dhāma saha avatari
 
 Kungs Šrī Krišna Čaitanja, žēlsirdīgs pret dvēselēm, kopā ar saviem pavadoņiem un mājvietu tu nolaidies šajā pasaulē.
 
 #### 2
 
-    antyanta durlabha prema koribāre dāna
-    śikhāya śaraṇāgati bhakatera prāṇa
+    atyanta durlabha prema koribāre dāna
+    śikhāya saraṇāgati bhakatera prāṇa
 
 Tu atnāci, lai dāsni dāvātu tik reto dievišķo mīlestību, sludinot nedalītu pašatdevi, bhaktu dzīves pašu būtību.
 
@@ -26,7 +26,7 @@ Pazemība, pašatdeve, sevis atdošana Dieva gribai, “Krišna mani noteikti pa
 #### 4
 
     bhakti-anukūla mātra kārjera svīkāra
-    bhakti-pratikūla bhāva—varjjanāṅgīkāra
+    bhakti-pratikūla bhāva—varjanāṅgīkāra
 
 Kalpošanai labvēlīgas darbības pieņemšana un nelabvēlīgas – noraidīšana.
 
@@ -47,7 +47,7 @@ Saspiežot zobos zāles stiebriņu un krītot pie Šrī Rūpas un Šrī Sanātan
 #### 7
 
     kā̐diyā kā̐diyā bole, āmi to’ adhama
-    śikhāye śaraṇāgati korohe uttama
+    śikhāye śaraṇāgati karahe uttama
 
 Raudot, lejot asaras, es vēršos pie viņiem: “Es esmu pats kritušākais! Lūdzu, māciet man pašatdevi, māciet man tīru kalpošanu!”
 

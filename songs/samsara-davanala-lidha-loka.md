@@ -4,7 +4,7 @@
 
 #### 1
 
-    saṁsāra-dāvānala-līḍha-loka
+    saṁsāra-dāvānala-līḍha-loka-
     trāṇāya kāruṇya-ghanāghanatvam
     prāptasya kalyāṇa-guṇārṇavasya
     vande guroḥ śrī-charaṇāravindam
@@ -13,7 +13,7 @@ Es pielūdzu garīgā skolotāja, labvēlīgu īpašību okeāna, lotosam līdz�
 
 #### 2
 
-    mahāprabhoḥ kīrttana-nṛtya-gīta
+    mahāprabhoḥ kīrtana-nṛtya-gīta-
     vāditra-mādyan-manaso rasena
     romāñcha-kampāśru-taraṅga-bhājo
     vande guroḥ śrī-charaṇāravindam
@@ -23,7 +23,7 @@ Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņa sirds ir nepr
 #### 3
 
     śrī-vigrahārādhana-nitya-nānā-
-    śrṅgāra-tan-mandira-mārjanādau
+    śṛṅgāra-tan-mandira-mārjanādau
     yuktasya bhaktāṁś cha niyuñjato ’pi
     vande guroḥ śrī-charaṇāravindam
 
@@ -70,7 +70,7 @@ Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Neaptveramā veidā
     yasya prasādād bhagavat-prasādo
     yasyāprasādāt na gatiḥ kuto ’pi
     dhyayaṁ stuvaṁs tasya yaśas tri-sandhyaṁ
-    vande guroḥ śrī-charaṇaravindam 
+    vande guroḥ śrī-charaṇaravindam
 
 Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas, vienmēr slavējot viņu un domājot par viņu – rītā, dienā un vakarā! Tikai pateicoties viņa žēlsirdībai var iegūt Kunga žēlastību! Ja viņš ir neapmierināts ar kādu, tam nelaimīgajam vairs nerast patvērumu nekur!
 
@@ -78,7 +78,7 @@ Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas, vienmēr slavējot 
 
     śrīmad guroraṣṭakam etad uchair
     brāhme muhūrte paṭhati prayātnāt
-    yas tena vṛndāvana-nātha-sākṣāt
+    yas tena vṛndāvana-nātha-sākṣāt-
     sevaiva labhyā januṣo ’nta eva
 
 Tas, kurš ar tīru sirdi dzied šīs astoņas lūgšanas garīgajam skolotājam *brahma-muhurtā* (deviņdesmit sešas minūtes pirms saules lēkta), varēs kalpot Vrindāvanas Valdniekam!
