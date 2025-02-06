@@ -13,7 +13,7 @@ Svētie Vaišnavi, kaut arī esmu kritis bezgodis, es vēršos pie jums ar lūgu
 
 #### 2
 
-    vidhi boḍo valavān   na śune dharama-jñāna
+    vidhi boḍo valavān    na śune dharama-jñāna
         sadāi karama-pāśe bāndhe
     nā dekhi tāraṇa leśa    jata dekhi saba kleśa
         anātha kātare te̐i kānde
