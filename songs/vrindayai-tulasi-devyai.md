@@ -14,8 +14,7 @@ Es mūžam klanos Šrī Vrindadevī, Šrīmatī Tulasī Mahārānī, priekšā.
 
 Es atkal un atkal klanos savu garīgo skolotāju priekšā – Guru, kurš iesvētīja mani dievišķajā mantrā, un visu to priekšā klanos es, kuri atklāj slēpto “Šrīmad-Bhagavatam” nozīmi. Cieņas pilns es klanos Šrī Vjāsadēva, Visuma garīgā skolotāja, priekšā, kurš devis izsmeļošus “Šrīmad-Bhāgavatam” skaidrojumus.
 
-    jayaḥ sa-parikara śrī-śrī-guru-gaurāṅga-gāndharvvā-
-    govindasundar-pādapadmānāṁ jayastu!
+    jayaḥ sa-parikara śrī-śrī-guru-gaurāṅga-gāndharvā-govindasundar-pādapadmānāṁ jayastu!
 
 Lai Šrī Gurudēva, Šrīmāna Mahāprabhū un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!
 

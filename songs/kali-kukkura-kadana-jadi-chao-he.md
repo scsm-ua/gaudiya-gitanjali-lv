@@ -22,7 +22,7 @@ Viņš ir Gadādharas transcendentālais kupidons, pati Nitjānandas Prabhū dz�
 #### 3
 
     nadīyā-śaśadhara    māyāpura-īśvara,
-        nāma-prabarttana-śūra
+        nāma-prabartana-śūra
     gṛhījana-śikṣaka    nyāsikula-nāyaka,
         mādhava-rādhābhāva pūra
 
@@ -39,7 +39,7 @@ Viņš attīrīja Sarvabhauma Bhattāčārju un izglāba Prataparūdru Mahārād
 
 #### 5
 
-    braja rasa-bhāvana    duṣṭamata-śātana,
+    vraja rasa-bhāvana duṣṭamata-śātana,
         kapaṭī-vighātana-kāma
     śuddha bhakta-pālana    śuṣka jñāna-tāḍana,
         cholo bhakti-dūṣaṇa-rāma

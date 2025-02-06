@@ -3,7 +3,7 @@
 ### Šrila Bhakti Rakšak Šridhārs Dēv-Gosvami Mahārādža
 
     namo gaurakiśorāya
-        bhaktāvadhūta mūrttaye
+        bhaktāvadhūta mūrtaye
     gaurāṅghri padma-bhṛṅgāya
         rādhā-bhāva-niṣeviṇe
 
