@@ -17,7 +17,7 @@
 - [Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Gopīnāthjīu, Hāpāniyā](songs/shriman-rasa-rasarambhi.md)
 - [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
 - [Lūgšana Vaišnaviem](songs/sakala-vaishnava-pade-mora-namaskara.md)
-- [Lūgšana Vaišnaviem](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
+- [Pañcha-tattva mantra](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
 - [Harē Krišna mahā-mantra](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [Daśa-vidha Nāmāparādha](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
 
