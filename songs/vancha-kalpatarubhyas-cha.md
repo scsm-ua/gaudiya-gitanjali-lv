@@ -1,4 +1,4 @@
-# vāñchā-kalpatarubhyas’ cha
+# Vāñchā-kalpatarubhyas’ cha
 
     vāñchā-kalpatarubhyas’ cha
         kṛpā-sindhubhya eva cha
