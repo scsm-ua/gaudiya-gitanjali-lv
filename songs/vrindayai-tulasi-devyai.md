@@ -1,4 +1,4 @@
-# vṛndāyai tulasī-devyai
+# Vṛndāyai tulasī-devyai
 
     vṛndāyai tulasī-devyai
         priyāyai keśavasya cha
