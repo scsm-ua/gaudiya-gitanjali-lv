@@ -1,7 +1,7 @@
 # Śrī Gaura-ārati
 ## Šrīla Bhaktivinoda Thākurs
 
-  (kiba) jaya jaya gorācāńder āratiko śobhā
+	(kiba) jaya jaya gorācāńder āratiko śobhā
 	jāhnavī-taṭa-vane jaga-mana-lobhā
 	(jaga janer mana-lobhā)
 	(gaurāṅger āroti śobhā jaga janer mana-lobhā)
