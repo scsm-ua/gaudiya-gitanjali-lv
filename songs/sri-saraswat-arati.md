@@ -92,4 +92,4 @@ Tikai pateicoties Šrī Svarūpa Damodāra, Šrī Rāmanānda Rāja, Šrī Rūpa
 
 Visa slava Šrī Guru, Kungam Gaurangam, Šrī Rādhai un brīnišķajam Kungam Govindam! Bhaktas, vienmēr un visur dziediet par Viņu slavu!
 
-
+> page = 66
