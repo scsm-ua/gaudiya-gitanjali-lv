@@ -31,10 +31,10 @@ Vradžas (Vrindāvanas) garša jaunā noskaņojumā ir klātesoša Navadvipā. K
 
 #### 5
 
-mādhuryya kaivalya rāga brajera nirjāsa
-prāpti parākāṣṭhā tāhe gaurāṅga vilāsa
+    mādhuryya kaivalya rāga brajera nirjāsa
+    prāpti parākāṣṭhā tāhe gaurāṅga vilāsa
 
-    Mādhurja-rasa (dievišķā laulāto mīlestība) ir Vradža-dhāmas būtība, bet Šrīmāna Mahāprabhū rotaļas uznes to līdz augstākajai pilnībai.
+Mādhurja-rasa (dievišķā laulāto mīlestība) ir Vradža-dhāmas būtība, bet Šrīmāna Mahāprabhū rotaļas uznes to līdz augstākajai pilnībai.
 
 #### 6
 
