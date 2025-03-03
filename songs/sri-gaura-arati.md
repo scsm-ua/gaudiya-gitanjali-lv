@@ -67,4 +67,5 @@ Kungs Šiva, Šukadēva Gosvāmī un Nārada Mūnī – visi viņi ir klātesoš
 
 Apveltiet mani ar savu žēlsirdību! Šrī Bhaktivinoda, Šrī Sarasvatī Thākur, Gurudēv – kritušo glābēj! Kungs Gauraharī ar saviem pavadoņiem, lūdzu, dāvājiet man savu žēlsirdību.
 
+> lpp = 64
 
