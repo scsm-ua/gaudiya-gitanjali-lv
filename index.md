@@ -30,3 +30,7 @@
 - [vande vaikuṇṭha-vṛtti-stham](songs/vande-vaikuntha-vritti-stham.md)
 - [vibhāvarī śeṣa, āloka-praveśa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
+- [kiba jaya jaya gorācāńder āratiko śobhā](songs/sri-gaura-arati.md)
+- [jayare jayare jaya gaura-sarasvatī](songs/sri-saraswat-arati.md)
+- [gurudeva kṛpā-bindu diyā](songs/gurudeva.md)
+- [namo namaḥ tulasī mahārāṇī](sri-tulasi-parikrama-giti.md)
