@@ -39,3 +39,7 @@
 ### Dienas dziesmas
 
 - [Mahāprasāda](songs/mahaprasade-govinde-nama-brahmani.md)
+
+### Vakara dziesmas
+
+- [Śrī Sāraswat-ārati](songs/sri-saraswat-arati.md)
