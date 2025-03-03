@@ -36,4 +36,4 @@ Tu lej žēlsirdību pāri visiem, kas piedāvā tev vīraku, uguni, ēdienu, zi
 
 Kungs Šiva, Šukadēvs Gosvāmī, Nārada Mūnī, visi debesu iemītnieki ar Kungu Brahmu priekšgalā, mistiķi un diženie mūnī cieņpilni apiet apkārt tev. Ak, Tulasī Mahārānī, tā tevi slavē Čandrašekhars! Dāvā viņam šo velti — sevis pilnīgu veltīšanu Dievam!
 
-				 				
+> page = 69			 				
