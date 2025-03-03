@@ -44,3 +44,4 @@
 
 - [Śrī Sāraswat-ārati](songs/sri-saraswat-arati.md)
 - [Śrī Gaura-ārati](songs/sri-gaura-arati.md)
+- [Gurudeva](songs/gurudeva.md)
