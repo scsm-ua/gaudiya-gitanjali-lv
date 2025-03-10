@@ -1,5 +1,6 @@
 # Śrī Gaura-ārati
 ### Šrīla Bhaktivinoda Thākurs
+### Tulkoja Namaprīja Devī Dāsī
 
 
     (kiba) jaya jaya gorācāńder āratiko śobhā
