@@ -28,4 +28,4 @@ Ak, mans valdniek! Kad gan tava žēlastība nāks pār to, kurš ir zaudējis p
 	koruṇā nā hoile, kā̐diyā kā̐diyā,
 	prāṇa nā rākhibo āra
 
- page = 68
+> page = 68
