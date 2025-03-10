@@ -1,10 +1,11 @@
 # Śrī Sāraswat-ārati
-### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī 
+### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī
+### Tulkoja Namaprīja Devī Dāsī
 
 #### 1
 
     jayare jayare jaya gaura-sarasvatī
-    hakativinoda nvaya koruṇā murati
+    bhakativinoda nvaya koruṇā murati
 
 Visa slava! Visa slava! Visa slava Šrīlam Bhaktisiddhāntam Sarasvatī Thākuram, kurš ir tuvs Šrīlam Bhaktivinodam Thākuram, un ir Šrī Gaurangas tīrās žēlsirdības iemiesojums!
 
