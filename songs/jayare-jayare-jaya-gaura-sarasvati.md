@@ -1,6 +1,6 @@
 # Śrī Sāraswat-ārati
+
 ### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī
-### Tulkoja Namaprīja Devī Dāsī
 
 #### 1
 
