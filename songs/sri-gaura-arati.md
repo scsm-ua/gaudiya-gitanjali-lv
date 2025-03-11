@@ -1,7 +1,6 @@
 # Śrī Gaura-ārati
-### Šrīla Bhaktivinoda Thākurs
-### Tulkoja Namaprīja Devī Dāsī
 
+### Šrīla Bhaktivinoda Thākurs
 
     (kiba) jaya jaya gorācāńder āratiko śobhā
     jāhnavī-taṭa-vane jaga-mana-lobhā
