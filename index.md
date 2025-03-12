@@ -31,6 +31,7 @@
 - [vibhāvarī śeṣa, āloka-praveśa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
 - [kiba jaya jaya gorācāńder āratiko śobhā](songs/sri-gaura-arati.md)
+- [jaya jaya gurudever ārati ujjvala](songs/jaya-jaya-gurudever-arati-ujjvala.md)
 - [jayare jayare jaya gaura-sarasvatī](songs/jayare-jayare-jaya-gaura-sarasvati.md)
 - [gurudeva kṛpā-bindu diyā](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
 - [namo namaḥ tulasī mahārāṇī](namo-namah-tulasi-maharani.md)
