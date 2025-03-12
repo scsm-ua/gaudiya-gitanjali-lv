@@ -26,6 +26,7 @@
 - [Gupta Govardhana Āratī](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [Śrī Śrī Girirāj-Govardhan Ārati](songs/jaya-jaya-girirajer-arotiko-shobha.md)
 - [Śrī Śrī Nitāi-Chaitanya-Ārati](songs/jaya-guru-maharaja-karuna-sagara.md)
+- [Śrī Guru Ārati](songs/jaya-jaya-gurudever-arati-ujjvala.md)
 - [Prabhāti Gīti](songs/kali-kukkura-kadana-jadi-chao-he.md)
 - [Śrī Nām-kīrtan](songs/jashomati-nandana-vraja-vara-nagara.md)
 - [Aruṇodoya-kīrtan 1](songs/udilo-aruna-puraba-bhage.md)
