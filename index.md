@@ -2,6 +2,7 @@
 - [dīvyad-vṛndāraṇya-kalpa-drumādhaḥ](songs/divyad-vrindaranya-kalpa-drumadhah.md)
 - [gaura-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham](songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md)
 - [goswāminaṁ sudhīrākhyam](songs/goswaminam-sudhirakhyam.md)
+- [gurudeva kṛpā-bindu diyā](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
 - [gurvābhīṣṭa-supūrakaṁ guru-gaṇair](songs/gurvabhishta-supurakam-guru-ganair.md)
 - [hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [hari-nāma mahāmantra sarva-mantra-sāra](songs/hari-nama-mahamantra-sarva-mantra-sara.md)
@@ -10,14 +11,19 @@
 - [jaya guru mahārāja karuṇā-sāgara](songs/jaya-guru-maharaja-karuna-sagara.md)
 - [jaya jaya girirājer ārati viśāla](songs/jaya-jaya-girirajer-arati-vishiala.md)
 - [jaya jaya girirājer ārotiko śobhā](songs/jaya-jaya-girirajer-arotiko-shobha.md)
+- [jaya jaya gurudever ārati ujjvala](songs/jaya-jaya-gurudever-arati-ujjvala.md)
+- [jayare jayare jaya gaura-sarasvatī](songs/jayare-jayare-jaya-gaura-sarasvati.md)
 - [jayatāṁ suratau paṅgor](songs/jayatam-suratau-pangor.md)
 - [jīv jāgo, jīv jāgo, gaurāchā̐da bole](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
 - [kali-kukkura-kadana jadi chāo he](songs/kali-kukkura-kadana-jadi-chao-he.md)
+- [kiba jaya jaya gorācāńder āratiko śobhā](songs/sri-gaura-arati.md)
 - [mahāprasāde govinde nāma brahmaṇi](songs/mahaprasade-govinde-nama-brahmani.md)
 - [namo gaurakiśorāya bhaktāvadhūta mūrtaye](songs/namo-gaurakishoraya-bhaktavadhuta-murtaye.md)
+- [namo namaḥ tulasī mahārāṇī](songs/namo-namah-tulasi-maharani.md)
 - [pūjya śrī-guru-varga-vandita](songs/pujya-sri-guru-varga-vandita.md)
 - [sakala vaiṣṇava-pade mora namaskāra](songs/sakala-vaishnava-pade-mora-namaskara.md)
 - [saṁsāra-dāvānala-līḍha-loka](songs/samsara-davanala-lidha-loka.md)
+- [śrī guru charaṇa-padma, kevala-bhakati](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
 - [śrī-kṛṣṇa-chaitanya prabhu nityānanda](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
 - [śrī-siddhānta-sarasvatīti vidito](songs/shri-siddhanta-sarasvatiti-vidito.md)
@@ -30,10 +36,9 @@
 - [vande vaikuṇṭha-vṛtti-stham](songs/vande-vaikuntha-vritti-stham.md)
 - [vibhāvarī śeṣa, āloka-praveśa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
-- [kiba jaya jaya gorācāńder āratiko śobhā](songs/sri-gaura-arati.md)
-- [jaya jaya gurudever ārati ujjvala](songs/jaya-jaya-gurudever-arati-ujjvala.md)
-- [jayare jayare jaya gaura-sarasvatī](songs/jayare-jayare-jaya-gaura-sarasvati.md)
-- [gurudeva kṛpā-bindu diyā](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
-- [namo namaḥ tulasī mahārāṇī](namo-namah-tulasi-maharani.md)
+
+
+
+
 
 
