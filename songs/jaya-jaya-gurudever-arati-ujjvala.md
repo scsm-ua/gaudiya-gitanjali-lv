@@ -59,36 +59,36 @@ Lai mācītu augstākās zināšanas un sludinātu tās ļaudīm, tu visā pasau
 
 #### 9
 
-   chintyāchintya veda-jñāne tumi ādhikārī
-   sakala saṁśaya chettvā susiddhāntadhārī
+    hintyāchintya veda-jñāne tumi ādhikārī
+    akala saṁśaya chettvā susiddhāntadhārī
 
 Tu esi visu Vēdu zintnieks – gan izprotamo, gan neizprotamo! Tu sevī glabā visas šaubas novērsošas, nevainojamas garīgas atziņas un patiesības!
 
 #### 10
 
-   tomāra mahimā gāhe goloka maṇḍale
-   nitya-siddha parikare tava līlāsthale
+    omāra mahimā gāhe goloka maṇḍale
+    itya-siddha parikare tava līlāsthale
 
 Tevis uz mūžiem atbrīvotie kalpi slavina tevi Golokas garīgajā pasaulē, tavu rotaļu valstībā.
 
 #### 11
 
-   patita pāvana tumi doyāra samīra
-   sarvva-kārye sunipuṇa satya-sugambhīra
+    atita pāvana tumi doyāra samīra
+    arvva-kārye sunipuṇa satya-sugambhīra
 
 Žēlastības pilns tu glāb kritušas dvēseles. Tu esi visu kalpošanas veidu lietpratējs, tu sakņojies patiesībā un nopietnībā.
 
 #### 12
 
-   apurvva lekhanī dhārā pragāḍha pāṇḍitya
-   sadā hāsya miṣṭa bhāśī suśila kavitva
+    purvva lekhanī dhārā pragāḍha pāṇḍitya
+    adā hāsya miṣṭa bhāśī suśila kavitva
 
 Tavi brīnišķie, neatkārtojamie rakstītie darbi atspoguļo tavu zinību dziļumu. Tu vienmēr smaidi un tava runa ir salda, tā apstiprina tavas dzejiskās dotības, kuras nes mierinājumu sirdij.
 
 #### 13
 
-   sādhu-saṅge sadānandī sarala vinayī
-   sabhā-madhye vaktā śreṣṭha sarvatra vijayī 
+    ādhu-saṅge sadānandī sarala vinayī
+    abhā-madhye vaktā śreṣṭha sarvatra vijayī 
 
 Tu esi pazemīgs un tava runa ir vienkārša uztverei, bhaktu sabiedrībā tu vienmēr esi laimīgs. Garīgās pulcēšanās tu vienmēr esi labākais runātājs un visā, ko tu dari, tu vienmēr gūsti panākumus! 
 
