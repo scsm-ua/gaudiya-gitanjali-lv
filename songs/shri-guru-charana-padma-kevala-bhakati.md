@@ -29,7 +29,7 @@ Pieņem ar visu sirdi mācības, kuras nāk no garīgā skolotāja lotosam līdz
 
 Tu esi mans kungs no dzīves dzīvē; tas, kurš dāvājis man transcendentālu redzi. Pateicoties tavai žēlsirdībai, manā sirdī sevi izpaudušas dievišķas zināšanas, kas dāvā uzticību un mīlestību un uzvar tumsonību. Vēdiskie Raksti slavē tavas īpašības.
 
- #### 4 
+#### 4
  
      śrī-guru koruṇā-sindhu, 	adhama janāra bandhu,
      lokanātha lokera jīvana
