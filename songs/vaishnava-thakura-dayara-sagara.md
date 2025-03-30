@@ -1,6 +1,6 @@
 # Śrī Vaiṣṇava-mahimā-gīti
 
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhakti Vinods Thākurs
 
 #### 1
 
@@ -9,7 +9,7 @@
     diyā pada-chāyā,    śodho he āmāre,
         tomāra charaṇa dhori
 
-Oh my Lord, Oh Vaiṣṇava, Ocean of grace, Kindly be gracious to this servitor; Bestow the shade of your holy feet, purify me, I clasp your holy lotus feet.
+Ak, mans kungs, ak, Vaišnav, žēlastības okeān, lūdzu, esi žēlsirdīgs pret šo kalpu! Dāvā man pajumti savu lotosam līdzīgo pēdu ēnā, attīri mani! Izmisumā es apķeru tavas svētās pēdas!
 
 #### 2
 
@@ -18,7 +18,7 @@ Oh my Lord, Oh Vaiṣṇava, Ocean of grace, Kindly be gracious to this servitor
     choya sat-saṅga,    deho’ he āmāre,
         bosechi saṅgera āśe
 
-Subjugate the six urges, rectify the six defects, bestow the six good qualities upon this servitor; Please grant me the six kinds of saintly association; I sit at your feet aspiring for that association. *
+Pakļauj sešus dzinuļus, novērs sešus trūkumus, dāvā sešas labvēlīgas īpašības savam kalpam! Lūdzu, dāvā man sešus svētas saskarsmes veidus. Es klanos pie tavām pēdām cerībā ienākt *bhaktu* ģimenē (sk. piezīmi).
 
 #### 3
 
@@ -27,7 +27,7 @@ Subjugate the six urges, rectify the six defects, bestow the six good qualities 
     tumi kṛpā kori,    śraddhā-bindu diyā,
         deho’ kṛṣṇa-nāma-dhane
 
-On my own I have no strength to chant the Holy Name in congregation; Kindly be pleased to bestow a drop of faith in my heart, giving me the treasure of Lord Krishna’s Name.
+Pats saviem spēkiem es nespēju kopā ar citiem dziedāt Svēto Vārdu! Lūdzu, ieliec manā sirdī pilienu ticības, dāvā man Krišnas Svētā Vārda dārgumus!
 
 #### 4
 
@@ -42,19 +42,19 @@ On my own I have no strength to chant the Holy Name in congregation; Kindly be p
     (kṛṣṇa tomār hṛdoyer dhan tumi dileou dite pāro)
     (kṛṣṇa devār śakti dhara tumi dileou dite pāro)
 
-Krishna is yours, you can give Him, you have the power to do so; I who am bereft, Calling ‘Krishna, Krishna,’ am running desperately behind you.
+Krišna pieder tev, tu vari Viņu atklāt citiem, tev piemīt tāds spēks! Kā neprātīgs es saucu: “Krišna, Krišna!” un izmisis skrienu tev pakaļ.
 
-* Footnote to verse 2:
+**Piezīme pie 2. vārsmas:**
 
-The six urges are those of speech, the mind, anger, the tongue, the belly, and the genitals.
+Seši dzinuļi: runa, prāts, dusmas, mēle, kuņģis un ģenitālijas.
 
-The six faults are overeating or collecting more monetary funds than required, overendeavouring for material objectives, unnecessary talking about mundane affairs, being too attached to or too neglectful of Scriptural rules and regulations, associating with worldly-minded persons, and lusting after mundane achievements.
+Seši trūkumi: pārēšanās vai pārmērīgu iekrājumu veidošana; pārmērīgas pūles pasaulīgu mērķu sasniegšanai; saviesīgas sarunas par pasaulīgām tēmām; pārlieka uzmanība Rakstu norādījumu ievērošanā, kā arī tieši pretēji – nolaidīga attieksme pret Rakstu norādījumiem; saskarsme ar materiāli noskaņotiem cilvēkiem; kaislīga tieksme pēc pasaulīgiem sasniegumiem.
 
-The six good qualities are enthusiasm, patience, confidence, the determination to perform activities favourable to devotional service, the resolution to abandon the association of non-devotees, and the discipline required to always follow in the footsteps of the predecessor *āchāryas*.
+Sešas labvēlīgas īpašības: entuziasms, pacietība, pārliecība, apņēmība, kas nepieciešama, lai veiktu kalpošanai labvēlīgas darbības, apņēmība atteikties no materiāli noskaņotu cilvēku sabiedrības, paklausība, kas nepieciešama, lai vienmēr sekotu *āčārju* pēdām.
 
-The six kinds of saintly association are offering gifts in charity, accepting charitable gifts, revealing one’s mind in confidence, inquiring confidentially, accepting prasādam and offering prasādam.
+Seši svētas saskarsmes veidi: piedāvāt labdarības dāvanas, pieņemt ziedojumus, uzticēt savas personīgās domas citiem, uzklausīt citu personīgās domas, pieņemt *prasādu* un piedāvāt *prasādu*.
 
 
 > verse parentheses = non bold
 
-> page = 84
+> page = 76
