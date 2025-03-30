@@ -48,3 +48,4 @@
 - [Gurudeva](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
 - [Śrī Tulasī-parikramā-gīti](songs/namo-namah-tulasi-maharani.md)
 - [Śrī Guru-vaiṣṇava Māhātmya-gīti](songs/shri-guru-charana-padma-kevala-bhakati.md)
+- [Śrī Vaiṣṇava-mahimā-gīti](songs/vaishnava-thakura-dayara-sagara.md)
