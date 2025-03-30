@@ -1,3 +1,4 @@
+- [(ohe) vaiṣṇava ṭhākura, dayāra sāgara](songs/vaishnava-thakura-dayara-sagara.md)
 - [devaṁ divya-tanuṁ suchanda-vadanaṁ-bālārka-chelāñchitaṁ](songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md)
 - [dīvyad-vṛndāraṇya-kalpa-drumādhaḥ](songs/divyad-vrindaranya-kalpa-drumadhah.md)
 - [gaura-vrajāśritāśeṣair vaiṣṇavair vandya-vigraham](songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md)
