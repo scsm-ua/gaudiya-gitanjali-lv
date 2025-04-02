@@ -60,7 +60,4 @@ Lūdzu, dāvā man savas svētības, mans kungs Šrī Šrinivās Āčārja! Naro
 Lūdzu, dāvā man savas svētības, Šrīla Prabhupāda Sarasvatī Thākur, Šrī Gauras izpausme! Esmu kritis kalps un lūdzu tavu pavadoņu žēlastību!
 
 
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-savarana-sri-gaura-pada-padme-sri-krishna-chaitanya-prabhu-doya-koro-more)
-
-
 > page = 75
