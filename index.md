@@ -1,3 +1,4 @@
+- [jaya ‘guru-mahārāja’ jati-rājeśvara](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [śrī kṛṣṇa chaitanya prabhu dayā kara more](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [(ohe) vaiṣṇava ṭhākura, dayāra sāgara](songs/vaishnava-thakura-dayara-sagara.md)
 - [devaṁ divya-tanuṁ suchanda-vadanaṁ-bālārka-chelāñchitaṁ](songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md)
