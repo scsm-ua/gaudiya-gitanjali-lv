@@ -1,10 +1,9 @@
 # Śrī Śrī Prabhupāda-padma
 # Stavakaḥ
 
-## Prayer unto the Lotus Feet of my Lord and Master Śrīla Prabhupād
+## Lūgšana mana kunga un skolotāja Šrīlas Bhaktisiddhanta Sarasvatī Thākura Prabhupādas lotosam līdzīgajām pēdām
 
-### by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
-
+### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
 #### 1
 
     sujanārvuda-rādhita-pāda-yugaṁ
@@ -12,7 +11,7 @@
     varadābhaya-dāyaka-pūjya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-His lotus feet are served in devotion by multitudes of high, virtuous souls; he is the establisher of the religion of the age as he is the presiding monarch of the ViśvaVaiṣṇava-Rāja-Sabhā—the universal society of the pure devotees that are the true ‘kings’ or guides of all; and he is the fulfiller of the most cherished desires of those who dispel fear (for all souls). I make my obeisance unto the lotus feet of that illustrious great soul, worshipable by one and all — perpetually do I make my obeisance unto the radiance emanating from the toenails of the holy feet of my Lord.
+Viņa lotosam līdzīgajām pēdām uzticīgi kalpo daudzas augstas, dievbijīgas dvēseles. Viņš pasludināja šī laikmeta reliģiju (Šrī Harināma-sankirtānu). Viņš ir Višva-Vaišnava-Rādža-Sabhī – Visuma tīro bhaktu, patieso valdnieku un visas pasaules vadoņu sabiedrības monarhs. Viņš piepildīja to personību kvēlākās vēlēšanās, kuras kliedē visu dvēseļu bailes. Es krītu pie šīs dižās, visu godājamās dvēseles lotosam līdzīgajām pēdām, atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 2
 
@@ -21,7 +20,7 @@ His lotus feet are served in devotion by multitudes of high, virtuous souls; he 
     gati-vañchita-vañchakāchintya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-He is the leader of the fortunate souls blessed with the treasure of internal pure devotion; he is greatly merciful upon the fallen souls, being their only shelter; and his inconceivable holy feet are the shelter for the deceivers, by deceiving them. I make my obeisance unto his lotus feet—perpetually do I make my obeisances unto the radiance emanating from the toenails of the holy feet of my Lord.
+Viņš ir to veiksmīgo dvēseļu, kuras svētītas ar tīras garīgas kalpošanas dārgumiem, vadonis. Viņš ir neparasti žēlsirdīgs pret kritušām dvēselēm, viņš ir šo dvēseļu vienīgais patvērums, un viņa neaptveramās, svētās pēdas kļūst par krāpnieku patvērumu, maldinot tos. Es krītu pie viņa lotosam līdzīgajām pēdām, atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 3
 
@@ -30,7 +29,7 @@ He is the leader of the fortunate souls blessed with the treasure of internal pu
     madanārvuda-vandita-chandra-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-I make my obeisance unto his divine, charming yet commanding lofty form of golden hue. That beautiful figure shames the mad ecstasy of golden lotus stems. Venerated by tens of millions of Cupids, the moons of the toenails of my Worshipful Divine Master reveal the beauty of his lotus feet. Perpetually do I make my obeisance unto that effulgence emanating from the toenails of the holy feet of my Lord.
+Es klanos viņa dievišķajam, valdzinošajam un vienlaicīgi cēlajam zeltītajam veidolam. Viņa mirdzums aizēno lotosa zelta stiebru neprātīgo ekstāzi. Mana godājamā dievišķā skolotāja lotosam līdzīgo pēdu pirkstu mēneši, kuriem godu izrāda desmitiem tūkstoši kupidonu, satriec ar savu skaistumu! Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 4
 
@@ -39,7 +38,7 @@ I make my obeisance unto his divine, charming yet commanding lofty form of golde
     varaṇāgata-bāliśa-śanda-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-Like the moon that delights the stars, he is surrounded by his circle of personal servitors, making their hearts bloom in divine ecstasy. The malicious non-devotees are made to flee in panic by the sound of his thunderous roar, and the simple, inoffensive souls attain the ultimate fortune by accepting his lotus feet. I make my obeisance unto him; perpetually do I make my obeisance unto the brilliance emanating from the toenails of the holy lotus feet of my Lord.
+Līdzīgi Mēnesim, kura mirdzumu apjūsmo zvaigznes, viņu ieskauj viņam tuvi kalpi, kuru sirdis, saskaņā ar viņa gribu, atplaukst dievišķā ekstāzē. Ļaunprātīgi bezdievji panikā bēg, kad dzird viņa pērkona dārdiem līdzīgos rēcienus, bet nevainīgas dvēseles tiek apveltītas ar augstāko garīgo veiksmi, pieņemot patvērumu pie viņa lotosam līdzīgajām pēdām. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 5
 
@@ -48,7 +47,7 @@ Like the moon that delights the stars, he is surrounded by his circle of persona
     dayanīya-gaṇārpita-gaura-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-He has revealed the vast, magnificent beauty of Śrī Gaura Dhām; he has broadcast the tidings of the supreme magnanimity of Śrī Gaurāṅga throughout the whole universe; and in the hearts of the fit recipients of his grace, he has firmly established the lotus feet of Śrī Gaura. I make my obeisance unto him; perpetually do I make my obeisance unto the effulgence emanating from the toenails of the holy feet of my Lord.
+Viņš atklāja Šrī Gaura Dhāmas bezgalīgi diženo skaistumu. Visā Visumā viņš izplatīja vēsti par Šrī Gaurangas vareno žēlsirdību. Cienīgo sirdīs, kuri pieņem viņa žēlastību, viņš uz mūžiem nostriprina Šrī Gauras lotosam līdzīgās pēdas. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 6
 
@@ -57,7 +56,7 @@ He has revealed the vast, magnificent beauty of Śrī Gaura Dhām; he has broadc
     paramādṛta-bhaktivinoda-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-He is the eternal shelter and the Universal Guru for the souls surrendered unto Śrī Gaurāṅga. Absorbed in the service of his Gurudev, Śrī Gaura Kiśora, he wholeheartedly adores Śrī Bhakti Vinod Ṭhākur. I make my obeisance unto him; perpetually do I make my obeisance unto the effulgence emanating from the toenails of the holy feet of my Lord.
+Viņš ir Šrī Gaurangam veltījušos dvēseļu mūžīgais patvērums un Visuma Guru. Pārņemts ar kalpošanu savam Gurudēvam, Šrī Gaurakišoram, viņš no visas sirds godā Šrī Bhaktivinodu Thākuru. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 7
 
@@ -66,7 +65,7 @@ He is the eternal shelter and the Universal Guru for the souls surrendered unto 
     kavirāja-narottama-sakhya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-He is the illustrious personality to raise the flag that sings the glory of Śrī Rūpa, Śrī Sanātan, and Śrī Raghunāth. His glory is sung throughout the world as non-different from the powerful personality of brilliant erudition, Śrī Jīva. And he has won the renown of being one with the hearts of Śrīla Krishna Dās Kavirāj and Ṭhākur Narottam. I make my obeisance unto him; perpetually do I bow down to the brilliance emanating from the toenails of the holy feet of my Divine Master.
+Viņš ir pazīstams ar to, ka pacēla Šrī Rūpas, Šrī Sanātanas un Šrī Raghunātha slavas karogu. Visā pasaulē viņu slavē kā neatšķiramu no varenā un erudītā Šrīlas Džīvas. Viņš ir zināms kā tas, kuram piemīt sirds vienotība ar Šrīlu Krišnadāsu Kavirādžu un Thākuru Narottamu. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām. 
 
 #### 8
 
@@ -75,7 +74,7 @@ He is the illustrious personality to raise the flag that sings the glory of Śr�
     janakādhika-vatsala-snigdha-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-Bestowing his grace upon all souls, he is Hari-*kīrtan* incarnate. As the associate of Śrī Gaura, he relieves Mother Earth of the burden of offences committed upon her. And he is so gracious that his endearance of all beings excels that of even a father. I make my obeisance unto him—the mine of all these qualities; perpetually do I bow down to the effulgence emanating from the toenails of the holy feet of my Divine Master.
+Dāvājot žēlastību visām dvēselēm, viņš ir Harī-kirtana iemiesojums. Kā Šrī Gauras pavadonis viņš atbrīvo māti Zemi no nastas, kuru rada pret Zemi veiktie apvainojumi. Viņš ir tik žēlsirdīgs, ka viņa mīlestība pret visām dzīvām būtnēm pārsniedz pat vecāku mīlestību. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 9
 
@@ -84,7 +83,7 @@ Bestowing his grace upon all souls, he is Hari-*kīrtan* incarnate. As the assoc
     varam varadendra-gaṇārchita-divya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-Like a wish-fulfilling tree for his surrendered servitors (he fulfills their heart’s aspirations), even a tree is shamed by his magnanimity and forbearance. And great personalities who are competent to confer boons—they, too, worship his lotus feet. I make my obeisance unto him; perpetually do I bow down to the radiance emanating from the toenails of the holy feet of my Divine Master.
+Līdzīgi vēlmju kokam viņš piepilda savu uzticīgo kalpu sirdīs mītošās vēlēšanās. Taču pat šis salīdzinājums nevar visā pilnībā aprakstīt viņa augstsirdību un pacietību. Dižas personības, kuras dāvā svētību citiem, kalpo viņa lotosam līdzīgajām pēdām. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 10
 
@@ -93,7 +92,7 @@ Like a wish-fulfilling tree for his surrendered servitors (he fulfills their hea
     yati-rāja-gaṇaiḥ parisevya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-The crown-jewel of the *paramahaṁsas*, the Prince of the treasure of the supreme perfection of life, Śrī Krishna-*prema*, he accepted the robes of a mendicant *sannyāsī* just to deliver the fallen souls. The topmost tridaṇḍī *sannyāsīs* attend his lotus feet. I make my obeisance unto him; perpetually do I bow down to the effulgence emanating from the toenails of the holy feet of my Divine Master.
+Lielākais dārgakmens paramahamsu vidū, dzīves augstākās pilnības, Šrī Krišna-prēmas,  dārgumu valdnieks – vien, lai glābtu kritušas dvēseles, viņš pieņēma nabadzīga sannjāsī veidolu. Dižākie tridandi-sannjāsī kalpo viņa lotosam līdzīgajām pēdām. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 11
 
@@ -102,7 +101,6 @@ The crown-jewel of the *paramahaṁsas*, the Prince of the treasure of the supre
     mahad-adbhuta-pāvana-śakti-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-He is the dearmost intimate follower of the Divine Daughter of Śrī Vṛṣabhānu, and I know myself as the most fortunate by taking the dust of his holy feet upon my head. I make my obeisance unto his invincible, wondrously purifying lotus feet—perpetually do I bow to the brilliance emanating from the toenails of the holy feet of my Divine Master.
+Viņš ir Šrī Vrišabhanū dievišķās meitas tuvākais un dārgākais pavadonis, un es esmu neiedomājami veiksmīgs, jo putekļi no viņa svētajām kājām ir skāruši manu galvu. Es klanos pie viņa varenajām, lotosam līdzīgajām pēdām, kurām piemīt brīnumains attīrīšanas spēks! Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
-
-> page = 86
+> page = 78
