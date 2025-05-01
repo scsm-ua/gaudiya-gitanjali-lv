@@ -51,3 +51,4 @@
 - [Śrī Guru-vaiṣṇava Māhātmya-gīti](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Śrī Vaiṣṇava-mahimā-gīti](songs/vaishnava-thakura-dayara-sagara.md)
+- [Śrī Śrī Premadhāma-deva-stotram](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
