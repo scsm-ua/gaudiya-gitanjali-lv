@@ -1,11 +1,9 @@
 # Śrī Śrī
 # Premadhāma-deva-stotram
 
-## Saturday
+### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
 
-### Composed by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
-
-### Edited by Swāmī Bhakti Pāvan Janārdan
+### Svāmī Bhakti Pavan Džanardana redakcija
 
 #### 1
 
@@ -14,14 +12,12 @@
     kṛṣṇa-nāma-sīdhu-dhāma-dhanya-dāna-sāgaraṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-The universal gods, perfected beings, salvationists, mystic  yogis,  and  exalted  servitors  of  the  Absolute Truth, Śrī Krishna, constantly chanted the glories of Śrī Gaurasundar.
-
-In regard to Lord Chaitanya’s Pastimes, Śrīla Rūpa Goswāmī has mentioned the following verse in his Śrī Chaitanyāṣṭakam:
+Debesu iemītnieki, pilnīgās dvēseles, atbrīvošanas tīkotāji, mistiskie jogi un augstie Absolūtās Patiesības – Šrī Krišnas, kalpi, vienmēr slavē Šrī Gaurasundaru. Šrīla Rūpa Gosvāmī savā “Šrī Čaitanjaštakam” min šādu vārsmu:
 
 *sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ*\
 *vahadbhir gīr-vāṇair giriśa-parameṣṭhi-prabhṛtibhiḥ*
 
-“The gods, headed by Lord Shiva and Lord Brahmā, accepted the garb of ordinary men in the Pastimes of Śrī Chaitanyadeva in order to eternally worship Him with heartfelt affection.” Śrī Chaitanyadeva is the embodiment of that vast nectarean ocean found in Lord Krishna’s Holy Name, which is none other than Śrī Gaurāṅga’s own pure Name. Śrī Chaitanyadeva is compared to that grand milk ocean which, after being churned, produced nectar. The nectar Mahāprabhu distributes is Lord Krishna’s Holy Names, which extinguish all the miseries of material existence, such as anxieties arising from sinful activities performed in direct opposition to the Lord, and the three-fold sufferings which fuel the grand forest fire that scorches those in search of sense gratification, salvation, and mystic yoga perfections. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+“Debesu iemītnieki, ar Kungu Šivu un Kungu Brahmu priekšgalā, tērpušies vienkāršu cilvēku drānās, piedalījās Šrī Čaitanjadēva rotaļās, lai patiesā maigumā mūžīgi pielūgtu Viņu”. Šrī Čaitanjadēvs ir plašā tīra nektāra okeāna iemiesojums, kurš rod savu sākumu Svētajā Kunga Krišnas Vārdā, kas ir nekas cits kā tīrs paša Šrī Gaurangas Vārds. Šrī Čaitanjadēvu salīdzina ar dižo piena okeānu, kuru kuļot izdalījās nektārs. Nektārs, kuru izplata Mahāprabhū, ir svētie Kunga Krišnas Vārdi. Tie novērš tādas materiālās esības likstas kā prom no Kunga vedošs grēcīgas rīcības radīts nemiers un trīskāršas ciešanas, kuras tikai pastiprina meža ugunsgrēku, kurā deg juteklisko baudu un atbrīvošanas meklētāji un mistiskie jogi. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 2
 
@@ -30,7 +26,7 @@ In regard to Lord Chaitanya’s Pastimes, Śrīla Rūpa Goswāmī has mentioned 
     koṭi-kāma-mūrchitāṅghri-rūpa-rāsa-raṅgaraṁ     
     prema-dhāma-devam eva naumi gaura-sundaram
 
-The charming aura of Śrī Gaurasundar’s divine figure resembles the reflection of millions of radiant golden mirrors. Furthermore, the personified sweet fragrance of the earthly and heavenly lotus flowers humbly offer their prayers before the aromatic scent which permeates the air from the beautiful form of Śrī Chaitanya Mahāprabhu. Millions and millions of Cupids fall unconscious before the feet of Śrī Chaitanyadeva’s elegant figure. They are severely shocked because their sense of universal fame arising from their beautiful splendor is checked. While performing His joyful Pastimes of dancing, the divine form of Śrī Gaurāṅgadev playfully sways to and fro. The flowing pulsations of the Lord’s limbs move in rhythm with the various charming moods of devotional sentiments, bhāva, overwhelming His graceful figure. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Šrī Gaurasundara dievišķā ķermeņa apburošais mirdzums līdzinās miljons žilbinošu zelta spoguļu mirdzumam. Pati lotosa un paridžāta smarža velta pazemīgas lūgšanas saldajam aromātam, kurš nāk no brīnišķīgā Šrī Čaitanjas Mahāprabhū ķermeņa. Miljoni un miljoni kupidonu zaudē samaņu pie graciozā Šrī Čaitanjadēva ķermeņa pēdām. Kupidonus satriec tas, ka viņu visā Visumā zināmā mirdzošā skaistuma slava ir nobālējusi. Šrī Gaurasundars izpilda savu priecīgo deju un Viņa dievišķais ķermenis graciozi kustas. Plūstoši, līdzīgi ūdens straumei, Kunga rokas un kājas kustas vienā ritmā ar dažādo kalpošanas jūtu apburošajiem toņiem – *bhāvām*, kuras valda pār Viņu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 3
 
@@ -39,7 +35,7 @@ The charming aura of Śrī Gaurasundar’s divine figure resembles the reflectio
     śyāma-gaura-nāma-gāna-nṛtya-matta-nāgaraṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-By manifesting His five-fold aspect of divinity, Pañcha-tattva, Śrī Gaurāṅgadev was able to widely distribute the sweet Names of Lord Krishna, which is the means to the ultimate attainment in human life: unalloyed love for the Absolute Truth, Śrī Krishna, the fifth end. (The ‘fifth end’ refers to that which is beyond the attainment of religiosity, economic development, sense gratification, and liberation.) The Lord personally incarnated on the Earth planet with His expansions such as Nityānanda Prabhu and Advaita Āchārya, His intimate associates such as Gadādhara Paṇḍit, and His other general associates such as Śrīvāsa Ṭhākur. When the Lord appears, He comes armed with the weapon of the Holy Name of Krishna. While dancing in the deepest ecstasies of pure love, Lord Gaurāṅgadev, although none other than Śyāmasundar, chanted His own Names just like an ordinary citizen in the Nadīyā district. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Parādoties piecos *panča-tattvas* aspektos, Šrī Gaurangadēvs spēja visiem izdalīt saldos Kunga Krišnas vārdus, kurus dziedot var sasniegt augstāko dzīves pilnību: tīru mīlestību uz Absolūto Patiesību, Šrī Krišnu – piekto un augstāko mērķi. (“Piektais mērķis” apzīmē aiz tās pilnības robežām esošu mērķi, kuru sasniedz caur reliģiju, bagātību, jutekliskām baudām un atbrīvošanos.) Kungs personīgi iemiesojās uz Zemes kopā ar savām ekspansijām, tādām kā Nitjānanda Prabhū un Advaita Āčārja, un tuviem pavadoņiem, tādiem kā Gadadhārs Pandits un Šrīvāss Thākurs. Kungs nāk bruņojies ar Krišnas Svēto Vārdu! Dejojot dziļākajā tīras mīlestības sajūsmā, Kungs Gaurangadēvs, kurš ir neviens cits kā Šjāmasundars, dziedāja savus Paša vārdus kā parasts Nādijas apgabala iedzīvotājs.  Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 4
 
@@ -48,7 +44,7 @@ By manifesting His five-fold aspect of divinity, Pañcha-tattva, Śrī Gaurāṅ
     kaly-aghaugha-nāśa-kṛṣṇa-nāma-sīdhu-sañcharaṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Appearing in his Deity form, Śrī Gaurāṅgadev removed the miserable condition of the living entities and increased the devotional pleasure of His devotees. The Lord incarnated because He was unable to tolerate the griefstricken condition of Śrī Advaita Āchārya, the master of that charming village of Śāntipura. Śrī Advaita Āchārya was lamenting about this era being overtaken by the ugly influence of irreligious practices. Thus, in order to arrest the immoral activities in *Kali-yuga*, the Lord profusely distributed the sweet nectar of Lord Krishna’s Holy Names. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Šrī Gauradēvs atnāca Dievības veidolā, lai pārtrauktu dzīvo būtņu ciešanas un nestu laimi saviem bhaktām. Kungs iemiesojās pateicoties Šantipūras ciema vecākā, Šrī Advaita Āčārjas, lūgšanai, jo vairs nespēja izturēt Šrī Advaita Āčārjas bēdas par viņa atšķirtību no Kunga. Šrī Advaita Āčārja raudāja par šo laikmetu, kuru pārņēmusi bezdievība. Lai apturētu Kali-*jūgas* netikumīgās darbības, Kungs dāsni dalījās ar Kunga Krišnas Svēto Vārdu saldo nektāru. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 5
 
@@ -57,7 +53,7 @@ Appearing in his Deity form, Śrī Gaurāṅgadev removed the miserable conditio
     śrī-haripriyeśa-pūjyadhī-śachī-purandaraṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Śrī Gaurāṅgadev appeared in West Bengal in the sacred place known as Nabadwīp on the banks of the Ganges River. Revealing His household Pastimes in the holy abode of Nabadwīp, Śrī Gaura benedicted the beautiful courtyard surrounding Śrīnivās Paṇḍit’s residence, and pleased His dearmost associates when He manifested His nocturnal Pastimes of congregational chanting in the deepest mellows of pure dedication. The controlling life-force of Lakṣmī Priyā Devī and Viṣṇu Priyā Devī was Śrī Gaurasundar, whose intelligence was couched in  deep parental adoration for His mother and father, Śachī Devī and Jagannāth Miśra. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Šrī Gaurasundars nāca šajā pasaulē Rietumbengālijā, svētā vietā, kura atrodas Gangas krastā un ir pazīstama kā Navadvīpa. Navadvīpas svētajā mītnē Šrī Gaura spēlēja mājsaimnieka lomu, ar to svētot brīnišķīgo pagalmu, kas ieskāva Šrinivāsa Pandita mājvietu. Ar savām naksnīgajām Svētā Vārda kopīgas dziedāšanas rotaļām dziļākajās pašatdeves garšās, viņš sagādāja prieku saviem dārgākajiem pavadoņiem. Pret māti Šačidēvī un tēvu Džagannāthu Mišru dziļu mīlestību izjūtošais Gaurasundars bija Lakšmiprījas Dēvī un Višnuprījas Dēvī visas dzīves kungs. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 6
 
@@ -66,9 +62,9 @@ Appearing in his Deity form, Śrī Gaurāṅgadev removed the miserable conditio
     chāttra-saṅga-raṅga-digjigīṣu-darpa-saṁharaṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Śrī Gaurāṅgadev, the son of Śachī Devī, always performed mischievous childhood Pastimes in the association of the naughtiest boys. (Nimāi was like baby Krishna, the son of Mother Yaśodā.) Nimāi’s Pastimes, although naughty, were not only pleasing to Him, but also gladdened the hearts of His devotees.
+Šrī Gaurangadēvs, Šačidēvī dēls, darīja savas jautrās bērnu dienu nerātnības vispalaidnīgāko zēnu sabiedrībā. (Nīmajs bija līdzīgs mazajam Krišnam, Jašodas dēlam.) Nīmaja palaidnības bija patīkamas ne tikai Viņam, tās priecēja arī visu viņa bhaktu sirdis.
 
-During His adolescent years, the Lord acquired unrivaled mastery over the conclusions of the ancient Scriptures. With unexcelled logic at His command, Lord Viśvambhara artfully established the auspicious doctrine of śuddha-bhakti, unalloyed dedication unto the Sweet Absolute Truth, Lord Krishna, thereby defeating the doctrine of dry logic studied at that period by the proud, expert logicians who were all nearly atheistic scholars. Later, in the course of His adolescent Pastimes, the Lord vanquished the pride of the most famous Sanskrit scholar of all time, the Digvijayī Paṇḍit, in the company of His grammar students, on the banks of the Ganges River. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Pusaudža gados Kungs sasniedza nepārspētu meistarību Svēto rakstu slēdzienu pārzināšanā. Bruņojies ar neuzvaramu loģiku, Kungs Višvambhāra meistarīgi izveidoja visiem labvēlīgo *šuddha-bhakti* mācību – mācību par pilnīgu sevis veltīšanu Brīnišķīgajai Absolūtajai Patiesībai, Kungam Krišnam, tādā veidā sagraujot sausās loģikas sistēmu, kuru tajā laikā studēja lepnie loģikas eksperti, kļuvuši par teju ateistiskiem zinātniekiem. Vēlāk, jaunības gados, Gangas krastā Kungs, saviem gramatiku apgūstošajiem skolniekiem klātesot, satrieca tā laika pazīstamākā sanskrita pazinēja, Digvidžāja Pandita, lepnumu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 7
 
@@ -77,13 +73,11 @@ During His adolescent years, the Lord acquired unrivaled mastery over the conclu
     kṛṣṇa-nāma-mātra-bālya-kopa-śānti-saukaraṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-During His childhood Pastimes, Nimāi sat amongst discarded clay pots which had been used to cook preparations for Lord Viṣṇu. He would also play with unclean animals such as puppies, and on one occasion He laid upon a cobra, treating it as if it were Ananta Śeṣa.
+Bērnības rotaļu laikā Nīmajs mēdza sēdēt izmestu māla podu vidū, kuros iepriekš tika gatavots ēdiens Kungam Višnu, kā arī spēlēties ar netīriem dzīvniekiem, tādiem kā suņi, bet vienu reizi viņš apgūlās uz kobras tā it kā viņa būtu Ananta Šēša. Kādu reizi Nīmaju nolaupīja divi zagļi, kuri kāroja nozagt rotājumus no Viņa brīnišķīgā ķermeņa. Viens no viņiem uzsēdināja mazo Nīmaju sev uz pleciem un viņi metās bēgt. Tomēr, esot Kunga enerģijas – Jogamajas, ietekmē, viņi negaidīti attapās pie Nīmaja mājas. 
 
-Once, Nimāi was stolen away by two thieves who were intent on robbing the ornaments decorating His charming figure. Placing Nimāi on their shoulders, they enticed the small boy to come with them and then quickly fled away with Him. However, due to the Lord’s Yogamāyā potency, they suddenly found they had arrived at Nimāi’s house.
+Vēlāk Džagannātha Mišras mājā viesojās pazīstams mūks-*brahmans*. Kad viņš piedāvāja Kungam Gopalam sevis pagatavoto maltīti, Nīmajs pieņēma piedāvāto, to apēdot. Mūks atkārtoti pagatavoja un piedāvāja ēdienu Kungam. Trīs reizes pieņēmis *brahmana* piedāvāto ēdienu, Kungs parādīja Sevi *brahmanam* savā četrrokotajā veidolā. 
 
-Later, a well-known mendicant *brāhmaṇ* visited the residence of Jagannāth Miśra. When the *brāhmaṇ* began to offer some preparations he had cooked to Lord Gopāl, Nimāi spoiled the offering by eating the foodstuffs while the mendicant was offering them in meditation. After having done this to the *brāhmaṇ* three times, the Lord revealed His eight-armed form to him.
-
-Whenever the child Nimāi angrily cried, He could only be pacified by the chanting of Lord Krishna’s Holy Names. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Allaž, kad mazulis Nīmajs dusmojās vai raudāja, tikai Kunga Krišnas Svēto Vārdu dziedāšana viņu mierināja. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 8
 
@@ -92,7 +86,7 @@ Whenever the child Nimāi angrily cried, He could only be pacified by the chanti
     kūṭa-tarka-chāttra-śikṣakādi-vāda-tatparaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-In His childhood Pastimes Nimāi would sportively play in the waters of the Ganges River in different ways with His schoolmates. Sometimes Nimāi, with various laughing gestures, would also tease the young girls who came to swim in the Ganges. This same small boy, however, often presented shrewd arguments and counter-arguments before His classmates and professors. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Bērnībā Nīmajs ar saviem skolas biedriem rīkoja jautras rotaļas Gangā. Dažkārt Nīmajs ķircināja meitenes, kuras bija atnākušas Gangā nopeldēties. Un šis pats zēns bieži vien arī demonstrēja spēcīgus argumentus un pretargumentus skolas biedriem un pasniedzējiem. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 9
 
@@ -101,7 +95,7 @@ In His childhood Pastimes Nimāi would sportively play in the waters of the Gang
     sthāpitārtha-khaṇḍa-khaṇḍa-khaṇḍitārtha-sambharaṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-During the Lord’s adolescent Pastimes, He became known and respected far and wide as the greatest scholar, Nimāi Paṇḍit. The Lord would dismantle the false pride of millions of conceited scholarly logicians. Rendering them speechless by canceling and reversing their forestated conclusions, the Lord would then rebuke His own opinion and rejustify their foregone logic. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Jaunekļa vecumā Kungs kļuva plaši un tālu pazīstams kā lielākais zinātnieks, Nīmajs Pandits. Kungs iznīcināja tūkstošu pašapmierinātu, augstprātīgu zinātnieku-loģiķu nepamatoto lepnumu. Kungs atņēma viņiem runas spējas, satriecot un atspēkojot viņu izvirzītos apgalvojumus, pēcāk kritizējot savu paša viedokli un no jauna pamatojot viņu iepriekš jau noraidītos argumentus. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 10
 
@@ -110,7 +104,7 @@ During the Lord’s adolescent Pastimes, He became known and respected far and w
     dhvasta-yukti-ruddha-buddhi-datta-dhīmadādaraṁ 
     prema-dhāma-devam eva naumi gaura-sundaram
 
-After that grand Sanskrit scholar Keśava Kāśmīrī had intellectually conquered all ten directions, he came before Śrī Chaitanya Mahāprabhu on the banks of the Ganges River. At the Lord’s request, he spontaneously composed and recited many wonderful prayers in glorification of the sacred Ganges. Śrī Gaurāṅgadev then amazed the scholar when He recollected and pointed out several rhetorical errors in his compositions. Keśava Kāśmīrī skillfully presented many logical arguments in his own favour, but was ultimately defeated. Finally, when Keśava Kāśmīrī’s incompetence was exposed and his intelligence was totally perplexed, Lord Gaurāṅga compassionately respected him in a manner befitting a great scholar by preventing His students who were present from laughing at the paṇḍit. I offer my obeisances to that beautiful Golden Lord, Gaurāṅga Sundar, the divine form of Krishna-*prema*.
+Pēc tam, kad dižais sanskrita pazinējs Kēšava Kašmirī ar sava intelekta palīdzību bija guvis uzvaru visās desmit pasaules malās, Gangas krastā viņš stājās Šrī Čaitanjas Mahāprabhū priekšā. Izpildot Kunga lūgumu, viņš turpat, bez gatavošanās, sacerēja un nodeklamēja daudzas brīnišķīgas lūgšanas svētās Gangas slavai. Šrī Gaurangadēvs norādīja uz dažām retoriskām kļūdām viņa sacerējumos un ar to zinātnieku ļoti pārsteidza. Kēšava Kašmirī savai aizstāvībai prasmīgi izvirzīja daudzus loģiskus argumentus, taču beigu beigās cieta sakāvi. Kad tika atklāta Kēšavas Kašmirī nekompetence un viņa prāts bija pilnīgā mulsumā, Kungs Gauranga žēlsirdīgi izrādīja viņam cieņu kā dižam zinātniekam, lai novērstu izsmieklu no klātesošo Kunga skolnieku puses. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 
-> page = 90
+> page = 81
