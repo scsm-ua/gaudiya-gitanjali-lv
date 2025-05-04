@@ -1,3 +1,4 @@
+- [nitāi-pada-kamala, koṭī-chandra-suśītala](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
 - [jaya ‘guru-mahārāja’ jati-rājeśvara](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [śrī kṛṣṇa chaitanya prabhu dayā kara more](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [(ohe) vaiṣṇava ṭhākura, dayāra sāgara](songs/vaishnava-thakura-dayara-sagara.md)
