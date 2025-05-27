@@ -4,6 +4,7 @@
 ## Lūgšana mana kunga un skolotāja Šrīlas Bhaktisiddhanta Sarasvatī Thākura Prabhupādas lotosam līdzīgajām pēdām
 
 ### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+
 #### 1
 
     sujanārvuda-rādhita-pāda-yugaṁ
