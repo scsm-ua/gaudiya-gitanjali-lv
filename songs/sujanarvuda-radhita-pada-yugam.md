@@ -104,4 +104,5 @@ Lielākais dārgakmens paramahamsu vidū, dzīves augstākās pilnības, Šrī K
 
 Viņš ir Šrī Vrišabhanū dievišķās meitas tuvākais un dārgākais pavadonis, un es esmu neiedomājami veiksmīgs, jo putekļi no viņa svētajām kājām ir skāruši manu galvu. Es klanos pie viņa varenajām, lotosam līdzīgajām pēdām, kurām piemīt brīnumains attīrīšanas spēks! Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
+
 > page = 78
