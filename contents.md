@@ -55,3 +55,4 @@
 ### Dziesmas Nitjānandam Prabhū
 
 - [Manaḥ-Śikṣā](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
+- [Śrī Śrī Prabhupāda-padma Stavakaḥ](songs/sujanarvuda-radhita-pada-yugam.md)
