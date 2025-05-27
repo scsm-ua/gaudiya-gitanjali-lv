@@ -51,4 +51,8 @@
 - [Śrī Guru-vaiṣṇava Māhātmya-gīti](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Śrī Vaiṣṇava-mahimā-gīti](songs/vaishnava-thakura-dayara-sagara.md)
+
+### Dziesmas Nitjānandam Prabhū
+
+- [Manaḥ-Śikṣā](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
 - [Śrī Śrī Prabhupāda-padma Stavakaḥ](songs/sujanarvuda-radhita-pada-yugam.md)
