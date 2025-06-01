@@ -1,4 +1,12 @@
 - [deva-siddha-mukta-yukta-bhakta-vṛnda](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [śrī-sanātanānu-rūpa-jīva-sampradāyakaṁ](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
+- [nitāi-pada-kamala, koṭī-chandra-suśītala](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
+- [sujanārvuda-rādhita-pāda-yugaṁ](songs/sujanarvuda-radhita-pada-yugam.md)
 - [jaya ‘guru-mahārāja’ jati-rājeśvara](songs/jaya-guru-maharaja-jati-rajeshvara.md)
 - [śrī kṛṣṇa chaitanya prabhu dayā kara more](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [(ohe) vaiṣṇava ṭhākura, dayāra sāgara](songs/vaishnava-thakura-dayara-sagara.md)
@@ -40,9 +48,3 @@
 - [vande vaikuṇṭha-vṛtti-stham](songs/vande-vaikuntha-vritti-stham.md)
 - [vibhāvarī śeṣa, āloka-praveśa](songs/vibhavari-shiesha-aloka-praveshia.md)
 - [vṛndāyai tulasī-devyai](songs/vrindayai-tulasi-devyai.md)
-
-
-
-
-
-

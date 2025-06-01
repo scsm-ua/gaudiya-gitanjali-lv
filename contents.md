@@ -51,4 +51,18 @@
 - [Śrī Guru-vaiṣṇava Māhātmya-gīti](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Śrī Vaiṣṇava-mahimā-gīti](songs/vaishnava-thakura-dayara-sagara.md)
-- [Śrī Śrī Premadhāma-deva-stotram](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+
+### Śrī Śrī Premadhāma-deva-stotram
+
+- [1-10. Sestdiena](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [11-20. Svētdiena](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [21-30. Pirmdiena](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [31-40. Otrdiena](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [41-50. Wednesday](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [51-60. Ceturtdiena](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [61-72. Piektdiena](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
+
+### Dziesmas Nitjānandam Prabhū
+
+- [Manaḥ-Śikṣā](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
+- [Śrī Śrī Prabhupāda-padma Stavakaḥ](songs/sujanarvuda-radhita-pada-yugam.md)
