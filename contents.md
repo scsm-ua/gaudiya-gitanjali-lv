@@ -58,7 +58,7 @@
 - [11-20. Svētdiena](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
 - [21-30. Pirmdiena](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
 - [31-40. Otrdiena](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
-- [41-50. Wednesday](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [41-50. Trešdiena](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
 - [51-60. Ceturtdiena](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
 - [61-72. Piektdiena](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
