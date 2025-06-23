@@ -9,7 +9,7 @@
     kori nīre vāsa gelo nā piyāsa
         āpana karama phere
 
-The incarnation of Śrī Gaura is the most excellent of all incarnations. Why haven’t I worshipped Him? It is as if I was surrounded by water but denied myself a drink, returning to my own fruitive activity.
+Šrī Gauras iemiesojums pārspēj visus Dieva iemiesojumus! Kādēļ gan es neesmu Viņu pielūdzis? Atgriežoties pie darbības tās augļu dēļ, es it kā atteicu sev slāpju remdēšanu, kamēr visapkārt bija pieejams ūdens.
 
 #### 2
 
@@ -18,7 +18,7 @@ The incarnation of Śrī Gaura is the most excellent of all incarnations. Why ha
     prema-kalpataru    śrī gaurāṅga āmāra
         tāhāre bhabili biṣe
 
-I chewed the thorns of the tree of worldly life and considered the blood that flowed through my mouth to be nectar. When offered the fruits of the wish-fulfilling tree of ecstatic love of Lord Gaurāṅga, I rejected them, thinking them to be poison.
+Es gremoju pasaulīgās dzīves koka dzeloņus un riju asinis, kas piepildīja manu muti, uzskatīdams tās par nektāru. Taču, kad man piedāvāja Kunga Gaurangas reibinošās mīlestības vēlmju koka augļus, es tos atraidīju, domājot, ka tā ir inde.
 
 #### 3
 
@@ -27,7 +27,7 @@ I chewed the thorns of the tree of worldly life and considered the blood that fl
     ‘ikṣu-daṇḍa’ bhāvi’    kāṭha chuṣili (mana)
         kemone pāibi miṭha
 
-Desirous of smelling a sweet scent, I sniffed at what I thought to be a fragrant flower. Alas, that flower was odourless like the palāśa flower and instead an insect flew up my nose and bit me. Thinking material life to be sweet like sugarcane, I tried to taste its nectar. Instead, it was like chewing dry wood. In this way all my attempts at enjoyment were false.
+Vēloties baudīt saldu aromātu, es ostīju to, kas, kā man šķita, bija aromātisks zieds. Diemžēl no šī zieda, līdzīgi palaša ziedam, aromāts nenāca. Aromāta vietā no zieda izlidoja kukainis, kurš ielidoja man degunā un iedzēla man. Es tiecos baudīt pasaulīgo dzīvi, maldīgi pieņemot, ka tā ir salda kā cukura standziņas sula! Taču nektāra vietā es košļāju sausu koku. Tā visi mani centieni baudīt izrādījās veltīgi.
 
 #### 4
 
@@ -36,7 +36,7 @@ Desirous of smelling a sweet scent, I sniffed at what I thought to be a fragrant
     ‘śītala’ boliyā    āguna pohāli (mana)
         pāili bajara-tāpa
 
-Admitting defeat, wasted and worn out, I await the snake of death. Declaring it to be cool and soothing, I have embraced the fire of material life, only to suffer intense misery, as if struck by lightning.
+Atzinis savu sakāvi, nomocīts un iztukšots, es gaidu nāves čūsku. Materiālās dzīves uguni esmu pieņēmis par nomierinošu vēsumu, taču esmu iepazinis vienīgi dziļas ciešanas, gluži kā zibens sasperts!
 
 #### 5
 
@@ -45,7 +45,7 @@ Admitting defeat, wasted and worn out, I await the snake of death. Declaring it 
     iha-parakāla    dukāla khoyāli (mana)
         khāili āpana māthā
 
-Worshipping my family and my material life, I forgot Lord Gaurāṅga and didn’t listen to the instructions of the saints. Now in my final days, I realise I have died twice, for not only am I leaving this mortal body, but I am also dead while living, having wasted my life in material indulgence.
+Iegrimis pasaulīgo raižu bezdibenī, es aizmirsu par Kungu Gaurangu un nesekoju svēto norādījumiem! Tagad, savu dienu nogalē, es saprotu, ka mirstu jau otru reizi, jo, izdabājot savām materiālajām vēlmēm, esmu pavadījis tukšu dzīvi un tādējādi nomiris vēl dzīvam esot!
 
 
-> page = 136
+> page = 121
