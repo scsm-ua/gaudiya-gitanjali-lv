@@ -1,3 +1,4 @@
+- [‘dayāl nitāi chaitanya’ bo’le nāch re](songs/dayal-nitai-chaitanya-bole-nach-re.md)
 - [nitāi guṇamaṇi āmāra nitāi guṇamaṇi](songs/nitai-gunamani-amara-nitai-gunamani.md)
 - [deva-siddha-mukta-yukta-bhakta-vṛnda](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
 - [sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
