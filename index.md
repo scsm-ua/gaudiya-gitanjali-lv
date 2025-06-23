@@ -1,3 +1,4 @@
+- [avatāra sāra gorā avatāra](songs/avatara-sara-gora-avatara.md)
 - [deva-siddha-mukta-yukta-bhakta-vṛnda](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
 - [sūtra-vṛtti-ṭippanīṣṭa-sūkṣma-vāchanādbhutaṁ](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
 - [dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
