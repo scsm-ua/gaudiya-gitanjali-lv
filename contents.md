@@ -69,3 +69,4 @@
 
 ### Kungam Čaitanjam veltītas dziesmas
 - [Avatāra Sāra](songs/avatara-sara-gora-avatara.md)
+- [Śrī Nāma](songs/gay-gora-madhur-svare.md)
