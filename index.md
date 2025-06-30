@@ -1,4 +1,5 @@
 - [gāy gorā madhur svare](songs/gay-gora-madhur-svare.md)
+- [‘dayāl nitāi chaitanya’ bo’le nāch re](songs/dayal-nitai-chaitanya-bole-nach-re.md)
 - [avatāra sāra gorā avatāra](songs/avatara-sara-gora-avatara.md)
 - [nitāi guṇamaṇi āmāra nitāi guṇamaṇi](songs/nitai-gunamani-amara-nitai-gunamani.md)
 - [deva-siddha-mukta-yukta-bhakta-vṛnda](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
