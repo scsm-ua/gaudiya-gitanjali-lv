@@ -67,6 +67,7 @@
 - [Manaḥ-Śikṣā](songs/nitai-pada-kamala-koti-chandra-sushitala.md)
 - [Śrī Śrī Prabhupāda-padma Stavakaḥ](songs/sujanarvuda-radhita-pada-yugam.md)
 - [Nitāi guṇamaṇi āmāra](songs/nitai-gunamani-amara-nitai-gunamani.md)
+- [Dayāl Nitāi Chaitanya](songs/dayal-nitai-chaitanya-bole-nach-re.md)
 
 ### Kungam Čaitanjam veltītas dziesmas
 - [Avatāra Sāra](songs/avatara-sara-gora-avatara.md)
