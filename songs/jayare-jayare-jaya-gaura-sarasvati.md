@@ -1,6 +1,6 @@
 # Śrī Sāraswat-ārati
 
-### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī
+### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
 
 #### 1
 

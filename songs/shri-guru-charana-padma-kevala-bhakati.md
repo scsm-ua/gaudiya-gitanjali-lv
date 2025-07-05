@@ -1,6 +1,7 @@
 # Śrī Guru-vaiṣṇava 
 # Māhātmya-gīti
-### Šrīla Narottams dāsa Thākurs
+
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 

@@ -1,3 +1,7 @@
+---
+author: Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+---
+
 # Daśa-vidha Nāmāparādha
 
 ## Desmit Svētā Vārda apvainojumi

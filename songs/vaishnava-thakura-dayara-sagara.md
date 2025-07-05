@@ -1,6 +1,6 @@
 # Śrī Vaiṣṇava-mahimā-gīti
 
-### Šrīla Bhakti Vinods Thākurs
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 

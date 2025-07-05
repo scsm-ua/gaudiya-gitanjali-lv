@@ -1,6 +1,6 @@
 # Šrīla Gaura Kišora Dāsa Bābadžī Mahārādža
 
-### Šrila Bhakti Rakšak Šridhārs Dēv-Gosvami Mahārādža
+### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
 
     namo gaurakiśorāya
         bhaktāvadhūta mūrtaye
