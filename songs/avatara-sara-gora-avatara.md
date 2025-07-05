@@ -1,6 +1,6 @@
 # Avatāra Sāra
 
-### by Śrīla Lochan Dās Ṭhākur
+### Šrīla Ločans Dāsa Thākurs
 
 #### 1
 
