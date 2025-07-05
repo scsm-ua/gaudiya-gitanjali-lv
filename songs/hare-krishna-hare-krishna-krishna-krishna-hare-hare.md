@@ -1,3 +1,7 @@
+---
+author: Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+---
+
 # Harē Krišna mahā-mantra
 
     hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare
