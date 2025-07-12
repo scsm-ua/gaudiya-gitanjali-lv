@@ -1,5 +1,5 @@
 ---
-author: Śrīla Bhakti Vinod Ṭhākur
+author: Šrīla Bhaktivinoda Thākurs
 ---
 
 # Lūgšana Vaišnaviem

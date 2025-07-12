@@ -1,5 +1,5 @@
 ---
-author: Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj
+author: Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
 ---
 
 # Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
