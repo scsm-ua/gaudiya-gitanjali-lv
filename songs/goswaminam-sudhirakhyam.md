@@ -1,3 +1,7 @@
+---
+author: Śrīla Bhakti Sudhīr Goswāmī Mahārāj
+---
+
 # Šrīla Bhakti Sudhīrs Gosvāmī Mahārādža
 
     goswāminaṁ sudhīrākhyaṁ

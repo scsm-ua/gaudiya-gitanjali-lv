@@ -1,3 +1,7 @@
+---
+author: Śrīla Bhakti Vinod Ṭhākur
+---
+
 # Lūgšana Vaišnaviem
 
     sakala vaiṣṇava-pade mora namaskāra
