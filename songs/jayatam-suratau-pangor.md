@@ -1,5 +1,5 @@
 ---
-author: Śrīla Rūpa Goswāmī
+author: Šrīla Rūpa Gosvāmī
 ---
 
 # Śrī-Śrī-Guru-Gaurāṅga-Rādhā-Madana-Mohanjīu

@@ -1,5 +1,5 @@
 ---
-author: Śrīla Rūpa Goswāmī
+author: Šrīla Rūpa Gosvāmī
 ---
 
 # Šrī-Šrī-Guru-Gauranga-Gandharva-Govindasundardži

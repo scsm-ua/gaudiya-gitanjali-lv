@@ -1,5 +1,5 @@
 ---
-author: Śrīla Bhakti Sudhīr Goswāmī Mahārāj
+author: Šrīla Bhakti Sudhir Gosvāmī Mahārādža
 ---
 
 # Šrīla Bhakti Sudhīrs Gosvāmī Mahārādža

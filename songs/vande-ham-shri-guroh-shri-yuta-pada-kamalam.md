@@ -1,5 +1,5 @@
 ---
-author: Śrīla Kṛṣṇadās Kavirāj Goswāmī
+author: Šrīla Krišnadāsa Kavirādžs Gosvāmī
 ---
 
 # Vandana
