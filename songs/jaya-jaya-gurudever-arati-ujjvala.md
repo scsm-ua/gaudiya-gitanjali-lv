@@ -1,10 +1,8 @@
-
-
 # Śrī Guru Ārati
 
 ## Šrīlas Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža slavināšana
 
-### Śrīpād B. A. Paramahaṁsa Mahārāj
+### Šrīpāds B.A. Paramahamsa Mahārādža
 
 #### 1
 
