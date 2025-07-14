@@ -1,3 +1,7 @@
+---
+author: Šrīla Krišnadāsa Kavirādžs Gosvāmī
+---
+
 # Vandana
 
     vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ

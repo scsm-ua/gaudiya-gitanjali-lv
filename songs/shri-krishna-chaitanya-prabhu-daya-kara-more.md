@@ -1,7 +1,7 @@
 # Sāvaraṇa-Śrī-Gaura-pāda-padme
 # Prārthanā
 
-### Šrīla Narottāms Dāsa Thākurs
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 

@@ -1,3 +1,7 @@
+---
+no-author: 1
+---
+
 # Vṛndāyai tulasī-devyai
 
     vṛndāyai tulasī-devyai

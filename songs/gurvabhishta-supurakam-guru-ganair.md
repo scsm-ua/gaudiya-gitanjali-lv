@@ -1,3 +1,7 @@
+---
+author: Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+---
+
 # Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
 
     gurvābhīṣṭa-supūrakaṁ guru-gaṇair

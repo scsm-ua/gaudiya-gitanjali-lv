@@ -1,3 +1,7 @@
+---
+author: Šrīla Bhaktivinoda Thākurs
+---
+
 # Lūgšana Vaišnaviem
 
     sakala vaiṣṇava-pade mora namaskāra

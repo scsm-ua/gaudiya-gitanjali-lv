@@ -1,6 +1,6 @@
 # Gupta Govardhana Āratī
 
-### Šrīla Bhakti Sundars Govinda Dēv-Gosvāmī Mahārādža
+### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
 
 #### 1
 

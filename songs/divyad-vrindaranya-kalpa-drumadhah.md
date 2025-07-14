@@ -1,3 +1,7 @@
+---
+author: Šrīla Rūpa Gosvāmī
+---
+
 # Šrī-Šrī-Guru-Gauranga-Gandharva-Govindasundardži
 
 ## Navadvīpa, Šrī Čaitanja Sarasvat Maths

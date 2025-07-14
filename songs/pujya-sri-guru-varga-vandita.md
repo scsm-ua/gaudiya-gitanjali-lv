@@ -1,3 +1,7 @@
+---
+author: Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+---
+
 # Šrīla Bhakti Nirmal Āčārja Mahārādža
 
     pūjya śrī-guru-varga-vandita
