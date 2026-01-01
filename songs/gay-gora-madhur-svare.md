@@ -1,3 +1,8 @@
+---
+page: 122
+first_line: gāy gorā madhur svare
+---
+
 # Śrī Nāma
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -31,5 +36,3 @@ Sapinies *majas* tīklos, tu esi kļuvis par ilūzijas vergu un esi veltīgi ver
 
 Tava dzīve nešaubīgi drīz beigsies, taču tu neesi pielūdzis Hrišīkēšu, jutekļu (maņu) Valdnieku. Bhaktivinoda lūdz tevi: pagaršo kaut reizi *nāma-rasu*, Svētā Vārda nektāru!
 
-
-> page = 122

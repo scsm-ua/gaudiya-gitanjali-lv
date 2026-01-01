@@ -1,3 +1,8 @@
+---
+page: 121
+first_line: avatāra sāra gorā avatāra
+---
+
 # Avatāra Sāra
 
 ### Šrīla Ločans Dāsa Thākurs
@@ -47,5 +52,3 @@ Atzinis savu sakāvi, nomocīts un iztukšots, es gaidu nāves čūsku. Materiā
 
 Iegrimis pasaulīgo raižu bezdibenī, es aizmirsu par Kungu Gaurangu un nesekoju svēto norādījumiem! Tagad, savu dienu nogalē, es saprotu, ka mirstu jau otru reizi, jo, izdabājot savām materiālajām vēlmēm, esmu pavadījis tukšu dzīvi un tādējādi nomiris vēl dzīvam esot!
 
-
-> page = 121

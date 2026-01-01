@@ -1,3 +1,9 @@
+---
+verse parentheses: non bold
+page: 76
+first_line: (ohe) vaiṣṇava ṭhākura, dayāra sāgara
+---
+
 # Śrī Vaiṣṇava-mahimā-gīti
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -54,7 +60,3 @@ Sešas labvēlīgas īpašības: entuziasms, pacietība, pārliecība, apņēmī
 
 Seši svētas saskarsmes veidi: piedāvāt labdarības dāvanas, pieņemt ziedojumus, uzticēt savas personīgās domas citiem, uzklausīt citu personīgās domas, pieņemt *prasādu* un piedāvāt *prasādu*.
 
-
-> verse parentheses = non bold
-
-> page = 76

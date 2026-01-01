@@ -1,3 +1,8 @@
+---
+page: 66
+first_line: jayare jayare jaya gaura-sarasvatī
+---
+
 # Śrī Sāraswat-ārati
 
 ### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
@@ -93,4 +98,3 @@ Tikai pateicoties Šrī Svarūpa Damodāra, Šrī Rāmanānda Rāja, Šrī Rūpa
 
 Visa slava Šrī Guru, Kungam Gaurangam, Šrī Rādhai un brīnišķajam Kungam Govindam! Bhaktas, vienmēr un visur dziediet par Viņu slavu!
 
-> page = 66

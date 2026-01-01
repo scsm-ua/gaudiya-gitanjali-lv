@@ -1,3 +1,8 @@
+---
+page: 17
+first_line: vande bhaktivinodaṁ śrī-gaura-śakti-svarūpakam
+---
+
 # Šrīla Bhaktivinoda Thākurs
 
 ### Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
@@ -9,5 +14,3 @@
 
 Es klanos Šrī Thākura Bhaktivinodas priekšā, kurš ir Mahāprabhū dievišķās mīlestības iemiesojums. Viņš ir karalis Svēto Rakstu slēptās būtības pazinēju vidū. Viņš ir Šrī Rādhas garīgās kalpošanas okeāns.
 
-
-> page = 17

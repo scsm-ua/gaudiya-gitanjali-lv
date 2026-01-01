@@ -1,3 +1,8 @@
+---
+page: 134
+first_line: ṭhākura vaiṣṇava-gaṇa kori ei nivedana
+---
+
 # Ṭhākura-vaiṣṇava-gaṇa
 
 ### Šrīla Narottams Dāsa Thākurs
@@ -38,5 +43,3 @@ Es līdzinos aklajam, kurš nespēj atšķirt, kur ir patiesība, bet kur – ma
 
 Manu prātu pievilināja īslaicīgs maņu apmierinājums un es neapzinājos patieso savas dzīves mērķi, tādēļ pat necentos krist pie Tavām lotosam līdzīgajām pēdām, ak, Kungs! Narottams Dāsa lūdzas: “Tagad, kad es varu redzēt un dzirdēt Vaišnavus, esmu atbrīvojies no visām bailēm.”
 
-
-> page = 134

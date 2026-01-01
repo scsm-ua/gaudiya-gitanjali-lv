@@ -1,5 +1,7 @@
 ---
+page: 12
 author: Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+first_line: pūjya śrī-guru-varga-vandita
 ---
 
 # Šrīla Bhakti Nirmal Āčārja Mahārādža
@@ -13,7 +15,5 @@ author: Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
     vande śrī-gurudevam ānata-śirā
         āchāryya-varyyaṁ nijam
 
-Es noliecu galvu mūžībā klanoties Gurudēva – labākā no āčārjām, Šrīlas Bhakti Nirmal Āčārja Mahārādžas, priekšā. Viņš ir uzticams un modrs tīras garīgas kalpošanas straumes sargs. Šī straume plūst no mūsu slavētās Šrī Rūpanūga Guru-vargas viņu pašaizliedzīgajā sevis veltīšanā Mahābhāvai, Šrīmatī Rādharānī. 
+Es noliecu galvu mūžībā klanoties Gurudēva – labākā no āčārjām, Šrīlas Bhakti Nirmal Āčārja Mahārādžas, priekšā. Viņš ir uzticams un modrs tīras garīgas kalpošanas straumes sargs. Šī straume plūst no mūsu slavētās Šrī Rūpanūga Guru-vargas viņu pašaizliedzīgajā sevis veltīšanā Mahābhāvai, Šrīmatī Rādharānī.
 
-
-> page = 12

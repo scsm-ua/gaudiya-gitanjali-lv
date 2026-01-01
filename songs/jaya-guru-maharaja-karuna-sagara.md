@@ -1,3 +1,8 @@
+---
+page: 36
+first_line: jaya guru mahārāja karuṇā-sāgara
+---
+
 # Śrī Śrī Nitāi-Chaitanya-Ārati
 
 ### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
@@ -89,5 +94,3 @@ Sarvabhauma Bhattāčārjas, Gopinātha Āčārjas un Džīvas Gosvāmī *sampra
 
 Neizprotamā kārtā Šrī Šrī Nitai-Čaitanja ir izpauduši sevi un, pateicoties Šrī Gurudēva žēlsirdībai, šī kritusī dvēsele redz Viņu *āratī* un piedalās *sankirtanā*!
 
-
-> page = 36

@@ -1,3 +1,8 @@
+---
+page: 75
+first_line: śrī kṛṣṇa chaitanya prabhu dayā kara more
+---
+
 # Sāvaraṇa-Śrī-Gaura-pāda-padme
 # Prārthanā
 
@@ -59,5 +64,3 @@ Lūdzu, dāvā man savas svētības, mans kungs Šrī Šrinivās Āčārja! Naro
 
 Lūdzu, dāvā man savas svētības, Šrīla Prabhupāda Sarasvatī Thākur, Šrī Gauras izpausme! Esmu kritis kalps un lūdzu tavu pavadoņu žēlastību!
 
-
-> page = 75

@@ -1,3 +1,8 @@
+---
+page: 48
+first_line: saṁsāra-dāvānala-līḍha-loka
+---
+
 # Śrī Śrī Gurvāṣṭaka
 
 ### Šrīla Višvanāths Čakravartī Thākurs
@@ -83,5 +88,3 @@ Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas, vienmēr slavējot 
 
 Tas, kurš ar tīru sirdi dzied šīs astoņas lūgšanas garīgajam skolotājam *brahma-muhurtā* (deviņdesmit sešas minūtes pirms saules lēkta), varēs kalpot Vrindāvanas Valdniekam!
 
-
-> page = 48

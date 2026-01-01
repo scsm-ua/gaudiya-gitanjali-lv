@@ -1,3 +1,8 @@
+---
+page: 55
+first_line: hari haraye namaḥ kṛṣṇa yādavāya namaḥ
+---
+
 # Nāma-Saṅkīrttan
 
 ### Šrīla Narottams Dāsa Thākurs
@@ -72,5 +77,3 @@ Domājot par garīgā skolotāja un svēto Vaišnavu dievišķajām pēdām, dzi
 
 Vēloties gūt Šrī Guru un Vaišnavu lotosam līdzīgo pēdu patvērumu, Narottams Dāsa dzied Svētā Vārda sankirtanu - Svētā Vārda slavu!
 
-
-> page = 55

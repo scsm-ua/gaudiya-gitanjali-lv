@@ -1,5 +1,7 @@
 ---
+page: 11
 author: Šrīla Krišnadāsa Kavirādžs Gosvāmī
+first_line: vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ
 ---
 
 # Vandana
@@ -20,5 +22,3 @@ author: Šrīla Krišnadāsa Kavirādžs Gosvāmī
 
 Pielietojot dziedējošās zināšanas par saikni ar Dievu – apkārtējās pasaules pareizas uztveres ziedi, mans garīgais skolotājs atmodināja manu iekšējo redzi. Tādējādi viņš izglāba mani no neziņas tumsas un dāvāja cerību. Cieņas pilns es klanos Šrī Gurudēva priekšā.
 
-
-> page = 11

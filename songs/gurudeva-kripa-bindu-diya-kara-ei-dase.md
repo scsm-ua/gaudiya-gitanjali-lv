@@ -1,3 +1,8 @@
+---
+page: 68
+first_line: gurudeva kṛpā-bindu diyā
+---
+
 # Gurudeva
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -29,4 +34,3 @@ Ak, mans valdniek! Kad gan tava žēlastība nāks pār to, kurš ir zaudējis p
     koruṇā nā hoile, kā̐diyā kā̐diyā,
     prāṇa nā rākhibo āra
 
-> page = 68

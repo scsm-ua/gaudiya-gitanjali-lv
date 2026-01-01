@@ -1,5 +1,7 @@
 ---
+page: 20
 author: Šrīla Rūpa Gosvāmī
+first_line: dīvyad-vṛndāraṇya-kalpa-drumādhaḥ
 ---
 
 # Šrī-Šrī-Guru-Gauranga-Gandharva-Govindasundardži
@@ -13,5 +15,3 @@ author: Šrīla Rūpa Gosvāmī
 
 Es pastāvīgi domāju par Dievišķo Pāri, Šrī Šrī Gandharva-Govinda, kuri sēž brīnišķīgā, dimantiem rotātā tronī izslavētajā Vradžas mežā zem visus prātus pievelkošā vēlmju koka. Viņi sēž pašaizliedzīgo kalpotāju – Šrī Lalitas Devi un Šrī Rūpas Mandžārī kompānijā, kā arī citu tuvu pavadoņu, tādu kā prijanarma-sakhī, sabiedrībā.
 
-
-> page = 20

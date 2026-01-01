@@ -1,5 +1,7 @@
 ---
+page: 21
 author: Šrīla Bhaktivinoda Thākurs
+first_line: sakala vaiṣṇava-pade mora namaskāra
 ---
 
 # Lūgšana Vaišnaviem
@@ -11,5 +13,3 @@ author: Šrīla Bhaktivinoda Thākurs
 
 Es cieņpilni klanos pie visu Vaišnavu lotosam līdzīgajām pēdām, lūdzot par to, lai manus centienus kalpot viņiem neskartu apvainojumu ēna. Ar cieņu es klanos pie visu esošo un topošo Vaišnavu lotosam līdzīgajām pēdām.
 
-
-> page = 21

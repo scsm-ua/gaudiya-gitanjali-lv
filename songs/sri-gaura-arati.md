@@ -1,3 +1,8 @@
+---
+page: 64
+first_line: kiba jaya jaya gorācāńder āratiko śobhā
+---
+
 # Śrī Gaura-ārati
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -13,7 +18,7 @@ Visa slava, visa slava brīnišķajai Kunga Gauračandras pielūgšanas ceremoni
     (kiba) dakṣiṇe nitāichā̐d bāme gadādhara
     nikaṭe advaita śrīnivāsa chatra-dhara
 
-Pa labi no Kunga Gauračandras ir Kungs Nitjānanda, bet pa kreisi no Viņa – Šrī Gadādhāra. Blakus stāv Šrī Advaita, bet Šrīvāss Thākurs tur lietussargu virs Kunga galvas. 
+Pa labi no Kunga Gauračandras ir Kungs Nitjānanda, bet pa kreisi no Viņa – Šrī Gadādhāra. Blakus stāv Šrī Advaita, bet Šrīvāss Thākurs tur lietussargu virs Kunga galvas.
 
     (kiba) bosiyāche gaurāchā̐d ratna-siṁhāsane
     (ratna-simhāsana alo korere
@@ -66,6 +71,4 @@ Kungs Šiva, Šukadēva Gosvāmī un Nārada Mūnī – visi viņi ir klātesoš
     (nitāi gaura haribol)
 
 Apveltiet mani ar savu žēlsirdību! Šrī Bhaktivinoda, Šrī Sarasvatī Thākur, Gurudēv – kritušo glābēj! Kungs Gauraharī ar saviem pavadoņiem, lūdzu, dāvājiet man savu žēlsirdību.
-
-> page = 64
 

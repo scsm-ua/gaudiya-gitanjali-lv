@@ -1,3 +1,9 @@
+---
+verse parentheses: non bold
+page: 116
+first_line: ‘dayāl nitāi chaitanya’ bo’le nāch re
+---
+
 # Dayāl Nitāi Chaitanya
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -30,6 +36,3 @@ Kad arī tu atbrīvosies no apvainojumiem, iegūsi mīlestību uz Dievu. Atkārt
 
 Kad parādās pieķeršanās Krišnas Svētajam Vārdam, dzīvas būtnes dzīve piepildās ar patiesu laimi! Bez pieķeršanās Krišnam, dzīve ir tukša un veltīga. Ja Kunga Gauras žēlsirdība būs klātesoša, dzīves noslēgumā tu varēsi skatīt brīnišķīgos Rādhas un Šjāma tēlus Vrindavanā!
 
-> verse parentheses = non bold
-
-> page = 116

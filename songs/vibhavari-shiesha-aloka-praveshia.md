@@ -1,3 +1,8 @@
+---
+page: 52
+first_line: vibhāvarī śeṣa, āloka-praveśa
+---
+
 # Vibhāvarī Śeṣa
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -74,5 +79,3 @@ Viņš dāvā laimi saviem *bhaktām*. Krišna ir neizsīkstošs mīlestības av
 
 Kungs Krišna ir Jamūnas upes dzīvība. Viņš ir vienmēr mīlas rotaļu pārņemts. Viņš ir kā mirdzošs mēness *gopījām*, kuras, līdzīgi putniem čakora, dzīvo pateicoties Mēness gaismai. Mans prāts, ak, ieklausies šajos vārdos un slavē Šrī Krišnu, dziedot Viņa Svētos Vārdus, kuri ir nektāra saldās garšas piepildīti!
 
-
-> page = 52
