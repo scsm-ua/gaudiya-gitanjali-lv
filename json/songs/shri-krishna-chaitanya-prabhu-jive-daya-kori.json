@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 50,
+    "first_line": "śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’"
+  },
   "title": [
     "Śaraṇāgati - labvēlīgs aicinājums"
   ],
@@ -76,8 +80,5 @@
         "Raudot, lejot asaras, es vēršos pie viņiem: “Es esmu pats kritušākais! Lūdzu, māciet man pašatdevi, māciet man tīru kalpošanu!”"
       ]
     }
-  ],
-  "attributes": {
-    "page": "50"
-  }
+  ]
 }

@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "verse parentheses": "non bold",
+    "page": 76,
+    "first_line": "(ohe) vaiṣṇava ṭhākura, dayāra sāgara"
+  },
   "title": [
     "Śrī Vaiṣṇava-mahimā-gīti"
   ],
@@ -65,9 +70,5 @@
         "Seši svētas saskarsmes veidi: piedāvāt labdarības dāvanas, pieņemt ziedojumus, uzticēt savas personīgās domas citiem, uzklausīt citu personīgās domas, pieņemt *prasādu* un piedāvāt *prasādu*."
       ]
     }
-  ],
-  "attributes": {
-    "verse parentheses": "non bold",
-    "page": "76"
-  }
+  ]
 }

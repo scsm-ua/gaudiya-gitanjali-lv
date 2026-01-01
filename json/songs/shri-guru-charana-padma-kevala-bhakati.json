@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 80,
+    "first_line": "śrī guru charaṇa-padma, kevala-bhakati"
+  },
   "title": [
     "Śrī Guru-vaiṣṇava",
     "Māhātmya-gīti"
@@ -51,8 +55,7 @@
         " hā hā prabhu koro doyā, \tdeho more pada-chāyā,",
         " ebe jaśa ghuṣuk tribhuvana",
         " (e adhama loilo śaraṇa)",
-        " (tuyā pade loinu śaraṇa)",
-        ""
+        " (tuyā pade loinu śaraṇa)"
       ],
       "translation": [
         "Ak, garīgais skolotāj, žēlsirdības okeān un kritušo dvēseļu draugs! Tu esi katra skolotājs un mūsu visu dzīve! Mans valdniek, esi žēlīgs pret mani un ļauj man rast patvērumu tavu lotosam līdzīgo pēdu ēnā! Lai tava slava izplatās visās trīs pasaulēs!"
@@ -72,8 +75,5 @@
         "Esmu nodevis sevi tavām lotosam līdzīgajām pēdām! Lūdzu, esi žēlsirdīgs pret mani, Šrī Gurudēv, kritušo glābēj, lūdzu, dāvā man savu žēlsirdību! Tu esi kritušo dvēseļu glābējs! Slava tev, Šrī Gurudēv!"
       ]
     }
-  ],
-  "attributes": {
-    "page": "80"
-  }
+  ]
 }

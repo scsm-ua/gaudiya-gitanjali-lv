@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 42,
+    "first_line": "udilo aruṇa pūraba-bhāge"
+  },
   "title": [
     "Aruṇodoya-kīrtan"
   ],
@@ -105,8 +109,5 @@
         "Lai kliedētu neziņas tumsu un svētītu dvēseles visā Visumā, brīnišķais Krišnas Vārds uzausa līdzīgi mirdzošai saulei!"
       ]
     }
-  ],
-  "attributes": {
-    "page": "42"
-  }
+  ]
 }

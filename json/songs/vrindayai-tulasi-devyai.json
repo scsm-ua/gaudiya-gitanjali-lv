@@ -1,6 +1,8 @@
 {
   "meta": {
-    "no-author": 1
+    "page": 22,
+    "no-author": 1,
+    "first_line": "vṛndāyai tulasī-devyai"
   },
   "title": [
     "Vṛndāyai tulasī-devyai"
@@ -36,8 +38,5 @@
         "Lai Šrī Gurudēva, Šrīmāna Mahāprabhū un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!"
       ]
     }
-  ],
-  "attributes": {
-    "page": "22"
-  }
+  ]
 }

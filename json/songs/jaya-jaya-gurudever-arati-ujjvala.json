@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 42,
+    "first_line": "jaya jaya gurudever ārati ujjvala"
+  },
   "title": [
     "Śrī Guru Ārati"
   ],
@@ -169,8 +173,5 @@
         "Ak, mans valdniek, Šrī Gaurangas žēlastības izpausme, lūdzu, esi žēlastīgs pret mani! Šādi, tevi pielūdzot, vienmēr lūdzas tavs nenozīmīgais kalps!"
       ]
     }
-  ],
-  "attributes": {
-    "page": "42"
-  }
+  ]
 }

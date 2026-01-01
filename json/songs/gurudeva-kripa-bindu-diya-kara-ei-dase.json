@@ -1,4 +1,8 @@
 {
+  "meta": {
+    "page": 68,
+    "first_line": "gurudeva kṛpā-bindu diyā"
+  },
   "title": [
     "Gurudeva"
   ],
@@ -48,8 +52,5 @@
         "prāṇa nā rākhibo āra"
       ]
     }
-  ],
-  "attributes": {
-    "page": "68"
-  }
+  ]
 }

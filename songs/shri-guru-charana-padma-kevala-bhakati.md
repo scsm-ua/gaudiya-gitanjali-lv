@@ -44,7 +44,6 @@ Tu esi mans kungs no dzīves dzīvē; tas, kurš dāvājis man transcendentālu 
      (e adhama loilo śaraṇa)
      (tuyā pade loinu śaraṇa)
 
-
 Ak, garīgais skolotāj, žēlsirdības okeān un kritušo dvēseļu draugs! Tu esi katra skolotājs un mūsu visu dzīve! Mans valdniek, esi žēlīgs pret mani un ļauj man rast patvērumu tavu lotosam līdzīgo pēdu ēnā! Lai tava slava izplatās visās trīs pasaulēs!
 
 #### 5
