@@ -1,3 +1,10 @@
+---
+page:
+  - 39
+  - 60
+first_line: jaśomatī-nandana vraja-vara nāgara
+---
+
 # Śrī Nām-kīrtan
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -37,6 +44,3 @@ Krišna pasargā visus Vrindāvanas mežu iemītniekus un uzvar dēmonus. Viņš
 
 Pastaigājoties pa Jamūnas upes krastiem, Krišna nolaupa peldošos *gopiju* drēbes. Viņš izbauda rāsas dejas saldo garšu! Viņš ir visžēlsirdīgākais! Viņš ir vienīgais Šrīmatī Rādharanī mīļotais. Krišna ir Vrindāvanas lieliskākais dejotājs un Šrīlas Bhaktivinoda Thākura augstākais patvērums!
 
-
-> page = 39
-> page = 60

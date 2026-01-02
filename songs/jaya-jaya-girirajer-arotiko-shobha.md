@@ -1,3 +1,8 @@
+---
+page: 34
+first_line: jaya jaya girirājer ārotiko śobhā
+---
+
 # Śrī Śrī Girirāj-Govardhan Ārati
 
 ### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
@@ -79,5 +84,3 @@ Visa slava Šrī Giri Govardhānam, kur mīt dievišķā rasa un kurā patvērum
 
 Šrī Šrī Girirādža-džiu mūžam pauž sevi kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps sajūsmā vēro Šrī Girirādža-džiu *āratī*!
 
-
-> page = 34

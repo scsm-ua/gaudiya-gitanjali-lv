@@ -1,5 +1,7 @@
 ---
+page: 26
 author: Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
+first_line: hari-nāma mahāmantra sarva-mantra-sāra
 ---
 
 # Daśa-vidha Nāmāparādha
@@ -129,5 +131,3 @@ Tās tīrās dvēseles, kas ir pārņemtas ar Harī-Nāma *sankirtanu*, izvairot
 
 Vēl citādi šo vārsmu var tulkot šādi: Tās tīrās dvēseles, kuras piedalās personīgā Mahāprabhū Šrī Čaitanjadēva Harī-Nāma *sankirtanā*, izvairoties no šiem desmit apvainojumiem, izgaršo Krišna-prēmas neatkārtojamo augli, kuru brīvi izplata vienīgi Mahāprabhū, jo Viņš pats (Nāma Prabhū) ir viņu sirdīs un ar savu dievišķi ekstātisko rotaļu viņus aizrauj.
 
-
-> page = 26

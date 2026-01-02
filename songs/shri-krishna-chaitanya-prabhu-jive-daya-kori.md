@@ -1,3 +1,8 @@
+---
+page: 50
+first_line: śrī-kṛṣṇa-chaitanya prabhu jīve dayā kori’
+---
+
 # Śaraṇāgati - labvēlīgs aicinājums
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -51,5 +56,3 @@ Saspiežot zobos zāles stiebriņu un krītot pie Šrī Rūpas un Šrī Sanātan
 
 Raudot, lejot asaras, es vēršos pie viņiem: “Es esmu pats kritušākais! Lūdzu, māciet man pašatdevi, māciet man tīru kalpošanu!”
 
-
-> page = 50

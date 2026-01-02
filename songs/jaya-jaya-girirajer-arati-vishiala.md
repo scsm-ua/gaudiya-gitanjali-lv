@@ -1,3 +1,8 @@
+---
+page: 32
+first_line: jaya jaya girirājer ārati viśāla
+---
+
 # Gupta Govardhana Āratī
 
 ### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
@@ -72,5 +77,3 @@ Ar savu neizmērojamo slavu un augstsirdību Tu parādīji Kuliju (vietu, kur ti
 
 Mūžam Tu sevi izpaud kā Kungu, kuru pielūdz, un kā Kungu, kurš kalpo. Kritušais kalps redz tavu āratī un izjūt milzīgu prieku!
 
-
-> page = 32

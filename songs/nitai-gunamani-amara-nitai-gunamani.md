@@ -1,3 +1,8 @@
+---
+page: 113
+first_line: nitāi guṇamaṇi āmāra nitāi guṇamaṇi
+---
+
 # Nitāi guṇamaṇi āmāra
 
 ### Šrīla Ločans Dāsa Thākurs
@@ -37,5 +42,3 @@ Iepriekš žēlsirdības okeāns nebija pieejams, taču Kungs Nītajs izbūvēja
 
 Ločans dāsa saka: “Tas, kurš nepielūdz Kungu Nītaju un nepieņem velti, kuru Viņš dāvā, veic apzinātu pašnāvību!”
 
-
-> page = 113

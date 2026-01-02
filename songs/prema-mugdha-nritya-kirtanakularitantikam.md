@@ -1,3 +1,8 @@
+---
+page: 96
+first_line: prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
+---
+
 # Śrī Śrī
 # Premadhāma-deva-stotram
 
@@ -11,7 +16,7 @@
 
     prema-mugdha-nṛtya-kīrtanākulāriṭāntikaṁ
     snāna-dhanya-vāri-dhānya-bhūmi-kuṇḍa-deśakam
-    prema-kuṇḍa-rādhikākhya-śāstra-vandanādaraṁ 
+    prema-kuṇḍa-rādhikākhya-śāstra-vandanādaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Ar tīras mīlestības sajauktu prātu Kungs Gaurasundars, saviļņojumā un ekstāzē dejojot, pietuvojās svētajai Rādha-*kundas* vietai, kurā tolaik vēl bija apslēpta. Kungs nekavējoties pieņēma apmazgāšanos šajā applūdušajā rīsa laukā, svētot šos ūdeņus, un paziņoja, ka šī ir Rādha-*kunda*. Dziļā pazemībā Kungs uzmanīgi citēja vārsmas no rakstiem, kurās Rādha-*kunda* tiek aprakstīta kā dievišķs tīras mīlestības iemiesojums.
@@ -27,7 +32,7 @@ Ar tīras mīlestības sajauktu prātu Kungs Gaurasundars, saviļņojumā un eks
 
     tintiḍī-talastha-yāmunormi-bhāvanāplutaṁ
     nirjanaika-rādhikātma-bhāva-vaibhavāvṛtam
-    śyāma-rādhikāpta-gaura-tattva-bhittikākaraṁ 
+    śyāma-rādhikāpta-gaura-tattva-bhittikākaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Apmeklējot dažādas vietas Vrindāvanā, kur Šrī Krišna baudīja savas rotaļas, Kungs ieraudzīja slaveno tamarinda koku, kurš šajā vietā stāvējis jau kopš *Dvapara-jugas*. Kad Kungs sēdēja zem koka, skats uz Jamūnas dejojošajiem viļņiem atmodināja Viņā atmiņas par Viņa un ganumeiteņu slepenajām rotaļām ūdenī. Savas sirds dziļumos Kungs bija pilnībā pārņemts ar saldo Šrī Rādhas noskaņojuma garšu. Kungs juta, ka pats Viņš arī ir šis saldums! Šis pārdzīvojums valdīja pār Viņu, un pati dzīve slīdēja no Viņa prom. Uz šo vietu norāda kā uz Gaura-*tattvas* norises vietu, jo tieši šeit Kungs Šjāmasundars iegrima dievišķajā Šrīmatī Rādharānī noskaņojumā. Šajā vietā mūžam mīt Šrī Čaitanja Mahāprabhū, kurš pats ir visa avots! Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -36,7 +41,7 @@ Apmeklējot dažādas vietas Vrindāvanā, kur Šrī Krišna baudīja savas rota
 
     śārikā-śukokti-kautukāḍhya-lāsya-lāpitaṁ
     rādhikā-vyatīta-kāmadeva-kāma-mohitam
-    prema-vaśya-kṛṣṇa-bhāva-bhakta-hṛch-chamatkaraṁ 
+    prema-vaśya-kṛṣṇa-bhāva-bhakta-hṛch-chamatkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kungs Gauranga minēja sarunu, kura norisinājās starp papagaili un viņa draudzeni. Sarunā aprakstīts, kā Kungs Krišna, transcendentālais Kupidons, nokļuva ilūzijas ietekmē dziļo atšķirtības jūtu dēļ no Šrī Rādhas.
@@ -52,7 +57,7 @@ Papagaiļa draudzene teica: “Kad Kungs Krišna atrodas blakus Rādharānī, pa
 
     śrī-prayāga-dhāma-rūpa-rāga-bhakti-sañcharaṁ
     śrī-sanātanādi-kāśi-bhakti-śikṣaṇādaram
-    vaiṣṇavānurodha-bheda-nirviśeṣa-pañjaraṁ 
+    vaiṣṇavānurodha-bheda-nirviśeṣa-pañjaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Svētās Prajagas apmazgāšanās vietā, kas pazīstama kā Dašašvamedha-ghāta, Kungs Gauranga mācīja Šrīlu Rūpu Gosvāmī, ka augstākais kalpošanas prakses mērķis ir izgaršot Šrī Vrindāvanas saldumu. Kungs uzdeva viņam šo saldo garšu plaši jo plaši sludināt. Pēc tam, Kašī, Kungs smalki skaidroja Šrīlam Sanātanam Gosvāmī daudzus ar tīru pašatdevi saistītus jautājumus, tādus kā zināšanas par pareizu apkārtējās pasaules uztveri, šo zināšanu pielietošanas veidus un mīlestības uz Dievu sasniegšanas augstāko mērķi. Tāpat, pēc Mahāraštras *brahmana*, Tapana Mišras un citu bhaktu īpaša lūguma, Kungs satrieca tumsonīgos *majavādī* mācības sekotājus Varanasī. Tur Kungs Gauranga publiskā sapulcē personīgi tikās ar impersonālistiem un norādīja, ka viņu praktizētā sevis pielūgsme galu galā balstās skaudībā un aprobežotā uztverē. Tā Kungs pamatoja, ka patiesa neatkarība piemīt vienīgi tiem, kas pielūdz Dieva Augstāko Personību. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -70,7 +75,7 @@ Prajagā, pa ceļam no Vrindāvanas uz Džagannātha Purī, Kungs tikās ar Šr�
 
     brahma-sūtra-bhāṣya-kṛṣṇa-nāradopadeśakaṁ
     śloka-turya-bhāṣaṇānta-kṛṣṇa-samprakāśakam
-    śabda-vartanānta-hetu-nāma-jīva-nistaraṁ 
+    śabda-vartanānta-hetu-nāma-jīva-nistaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kamēr Kungs Čaitanja bija Kašī, milzīgā no pasaulīgā dzīvesveida atsacījušos impersonālistu sapulcē Viņš mācīja, ka “Šrīmad-Bhāgavatam”, kā tas tiek nodots mācekļu pēctecībā, kas sākusies ar Kungu Krišnu, Nāradu un turpinājusies līdz Šrīlam Vjāsadēvam, ir uz faktiem balstīts Vēdanta-sūtru slēdzienu komentārs. Tāpat Šrī Gauranga izskaidroja četras fundamentālās “Šrīmad-Bhāgavatam” vārsmas un pasludināja, ka Kungs Krišna ir Visuma kārtības sākotnējais likums un Augstākā Realitāte, kas mīt taipus duālajam. Kungs Čaitanja pasludināja, ka, saskaņā ar vēdisko aforismu *“anāvṛttiḥ śabdāt anāvṛttiḥ śabdāt”*, ar apziņu apveltīta skaņa savā augstākajā izpausmē ir Kunga Krišnas Svētais Vārds, kas ir spējīgs dāvāt lielāko labumu un atbrīvot dvēseli no esības nebrīvā stāvokļa. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -79,7 +84,7 @@ Kamēr Kungs Čaitanja bija Kašī, milzīgā no pasaulīgā dzīvesveida atsac�
 
     ātma-rāma-vāchanādi-nirviśeṣa-khaṇḍanaṁ
     śrauta-vākya-sārthakaika-chidvilāsa-maṇḍanam
-    divya-kṛṣṇa-vigrahādi-gauṇa-buddhi-dhikkaraṁ 
+    divya-kṛṣṇa-vigrahādi-gauṇa-buddhi-dhikkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Sniedzot sešdesmit vienu skaidrojumu pazīstamajai ātmarāma vārsmai no “Šrīmad-Bhāgavatam”, Kungs Gauranga pilnībā satrieca impersonālistu mācību, kuru izplatīja Šankarāčārja. Citējot daudzas vārsmas no Upanišādām, tādas kā *“apāṇi-pādo javano grahītā paśyaty acakṣuḥ sa śṛnoty akarṇaḥ”*, Kungs atklāja Absolūtās Patiesības garīgo rotaļu valdzinoši saldo dabu. Kungs Čaitanja atzina par naidīgiem impersonālistu priekšstatus par to, ka Kunga Krišnas transcendentālais veidols, vārds, īpašības un rotaļas, kā arī Viņa izpausme Dievību formā, ir tikai *majas* iluzorās enerģijas iedomāta pārvērtība. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -104,7 +109,7 @@ Atsaucoties uz vārsmu *“brahmeti paramātmeti bhagavān iti śabdyate”* no 
 
     rādhikā-vinoda-mātra-tattva-lakṣaṇānvayaṁ
     sādhu-saṅga-kṛṣṇa-nāma-sādhanaika-niśchayam
-    prema-sevanaika-mātra-sādhya-kṛṣṇa-tatparaṁ 
+    prema-sevanaika-mātra-sādhya-kṛṣṇa-tatparaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Tā Kungs Gauranga mācīja, ka visu rakstos ietverto slēdzienu, kurus dažādi gudrie ar skaņas palīdzību pilnīgā veidā nodeva tālāk, augstākā izpausme ir iemiesota Šrī Rādhavinodā, kurš ietver sevī pareizu apkārtējās pasaules uztveri. Veids, ar kura palīdzību var sasniegt Kungu Krišnu, ir Viņa Svēto Vārdu dziedāšana tīru bhaktu sabiedrībā, tajā pašā laikā augstākais tīras mīlestības mērķis ir kalpošana Kungam Krišnam, kurš ir tik ļoti dārgs Vrindāvanas ganumeitenēm. Kungs Gaurangadēvs mācīja šos svarīgākos garīgos slēdzienus sanākušajiem zinātniekiem. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -125,5 +130,3 @@ Kungs Gaurasundars sešdesmit vienā veidā skaidroja Šrīlam Sanātanam Gosvā
 
 “Pat atbrīvotās dvēseles, kuras smeļ pilnīgu apmierinātību sevī, izjūt nepārvaramu tiekšanos pie pārākajā veidā izcilajām Krišnas īpašībām un velta sevi pilnībā Viņam vienam.” Kungs atsevišķi izskatīja katru no vienpadsmit vārsmas vārdiem un atklāja, ka katrs no tiem ir milzīga neierobežotu dārgumu glabātuve un katrs no tiem apstiprina slēdzienus par tīru *bhakti*. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
-
-> page = 96

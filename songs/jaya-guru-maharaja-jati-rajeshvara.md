@@ -1,3 +1,8 @@
+---
+page: 46
+first_line: jaya ‘guru-mahārāja’ jati-rājeśvara
+---
+
 # Śrī Guru Ārati-stuti
 
 ### Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
@@ -114,5 +119,3 @@ Kalpošana tavām pēdām, kuru mirdzums līdzinās desmit miljoniem mēnešu, u
 
 Šrī Čaitanjas Mahāprabhū atklātās Brīnišķīgās Realitātes iemiesojums! Tavs pazemīgais kalps ar prieku dzied šo lūgšanu un velta to tev!
 
-
-> page = 46

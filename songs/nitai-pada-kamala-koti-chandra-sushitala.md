@@ -1,3 +1,8 @@
+---
+page: 111
+first_line: nitāi-pada-kamala, koṭī-chandra-suśītala
+---
+
 # Manaḥ-Śikṣā
 
 ### Šrīla Narottams Dāsa Thākurs
@@ -38,5 +43,3 @@ Neprātīgs un aizmirsis par Nitjānandas Prabhū lotosam līdzīgajām pēdām,
 
 Nitjānandas lotosam līdzīgās pēdas ir Patiesība, un Viņa kalpi ir mūžīgi. Vienmēr tiecies pieņemt patvērumu pie Viņa pēdām! Narottams dāsa ir ļoti nelaimīgs! Ak, Nītaj, padari mani laimīgu! Lūdzos.. ļauj man vienmēr atrasties pie Tavām brīnišķīgajām, lotosam līdzīgajām pēdām!
 
-
-> page = 111

@@ -1,3 +1,8 @@
+---
+page: 43
+first_line: jīv jāgo, jīv jāgo, gaurāchā̐da bole
+---
+
 # Aruṇodoya-kīrttan
 
 ## II daļa
@@ -39,5 +44,3 @@ Kungs Gauranga sauc: “Mostieties, guļošās dvēseles! Mostieties, guļošās
 
 Thākurs Bhaktivinoda - krītot pie lotosam līdzīgajām Kunga Gaurangas pēdām un lūdzot Svēto Vārdu, saņēma mahā-mantru.
 
-
-> page = 43

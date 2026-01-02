@@ -1,3 +1,8 @@
+---
+page: 38
+first_line: kali-kukkura-kadana jadi chāo he
+---
+
 # Prabhāti Gīti
 
 ### Šrīla Bhaktivinoda Thākurs
@@ -46,5 +51,3 @@ Viņš attīrīja Sarvabhauma Bhattāčārju un izglāba Prataparūdru Mahārād
 
 Vrindāvanas maigā, saldā garša ir pilnībā pārņēmusi Šrī Krišnu Čaitanju. Šī saldā garša attīra prātu no netīrām domām, iznīcinot iekāri un maldus. Tā aizdzen sausas empīriskas zināšanas, kuras aizsedz skaistumu, kas piemīt nedalītai garīgai kalpošanai Dievam! Viņš aizstāv, balsta un nepagurstoši sargā sev pilnībā nodevušās dvēseles!
 
-
-> page = 38

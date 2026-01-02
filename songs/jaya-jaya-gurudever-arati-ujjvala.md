@@ -1,3 +1,8 @@
+---
+page: 42
+first_line: jaya jaya gurudever ārati ujjvala
+---
+
 # Śrī Guru Ārati
 
 ## Šrīlas Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža slavināšana
@@ -91,29 +96,28 @@ Tavi brīnišķie, neatkārtojamie rakstītie darbi atspoguļo tavu zinību dzi�
 #### 13
 
     ādhu-saṅge sadānandī sarala vinayī
-    abhā-madhye vaktā śreṣṭha sarvatra vijayī 
+    abhā-madhye vaktā śreṣṭha sarvatra vijayī
 
-Tu esi pazemīgs un tava runa ir vienkārša uztverei, bhaktu sabiedrībā tu vienmēr esi laimīgs. Garīgās pulcēšanās tu vienmēr esi labākais runātājs un visā, ko tu dari, tu vienmēr gūsti panākumus! 
+Tu esi pazemīgs un tava runa ir vienkārša uztverei, bhaktu sabiedrībā tu vienmēr esi laimīgs. Garīgās pulcēšanās tu vienmēr esi labākais runātājs un visā, ko tu dari, tu vienmēr gūsti panākumus!
 
 #### 14
-    
+
     gauḍīya gagane tumi āchāryya-bhāskara
     nirantara sevāpriya miṣṭa kaṇṭhasvara
 
 Gaudija Vaišnavu debesjumā tu esi patriarhs, mirdzošs kā saule. Tu kalpo ar nemainīgu prieku un iedvesmo kalpošanai citus.
 
 #### 15
-    
+
     tomāra koruṇā māge trikāla vilāse
     gāndharvvikā-giridhārī sevā-mātra āśe
 
 Pagātnē, tagadnē un nākotnē – mūžīgi, mēs lūdzam tavu žēlastību! Vienīgi ar tavu žēlastību mēs varēsim iegūt kalpošanu pilnīgā pašatdevē Šrī Šrī Gandhārvika-Giridhārī!
 
 #### 16
-   
+
     kṛpā koro ohe prabhu śri-gaura-prakāśa
     ārati koroye sadā e adhama dāsa
 
 Ak, mans valdniek, Šrī Gaurangas žēlastības izpausme, lūdzu, esi žēlastīgs pret mani! Šādi, tevi pielūdzot, vienmēr lūdzas tavs nenozīmīgais kalps!
 
-> page = 42

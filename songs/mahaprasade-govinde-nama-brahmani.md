@@ -1,5 +1,7 @@
 ---
+page: 62
 no-author: 1
+first_line: mahāprasāde govinde nāma brahmaṇi
 ---
 
 # Mahāprasāda
@@ -9,5 +11,3 @@ no-author: 1
 
 Tie, kam nav pietiekošu  garīgās tikumības uzkrājumu, nevarēs godāt *mahāprasādu*, Kungu Govindu, Kunga Svēto Vārdu un Vaišnavus.
 
-
-> page = 62

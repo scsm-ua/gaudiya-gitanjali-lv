@@ -1,5 +1,7 @@
 ---
+page: 22
 no-author: 1
+first_line: vṛndāyai tulasī-devyai
 ---
 
 # Vṛndāyai tulasī-devyai
@@ -22,5 +24,3 @@ Es atkal un atkal klanos savu garīgo skolotāju priekšā – Guru, kurš iesv�
 
 Lai Šrī Gurudēva, Šrīmāna Mahāprabhū un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!
 
-
-> page = 22

@@ -1,5 +1,7 @@
 ---
+page: 19
 author: Šrīla Rūpa Gosvāmī
+first_line: vāñchā-kalpatarubhyas’ cha
 ---
 
 # Vāñchā-kalpatarubhyas’ cha
@@ -31,5 +33,3 @@ Es klanos Kunga Gaurangas priekšā, kura dievišķais tēls mirdz zelta staros 
 
 *(Šrīla Rūpa Gosvāmī)*
 
-
-> page = 19

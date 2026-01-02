@@ -1,3 +1,8 @@
+---
+page: 92
+first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+---
+
 # Śrī Śrī
 # Premadhāma-deva-stotram
 
@@ -11,7 +16,7 @@
 
     prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
     prārthitāṅghri-varjitānya-sarva-dharma-saṅgamam
-    luṇṭhita-pratāpa-śīrṣa-pāda-dhūli-dhūsaraṁ 
+    luṇṭhita-pratāpa-śīrṣa-pāda-dhūli-dhūsaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kad Ziemeļindija atradās musulmaņu varā, Orissas neatkarīgās valsts dižais valdnieks Prataparūdra, bija pārsteigts un pilnībā pārņemts ar tīro mīlestību uz Dievu, kura caurstrāvoja drošsirdīgo un augstsirdīgo Kungu Čaitanju. Viņš atraidīja visus savus iepriekšējos sakarus ar reliģiskām tradīcijām un savu kareivīgo valdnieka dabu un, pārpildīts ar pašaizliedzību, metās pie Šrī Čaitanjadēva lotosam līdzīgajām pēdām. Tad žēlsirdīgais Kungs apklāja sevi Kunga pilnībā veltījušā karaļa galvu ar svētajiem putekļiem no savām maigajām, lotosu pēdām. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -29,7 +34,7 @@ Visaugsto godāja pazīstamu Dienvidindijas zinātnieku aprindās. Diženākie v
 
     gaura-garvi-sarva-gauḍa-gauravārtha-sajjitaṁ
     śāstra-śastra-dakṣa-duṣṭa-nāstikādi-lajjitam
-    muhyamāna-mātṛkādi-deha-jīva-sañcharaṁ 
+    muhyamāna-mātṛkādi-deha-jīva-sañcharaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kunga ceļojuma laikā Viņa slava pārpludināja visu Bengāliju! Tādēļ, kad pēc pieciem gadiem pēc *sannjāsas* pieņemšanas Viņš atgriezās Navadvīpā, bengālieši, lepni par Kungu Gaurangu, apgarotībā viņu slavēja! Kad augstprātīgie zinātnieki-bezdievji kļuva par lieciniekiem tam, kā vienkāršie cilvēki no visiem sabiedrības slāņiem izrādīja tik nesatricināmu ticību Kungam, viņi izjuta kaunu par savu zemo dabu. Kad māte Šačī un citi Viņa ģimenes locekļi, kuri dzisa atšķirtībā no Kunga, atkal ieraudzīja Šrī Čaitanjadēvu, viņos atgriezās dzīvība. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -38,7 +43,7 @@ Kunga ceļojuma laikā Viņa slava pārpludināja visu Bengāliju! Tādēļ, kad
 
     nyāsa-pañcha-varṣa-pūrṇa-janma-bhūmi-darśanaṁ
     koṭi-koṭi-loka-lubdha-mugdha-dṛṣṭi-karṣaṇam
-    koṭi-kaṇṭha-kṛṣṇa-nāma-ghoṣa-bheditāmbaraṁ 
+    koṭi-kaṇṭha-kṛṣṇa-nāma-ghoṣa-bheditāmbaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Atgriežoties savā dzimtajā vietā pēc pieciem gariem *sannjāsas* gadiem, Visaugsto sagaidīja tūkstoši jaunu un vecu ļaužu. Viņu acis kāroja redzēt Kungu, kurš bija aizskāris pašus viņu sirds dziļumus. Kunga klātbūtne iedvesmoja cilvēkus nemitīgi slavēt Kunga Harī Vārdus, un no tā radies dārdošais troksnis izplatījās visos virzienos tālu aiz debesu robežām. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -56,7 +61,7 @@ Atgriežoties savā dzimtajā vietā pēc pieciem gariem *sannjāsas* gadiem, Vi
 
     vyāghra-vāraṇaina-vanya-jantu-kṛṣṇa-gāyakaṁ
     prema-nṛtya-bhāva-matta-jhāḍakhaṇḍa-nāyakam
-    durga-vanya-mārga-bhaṭṭa-mātra-saṅga-saukaraṁ 
+    durga-vanya-mārga-bhaṭṭa-mātra-saṅga-saukaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Pēc Rāmakēlī Kungs turpināja ceļu uz Džagannātha Purī. Atstājot Purī Dhāmu, Kungs šķērsoja Džhadakhanda mežu, kurš atradās ceļā uz Vrindāvanu. Tur Viņš iedvesmoja tādus meža zvērus kā tīģerus, briežus un ziloņus kopīgai Kunga Krišnas Svēto Vārdu dziedāšanai. Apskurbuši no saldajiem Dieva Vārdiem, zvēri sajūsmā kopīgi dejoja Dievam, kurš pats bija dziļākās kalpošanas ekstāzes pārņemts! Visaugstais piedzīvoja dziļas atklāsmes, kad kopā ar Balabhadru Bhattāčārju brida cauri neizejamām Džhadakhanda meža takām. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -65,7 +70,7 @@ Pēc Rāmakēlī Kungs turpināja ceļu uz Džagannātha Purī. Atstājot Purī 
 
     gāṅga-yāmunādi-bindu-mādhavādi-mānanaṁ
     māthurārta-chitta-yāmunāgra-bhāga-dhāvanam
-    smārita-vrajāti-tīvra-vipralambha-kātaraṁ 
+    smārita-vrajāti-tīvra-vipralambha-kātaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kungs Gaurasundars izrādīja lielu cieņu Dievībām Gangas krastā, Kāšī un Bindu Mādhavā, Gangas un Jamūnas sateces vietā Prajagā. Sekojot Jamūnas straumei, Kungs skrēja gar krastu, saviļņojumā tiecoties pretī svētās vietas, kura pazīstama kā Mathura, mirdzumam. Kad dievišķās domas par Vrindāvanas notikumiem pārņēma Viņa atmiņu, izsaucot neciešamas atšķirtības jūtas, Kungs Gaurasundars zaudēja samaņu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
@@ -74,7 +79,7 @@ Kungs Gaurasundars izrādīja lielu cieņu Dievībām Gangas krastā, Kāšī un
 
     mādhavendra-vipralambha-māthureṣṭa-mānanaṁ
     prema-dhāma-dṛṣṭakāma-pūrva-kuñja-kānanam
-    gokulādi-goṣṭha-gopa-gopikā-priyaṅkaraṁ 
+    gokulādi-goṣṭha-gopa-gopikā-priyaṅkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Kungs Čaitanja paziņoja, ka dziļais atšķirtības noskaņojums, kuru spēja piedzīvot Mādhavendra Purī, ir tīras Dieva pielūgsmes augstākā robeža un vēlamais mērķis. Tas aprakstīts sekojošā brīnišķīgā vārsmā, kuru pirmo reizi izteica Šrīmatī Rādharānī:
@@ -99,10 +104,8 @@ Pastaigājoties pa Vrindāvanu, Kungu priekpilni sveicināja dūcošas kamenes, 
 
     prema-buddha-ruddha-buddhi-matta-nṛtya-kīrtanaṁ
     plāvitāśru-kāñchanāṅga-vāsa-chāturaṅganam
-    kṛṣṇa-kṛṣṇa-rāva-bhāva-hāsya-lāsya-bhāsvaraṁ 
+    kṛṣṇa-kṛṣṇa-rāva-bhāva-hāsya-lāsya-bhāsvaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
 Tīras mīlestības viļņa pilnīgi satriekts, Kungs Gaurasundars ekstāzē dejoja un dziedāja Krišnas Svētos Vārdus! Bagātīgas asaru straumes lija no Viņa brīnišķīgajām acīm pāri milzīgajam, zeltītajam, starojošajam ķermenim, pāri Viņa mirdzošajam apģērbam, kurš atgādināja sauli, un tālāk pa zemi, izplūstot visos četros virzienos! Kunga rotaļu prieks ekstātiski pieauga! Neprāta stāvoklī Kungs nepareizi izrunāja Krišnas Svētos Vārdus un smejoties kauca, iegrimis dziļo pārdzīvojumu sajūsmā. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
-
-> page = 92

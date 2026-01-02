@@ -1,3 +1,8 @@
+---
+page: 78
+first_line: sujanārvuda-rādhita-pāda-yugaṁ
+---
+
 # Śrī Śrī Prabhupāda-padma
 # Stavakaḥ
 
@@ -66,7 +71,7 @@ Viņš ir Šrī Gaurangam veltījušos dvēseļu mūžīgais patvērums un Visum
     kavirāja-narottama-sakhya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
-Viņš ir pazīstams ar to, ka pacēla Šrī Rūpas, Šrī Sanātanas un Šrī Raghunātha slavas karogu. Visā pasaulē viņu slavē kā neatšķiramu no varenā un erudītā Šrīlas Džīvas. Viņš ir zināms kā tas, kuram piemīt sirds vienotība ar Šrīlu Krišnadāsu Kavirādžu un Thākuru Narottamu. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām. 
+Viņš ir pazīstams ar to, ka pacēla Šrī Rūpas, Šrī Sanātanas un Šrī Raghunātha slavas karogu. Visā pasaulē viņu slavē kā neatšķiramu no varenā un erudītā Šrīlas Džīvas. Viņš ir zināms kā tas, kuram piemīt sirds vienotība ar Šrīlu Krišnadāsu Kavirādžu un Thākuru Narottamu. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
 #### 8
 
@@ -104,5 +109,3 @@ Lielākais dārgakmens paramahamsu vidū, dzīves augstākās pilnības, Šrī K
 
 Viņš ir Šrī Vrišabhanū dievišķās meitas tuvākais un dārgākais pavadonis, un es esmu neiedomājami veiksmīgs, jo putekļi no viņa svētajām kājām ir skāruši manu galvu. Es klanos pie viņa varenajām, lotosam līdzīgajām pēdām, kurām piemīt brīnumains attīrīšanas spēks! Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
 
-
-> page = 78

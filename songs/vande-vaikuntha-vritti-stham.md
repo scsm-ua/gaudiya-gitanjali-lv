@@ -1,5 +1,7 @@
 ---
+page: 11/1
 author: Šrīla Bhakti Sudhir Gosvāmī Mahārādža
+first_line: vande vaikuṇṭha-vṛtti-stham
 ---
 
 # Šrīla Bhakti Bimal Avadhūts Mahārādža
@@ -11,5 +13,3 @@ author: Šrīla Bhakti Sudhir Gosvāmī Mahārādža
 
 Es klanos Šrīlas Bhakti Bimal Avadhūta priekšā, kurš ir Nitai-Gauras līdzcietības iemiesojums. Ar savu dižo saprātu viņš meklē neskaitāmus veidus (*vaikuntha-vritti*) kalpot Viņiem un dalīt citiem Viņu augstāko žēlastību. Viņš ir neparasts bhakta (*bhaktavadhūta*), viņš ir tīrs (*bimal*), jo velta sevi tikai un vienīgi kalpošanai Govindas (Krišnas) un sava guru Šrīlas Bhakti Sundar Govindas Dev-Gosvāmī Mahārādžas lotosam līdzīgajām pēdām.
 
-
-> page = 11/1

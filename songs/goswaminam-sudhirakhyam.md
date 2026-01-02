@@ -1,5 +1,7 @@
 ---
+page: 11/2
 author: Šrīla Bhakti Sudhir Gosvāmī Mahārādža
+first_line: goswāminaṁ sudhīrākhyam
 ---
 
 # Šrīla Bhakti Sudhīrs Gosvāmī Mahārādža
@@ -9,6 +11,5 @@ author: Šrīla Bhakti Sudhir Gosvāmī Mahārādža
     gaura-gāthā-rataṁ nityaṁ
         śrīdhara-pāda-sevanam
 
-Es pieņemu patvērumu pie Šrīlas Bhakti Sudhīra Gosvāmī Mahārādžas, Govindas (Krišnas) un Šrīlas Govinda Mahārādžas favorīta, jo viņš ir atkarīgs no nebeidzamas Gaurangas Mahāprabhū slavināšanas un ir pieņēmis mūžīgu patvērumu kalpošanā Šrīlas Šrīdhāra Mahārādžas (Šrī Rādhas otrā “es”) lotosam līdzīgajām pēdām. 
+Es pieņemu patvērumu pie Šrīlas Bhakti Sudhīra Gosvāmī Mahārādžas, Govindas (Krišnas) un Šrīlas Govinda Mahārādžas favorīta, jo viņš ir atkarīgs no nebeidzamas Gaurangas Mahāprabhū slavināšanas un ir pieņēmis mūžīgu patvērumu kalpošanā Šrīlas Šrīdhāra Mahārādžas (Šrī Rādhas otrā “es”) lotosam līdzīgajām pēdām.
 
-> page = 11/2

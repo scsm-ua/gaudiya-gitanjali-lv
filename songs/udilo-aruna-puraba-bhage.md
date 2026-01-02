@@ -1,3 +1,8 @@
+---
+page: 42
+first_line: udilo aruṇa pūraba-bhāge
+---
+
 # Aruṇodoya-kīrtan
 
 ## I daļa
@@ -10,7 +15,7 @@
     dvija-maṇi gorā amani jāge,
     bhakata-samūha loiyā sāthe,
     gelā nagara-brāje
-    
+
 Pirms pašas saules ausmas, kad debesis austrumos sāk sārtoties, Šrī Gauraharī, dārgakmens divreiz dzimušo vidū, mostas no miega. Kopā ar saviem bhaktām viņš uzsāk *kīrtanu*, apstaigājot pilsētas un ciemus.
 
 #### 2
@@ -76,5 +81,3 @@ Mahāprabhū sauc guļošajiem ļaudīm: “Neizniekojiet naktis bezjēdzīgajam
 
 Lai kliedētu neziņas tumsu un svētītu dvēseles visā Visumā, brīnišķais Krišnas Vārds uzausa līdzīgi mirdzošai saulei!
 
-
-> page = 42

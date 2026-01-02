@@ -1,5 +1,7 @@
 ---
+page: 13
 author: Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
+first_line: gurvābhīṣṭa-supūrakaṁ guru-gaṇair
 ---
 
 # Šrīla Bhakti Sundar Govinda Dēv-Gosvāmī Mahārādža
@@ -13,7 +15,5 @@ author: Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža
     vande viśva-guruñ cha divya-bhagavat-
         premṇo hi bīja-pradam
 
-Ar lielāko cieņu es klanos tā priekšā, kuru rotā visas Guru-vargas svētības un kurš piepilda sava guru visslēptākās vēlēšanās. Viņš ir visu patiesību zintnieks – gan tveramo, gan netveramo. Izcils Šrī Rūpas dievišķās mācības sekotājs, viņš ir pazīstams kā Šrī Bhakti Sundar Govinda. Viņa mirdzošais tēls izstaro Krišna-bhakti. Viņš ir nācis no augstākās pasaules un šajā pasaulē ticis slavēts kā patiess garīgais skolotājs, spējīgs dāvāt Dievišķās Mīlestības sēklas. 
+Ar lielāko cieņu es klanos tā priekšā, kuru rotā visas Guru-vargas svētības un kurš piepilda sava guru visslēptākās vēlēšanās. Viņš ir visu patiesību zintnieks – gan tveramo, gan netveramo. Izcils Šrī Rūpas dievišķās mācības sekotājs, viņš ir pazīstams kā Šrī Bhakti Sundar Govinda. Viņa mirdzošais tēls izstaro Krišna-bhakti. Viņš ir nācis no augstākās pasaules un šajā pasaulē ticis slavēts kā patiess garīgais skolotājs, spējīgs dāvāt Dievišķās Mīlestības sēklas.
 
-
-> page = 13
