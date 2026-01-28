@@ -11,7 +11,7 @@ first_line: je ānilo prema-dhana karuṇā prachura
 
 #### 1
 
-    je ānilo prema-dhana koruṇā prachura
+    je ānilo prema-dhana karuṇā prachura
     heno prabhu kothā gelā āchārya-ṭhākura
 
 Kur gan var atrast to, kurš atklāj prema-bhakti dārgumus un kurš pats ir līdzcietības pilns, – to, kurš līdzinās Šrī Āčārjam Thākuram (Šrīnivāsam Āčārjam)?
@@ -19,7 +19,7 @@ Kur gan var atrast to, kurš atklāj prema-bhakti dārgumus un kurš pats ir lī
 #### 2
 
     kā̐hā mora svarūp rūpa kā̐hā sanātana
-    kā̐hā dāsa raghunātha patita-pāvana 
+    kā̐hā dāsa raghunātha patita-pāvana
 
 Kur gan ir kritušo dvēseļu glābēji? Kur ir Svarūpa Damodārs? Kur ir Rūpa Gosvāmī un Sanātana Gosvāmī? Kur var atrast Raghunāthu Dāsu?
 
