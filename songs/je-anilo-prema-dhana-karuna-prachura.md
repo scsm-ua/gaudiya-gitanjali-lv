@@ -1,44 +1,45 @@
 ---
-page: 157
+page: 135
 first_line: je ānilo prema-dhana karuṇā prachura
 ---
 
 # Viraha-gīti
 
-### by Śrīla Narottam Dās Ṭhākur
+### Šrīla Narottams dāsa Thākurs
+
+### Tiek dziedāta Šrīmana Mahāprabhū pavadoņu aiziešanas dienās
 
 #### 1
 
-    je ānilo prema-dhana karuṇā prachura
+    je ānilo prema-dhana koruṇā prachura
     heno prabhu kothā gelā āchārya-ṭhākura
 
-That personality who delivered the treasure of prema-bhakti, who was so intense with compassion — where is such a personality to be found as Śrī Āchārya Ṭhākur (Śrīnivās Āchārya)?
+Kur gan var atrast to, kurš atklāj prema-bhakti dārgumus un kurš pats ir līdzcietības pilns, – to, kurš līdzinās Šrī Āčārjam Thākuram (Šrīnivāsam Āčārjam)?
 
 #### 2
 
     kā̐hā mora svarūp rūpa kā̐hā sanātana
-    kā̐hā dāsa raghunātha patita-pāvana
+    kā̐hā dāsa raghunātha patita-pāvana 
 
-Where are the saviours of the fallen souls? Where is my Svarūp Dāmodar, and where are Rūpa Goswāmī and Sanātan Goswāmī? Where is Raghunāth Dās to be found?
+Kur gan ir kritušo dvēseļu glābēji? Kur ir Svarūpa Damodārs? Kur ir Rūpa Gosvāmī un Sanātana Gosvāmī? Kur var atrast Raghunāthu Dāsu?
 
 #### 3
 
     kā̐hā mora bhaṭṭa-juga kā̐hā kavirāja
     eka-kāle kothā gelā gaurā naṭa-rāja
 
-Where are my Raghunāth Bhaṭṭa and Gopāl Bhaṭṭa Goswāmīs? Where am I to find Śrī Krishnadās Kavirāj now? All at once they have gone to join Lord Gaurāṅga, the great dancer.
+Kur gan ir mani Raghunāths Bhatta un Gopals Bhatta Gosvāmī? Kur tagad ir Šrī Krišnadāsa Kavirādžs? Viņi ir aizgājuši visi reizē, lai būtu kopā ar Kungu Gaurangu, lielisko dejotāju!
 
 #### 4
 
     pāṣāṇe kuṭibo māthā anale paśibo
     gaurāṅga guṇera nidhi kothā gele pābo
 
-To reach such a perfect personality as Lord Chaitanya, I can only break my head against the stone in the anguish of separation.
+Esmu gatavs pārsist savu galvu pret akmeni, lai tikai atrastos blakus Kungam Čaitanjam kopā ar viņiem! 
 
 #### 5
 
     se-saba saṅgīra saṅge je koilo vilāsa
     se-saṅga nā pāyā kānde narottama dāsa
 
-They have all gone off together in their own Pastimes. Narottam Dās Ṭhākur says: “Unable to obtain their association, I must simply weep.”
-
+Viņi visi ir aizgājuši, lai gremdētos savās rotaļās. Narottams Dāsa Thākurs sauc: “Man atliek vienīgi apraudāt savu rūgto likteni, jo nevaru būt viņu sabiedrībā!”
