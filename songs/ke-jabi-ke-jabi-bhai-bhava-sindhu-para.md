@@ -5,33 +5,33 @@ first_line: ke jabi ke jabi bhāi bhava-sindhu pāra
 
 # Ke jabi ke jabi
 
-### by Śrīla Lochan Dās Ṭhākur
+### Šrīla Ločans Dāsa Thākurs
 
 #### 1
 
     ke jabi ke jabi bhāi bhava-sindhu pāra
     dhanya kali-yuge re chaitanya avatāra
 
-Who will go, oh brother, who will go to cross the ocean of material existence? The wealth and great fortune of this age of Kali is the incarnation of Lord Chaitanya.
+Ak, kurš gan dosies, brāl, kurš gan dosies šķērsot materiālās esības bezdibeni? Šī Kali laikmeta dārgums un veiksme – Kunga Čaitanjas atnākšana.
 
 #### 2
 
     āmāra gaurāṅgera ghāṭe ujānakheyā boy
     kaḍipāti nāhi lāge amani pāra hoy
 
-My Lord Gaurāṅga stands at the jetty ready to ferry his servants upstream across this material existence. For no charge he is immediately taking them.
+Mans Kungs Gauranga stāv piestātnē, gatavs pārvest visus pāri materiālajai esībai. Kungs nekavējoties pieņem viņus, neprasot nekādu samaksu.
 
 #### 3
 
     harināmera tarīkhāni śrī-guru-kāṇḍārī
-    saṅkīrtana-keroyāla du’bahu pasāri
+    saṅkīrttana-keroyāla du’bahu pasāri
 
-The ferry-boat is the Holy Names of the Lord and the spiritual master is the captain. The oars are the outstretched arms in the *saṅkīrtan*.
+Kunga Svētie Vārdi ir prāmis, garīgais skolotājs ir kapteinis. Airi – tās ir sankirtanā paceltas rokas.
 
 #### 4
 
-    sarva-jīva uddhāra hoilo premera bātāse
+    sarvva-jīva uddhāra hoilo premera bātāse
     lochana paḍiyā roilo karamera doṣe
 
-The favourable wind is divine love for Lord Krishna and all the fallen souls have been rescued on this boat. Only Lochan Dās is left behind due to the faults of his own misdeeds.
+Labvēlīgais vējš ir dievišķā mīlestība uz Kungu Krišnu. Visas dvēseles tapa glābtas uz šī kuģa, vienīgi Ločans Dāsa, savu paša ļauno darbu dēļ, palika šeit.
 
