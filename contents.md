@@ -72,3 +72,9 @@
 ### Kungam Čaitanjam veltītas dziesmas
 - [Avatāra Sāra](songs/avatara-sara-gora-avatara.md)
 - [Śrī Nāma](songs/gay-gora-madhur-svare.md)
+- [Ke jabi ke jabi](songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md)
+
+### Citas dziesmas
+- [Ṭhākura-vaiṣṇava-pada](songs/thakura-vaishnava-pada-avanira.md)
+- [Viraha-gīti](songs/je-anilo-prema-dhana-karuna-prachura.md)
+
