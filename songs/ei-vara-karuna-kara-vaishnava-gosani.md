@@ -33,7 +33,7 @@ Pat esot zemākajam no cilvēkiem, ar vienu pieskārienu svētās Gangas ūdenim
     hari-sthāne aparādhe tāre harināma
     tomā-sthāne aparādhe nāhika eḍāna
 
-Ja izdara apvainojumu Kunga Harī svētajām pēdām, viņam var tikt piedots, ja viņš skandē Viņa Svēto Vārdu. Taču, ja kāds apvaino tevi, viņam nav glābiņa!
+Ja kāds izdara apvainojumu Kunga Harī svētajām pēdām, viņam var tikt piedots, ja viņš skandē Viņa Svēto Vārdu. Taču, ja kāds apvaino tevi, viņam nav glābiņa!
 
 #### 5
 
