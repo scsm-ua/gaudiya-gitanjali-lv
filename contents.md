@@ -77,4 +77,7 @@
 ### Citas dziesmas
 - [Ṭhākura-vaiṣṇava-pada](songs/thakura-vaishnava-pada-avanira.md)
 - [Viraha-gīti](songs/je-anilo-prema-dhana-karuna-prachura.md)
-
+- [Vaiṣṇava Vijñāpti](songs/ei-vara-karuna-kara-vaishnava-gosani.md)
+- [Prārthanā Lalasāmayi](songs/kripa-kara-vaishnava-thakura.md)
+- [Śrī Nāmāṣṭakam 8](songs/narada-muni-bajaya-vina.md)
+- [Śrī Śrī Ṣaḍ-Gosvāmy-aṣṭakam](songs/krishnotkirtana-gana-nartana-parau.md)
