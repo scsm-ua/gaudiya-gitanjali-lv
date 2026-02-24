@@ -44,7 +44,7 @@
 
 ### Vakara dziesmas
 
-- [Śrī Gaura-ārati](songs/sri-gaura-arati.md)
+- [Śrī Gaura-ārati](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
 - [Śrī Sāraswat-ārati](songs/jayare-jayare-jaya-gaura-sarasvati.md)
 - [Gurudeva](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
 - [Śrī Tulasī-parikramā-gīti](songs/namo-namah-tulasi-maharani.md)
