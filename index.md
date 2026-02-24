@@ -34,7 +34,7 @@
 - [je ānilo prema-dhana karuṇā prachura](songs/je-anilo-prema-dhana-karuna-prachura.md)
 - [jīv jāgo, jīv jāgo, gaurāchā̐da bole](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
 - [kali-kukkura-kadana jadi chāo he](songs/kali-kukkura-kadana-jadi-chao-he.md)
-- [kiba jaya jaya gorācāńder āratiko śobhā](songs/sri-gaura-arati.md)
+- [(kiba) jaya jaya gorācāńder āratiko śobhā](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
 - [ke jabi ke jabi bhāi bhava-sindhu pāra](songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md)
 - [kṛpa kara’ vaiṣṇava ṭhākura](songs/kripa-kara-vaishnava-thakura.md)
 - [kṛṣṇotkīrtana-gāna-nartana-parau](songs/krishnotkirtana-gana-nartana-parau.md)
