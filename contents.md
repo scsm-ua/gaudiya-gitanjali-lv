@@ -70,14 +70,26 @@
 - [Dayāl Nitāi Chaitanya](songs/dayal-nitai-chaitanya-bole-nach-re.md)
 
 ### Kungam Čaitanjam veltītas dziesmas
+
 - [Avatāra Sāra](songs/avatara-sara-gora-avatara.md)
 - [Śrī Nāma](songs/gay-gora-madhur-svare.md)
 - [Ke jabi ke jabi](songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md)
 
 ### Citas dziesmas
+
 - [Ṭhākura-vaiṣṇava-pada](songs/thakura-vaishnava-pada-avanira.md)
 - [Viraha-gīti](songs/je-anilo-prema-dhana-karuna-prachura.md)
 - [Vaiṣṇava Vijñāpti](songs/ei-vara-karuna-kara-vaishnava-gosani.md)
 - [Prārthanā Lalasāmayi](songs/kripa-kara-vaishnava-thakura.md)
 - [Śrī Nāmāṣṭakam 8](songs/narada-muni-bajaya-vina.md)
 - [Śrī Śrī Ṣaḍ-Gosvāmy-aṣṭakam](songs/krishnotkirtana-gana-nartana-parau.md)
+- [Šrī Nāmaštakam 7](songs/ohe-harinam-tava-mahima-apara.md)
+- [Ki-rūpe pāibo sevā](songs/ki-rupe-paibo-seva-mui-durachara.md)
+- [Bhajahu̐ Re Mana](songs/bhajahu-re-mana-shri-nanda-nandana.md)
+- [Mānasa Deho Geho](songs/manasa-deho-geho-jo-kichu-mora.md)
+- [E ghora saṁsāre](songs/e-ghora-samsare-podiya-manava.md)
+- [Dainyātmikā](songs/emona-durmati-samsara-bhitore.md)
+- [Goptṛtve Varaṇa](songs/ki-jani-ki-bale-tomara-dhamete.md)
+- [Ātma-nivedana](songs/atma-nivedana-tuya-pade-kori.md)
+- [Tumi sarveśvareśvara](songs/tumi-sarveshvareshvara-vrajendra-kumara.md)
+
