@@ -5,7 +5,7 @@ first_line: je ānilo prema-dhana karuṇā prachura
 
 # Viraha-gīti
 
-### Šrīla Narottams dāsa Thākurs
+### Šrīla Narottams Dāsa Thākurs
 
 ### Tiek dziedāta Šrīmana Mahāprabhū pavadoņu aiziešanas dienās
 

@@ -188,8 +188,8 @@
     "name": "Vakara dziesmas",
     "items": [
       {
-        "id": "sri-gaura-arati",
-        "filepath": "songs/sri-gaura-arati.md",
+        "id": "jaya-jaya-gaurachander-arotiko-shobha",
+        "filepath": "songs/jaya-jaya-gaurachander-arotiko-shobha.md",
         "title": "Śrī Gaura-ārati"
       },
       {
@@ -301,6 +301,91 @@
         "id": "gay-gora-madhur-svare",
         "filepath": "songs/gay-gora-madhur-svare.md",
         "title": "Śrī Nāma"
+      },
+      {
+        "id": "ke-jabi-ke-jabi-bhai-bhava-sindhu-para",
+        "filepath": "songs/ke-jabi-ke-jabi-bhai-bhava-sindhu-para.md",
+        "title": "Ke jabi ke jabi"
+      }
+    ]
+  },
+  {
+    "name": "Citas dziesmas",
+    "items": [
+      {
+        "id": "thakura-vaishnava-pada-avanira",
+        "filepath": "songs/thakura-vaishnava-pada-avanira.md",
+        "title": "Ṭhākura-vaiṣṇava-pada"
+      },
+      {
+        "id": "je-anilo-prema-dhana-karuna-prachura",
+        "filepath": "songs/je-anilo-prema-dhana-karuna-prachura.md",
+        "title": "Viraha-gīti"
+      },
+      {
+        "id": "ei-vara-karuna-kara-vaishnava-gosani",
+        "filepath": "songs/ei-vara-karuna-kara-vaishnava-gosani.md",
+        "title": "Vaiṣṇava Vijñāpti"
+      },
+      {
+        "id": "kripa-kara-vaishnava-thakura",
+        "filepath": "songs/kripa-kara-vaishnava-thakura.md",
+        "title": "Prārthanā Lalasāmayi"
+      },
+      {
+        "id": "narada-muni-bajaya-vina",
+        "filepath": "songs/narada-muni-bajaya-vina.md",
+        "title": "Śrī Nāmāṣṭakam 8"
+      },
+      {
+        "id": "krishnotkirtana-gana-nartana-parau",
+        "filepath": "songs/krishnotkirtana-gana-nartana-parau.md",
+        "title": "Śrī Śrī Ṣaḍ-Gosvāmy-aṣṭakam"
+      },
+      {
+        "id": "ohe-harinam-tava-mahima-apara",
+        "filepath": "songs/ohe-harinam-tava-mahima-apara.md",
+        "title": "Šrī Nāmaštakam 7"
+      },
+      {
+        "id": "ki-rupe-paibo-seva-mui-durachara",
+        "filepath": "songs/ki-rupe-paibo-seva-mui-durachara.md",
+        "title": "Ki-rūpe pāibo sevā"
+      },
+      {
+        "id": "bhajahu-re-mana-shri-nanda-nandana",
+        "filepath": "songs/bhajahu-re-mana-shri-nanda-nandana.md",
+        "title": "Bhajahu̐ Re Mana"
+      },
+      {
+        "id": "manasa-deho-geho-jo-kichu-mora",
+        "filepath": "songs/manasa-deho-geho-jo-kichu-mora.md",
+        "title": "Mānasa Deho Geho"
+      },
+      {
+        "id": "e-ghora-samsare-podiya-manava",
+        "filepath": "songs/e-ghora-samsare-podiya-manava.md",
+        "title": "E ghora saṁsāre"
+      },
+      {
+        "id": "emona-durmati-samsara-bhitore",
+        "filepath": "songs/emona-durmati-samsara-bhitore.md",
+        "title": "Dainyātmikā"
+      },
+      {
+        "id": "ki-jani-ki-bale-tomara-dhamete",
+        "filepath": "songs/ki-jani-ki-bale-tomara-dhamete.md",
+        "title": "Goptṛtve Varaṇa"
+      },
+      {
+        "id": "atma-nivedana-tuya-pade-kori",
+        "filepath": "songs/atma-nivedana-tuya-pade-kori.md",
+        "title": "Ātma-nivedana"
+      },
+      {
+        "id": "tumi-sarveshvareshvara-vrajendra-kumara",
+        "filepath": "songs/tumi-sarveshvareshvara-vrajendra-kumara.md",
+        "title": "Tumi sarveśvareśvara"
       }
     ]
   }

@@ -6,7 +6,7 @@ author: Śrīla Narottam Dās Ṭhākur
 
 # Ki-rūpe pāibo sevā
 
-### Šrīla Narottams dāsa Thākurs
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 
