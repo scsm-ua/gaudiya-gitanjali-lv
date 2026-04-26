@@ -1,25 +1,21 @@
 ---
-page: 226
+page: 188
 first_line: aparādha-phole mama
-author: Śrīla Bhakti Vinod Ṭhākur
+author: Šrīla Bhaktivinoda Thākurs
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 6
 
-## Song 6
-
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The sixth verse of the Śrī Śikṣāṣṭakam is as follows:
+Sestais Šrī Šikšāštakam pants ir šāds:
 
     nayanaṁ galad-aśru-dhārayā
     vadanaṁ gadgada-ruddhayā girā
     pulakair nichitaṁ vapuḥ kadā
     tava nāma-grahaṇe bhaviṣyati
 
-“Oh Lord, when will tears flow from my eyes like waves, And my voice tremble in ecstasy? When will the hairs of my body stand on end while chanting Your Holy Name?”
+“Kungs, kad gan no manām acīm sāks plūst nebeidzamas asaru straumes un balss sāks trīcēt ekstāzē? Kad gan mati uz mana ķermeņa sacelsies stāvus dziedot tavu Svēto Vārdu?”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Hankering for Perfection](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=17&p=8).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Hankering for Perfection](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=17&p=8).*
 
 #### 1
 
@@ -28,49 +24,49 @@ The sixth verse of the Śrī Śikṣāṣṭakam is as follows:
     hatāś hoiya hari    tava nāma ucha kori
         boḍo duḥkhe ḍāki bāro bāro
 
-Oh Lord Hari, asa result of my offences incurred in previous lifetimes, my heart has become as hard as a thunderbolt, and feels no change upon chanting Your Holy Name. Disappointed, hopeless, and in great distress, I loudly call Your Name again and again.
+Ak, Kungs Harī, iepriekšējās dzīvēs veikto apvainojumu dēļ, mana sirds ir kļuvusi nežēlīga kā zibens spēriens. Es nejūtu neko dziedot tavus Svētos Vārdus. Vīlies un izmisis, lielā nelaimē es atkal un atkal skaļi saucu tavu Vārdu.
 
 #### 2
 
     dīna dayāmoy karuṇā-nidān
     bhāva-bindu dei rākhoho parāṇ
 
-Oh Lord, you are compassionate towards the fallen souls and the origin of mercy. Please give me a drop of divine ecstasy and thereby save my life!
+Kungs, Tu esi līdzcietīgs pret kritušām dvēselēm, žēlsirdība ņem savu sākumu tevī. Lūdzu, dāvā man pilienu dievišķas ekstāzes un glāb manu dzīvi.
 
 #### 3
 
     kobe tuyā nāma-uchāraṇe mor
     nayane jharabo daro daro lor
 
-When will an incessant stream of tears flow from my eyes as I chant Your Name in divine ecstasy?
+Ak, kad gan nebeidzamas asaru straumes sāks tecēt no manām acīm, ekstāzē dziedot tavu Vārdu.
 
 #### 4
 
     gada-gada-svara kaṇṭhe upajabo
     mukhe bolo ādha ādha bāhirābo
 
-When will my voice be choked with divine emotion, and when will words garbled due to ecstasy come from my mouth?
+Ak, kad gan aprausies mana balss, bet runa kļūs nesakarīga un neskaidra no dievišķiem pārdzīvojumiem?
 
 #### 5
 
     pulake bharabo śorīra hāmāra
     sveda-kampa-stambha hobe bāro bāro
 
-When will the hairs of my body stand up in ecstasy? When will I become stunned with ecstasy, shiver and perspire out of the ecstasy of divine love? When will these symptoms of ecstasy overwhelm me again and again?
+Ak, kad gan mati uz mana ķermeņa sacelsies stāvus no apdullinošas ekstāzes? Kad mani pārņems drudzis un no dievišķās mīlestības pārdzīvojumiem sāks līt sviedri? Kad gan visas šīs ekstāzes pazīmes pārņems mani?
 
 #### 6
 
     bibarṇa-śorīre hārāobu̐ jñāna
     nāma-samāśraye dharobu parāṇa
 
-When will my body turn colours and become pale out of ecstasy? When will I lose consciousness? And when will my very life be under the shelter of the Holy Name?
+Ak, kad gan mans ķermenis ekstāzē nobālēs? Kad es zaudēšu samaņu? Un kad gan beidzot visa mana dzīve būs Svētā Vārda patvērumā?
 
 #### 7
 
     milabo hāmār kiye aiche dina
     roye bhakativinoda mati hīna
 
-Bhakti Vinod, who is devoid of good intelligence cries, “When will I meet with such a day?”
+Bhaktivinoda, zaudējis saprātu raudot sauc: “Kad gan pienāks šī ilgi gaidītā diena?”
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/aparadha-phole-mama)
