@@ -1,74 +1,71 @@
 ---
-page: 222
+page: 186
 first_line: prabhu tava pada-juge mora nivedana
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 4
 
-## Song 4
+### Šrīla Bhaktivinoda Thākurs
 
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The fourth verse of the Śrī Śikṣāṣṭakam is as follows:
+Ceturtais Šrī Šikšāštakam pants ir šāds:
 
     na dhanaṁ na janaṁ na sundarīṁ
     kavitāṁ vā jagad-īśa kāmaye
     mama janmani janmanīśvare
     bhavatād bhaktir ahaitukī tvayi
 
-“Oh Lord, I have no desires to accumulate wealth, followers, beautiful women, or salvation. My only prayer is for Your causeless devotional service, birth after birth.”
+“Kungs, es netiecos pēc dārgumu uzkrāšanas, sekotājiem, skaistām sievietēm un pat ne pēc glābšanas. Mana vienīgā lūgšana ir par nebeidzamu kalpošanu uzticībā Tev, dzīvi pēc dzīves.”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Unalloyed Devotion](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=15&p=8).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Unalloyed Devotion](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=15&p=8).*
 
 #### 1
 
     prabhu tava pada-juge mora nivedana
     nāhi māgi deho-sukha, vidyā dhana, jana
 
-O Lord! This is my humble submission at Your lotus feet. I do not ask from You sensual pleasure, learning, wealth or followers.
+Kungs, pazemībā un paklausībā es krītu pie tavām lotosam līdzīgajām pēdām. Es nelūdzu tev jutekliskas baudas, zināšanas, bagātību vai pēcnācējus.
 
 #### 2
 
     nāhi māgi svarga, āro mokṣa nāhi māgi
     nā kori prārthanā kono vibhūtira lāgi
 
-I do not beg for residence on the celestial planets, nor do I wish liberation from this mundane existence. Nor do I pray for the attainment of any mystic powers.
+Es nelūdzu dzīvi uz paradīzes planētām, man nevajag atbrīvošanu no šīs materiālās esības. Es nelūdzu arī mistiskas spējas.
 
 #### 3
 
     nija-karma-guṇa-doṣe je je janma pāi
     janme janme jeno tava nāma-guṇa gāi
 
-Whatever birth I may obtain due to the results of my previous worldly activities, I pray that I may sing the glories of Your Holy Name birth after birth.
+Lai arī kāda dzimšana man būtu jāpieņem atbilstoši manai pagātnes rīcībai, es lūdzos, lai Tu vienīgi ļauj man dzīvi pēc dzīves dziedāt tavu Svēto Vārdu.
 
 #### 4
 
     ei mātra āśā mama tomāra charaṇe
     ahaitukī bhakti hṛde jāge anukṣaṇe
 
-This alone is my cherished hope, my aspiration, my prayer at Your lotus feet: Let causeless and uninterrupted devotion awaken within my heart and flow towards You.
+Šāda ir mana vienīgā cerība, mana kvēlākā vēlēšanās, mana lūgšana, vēršanās pie tavām lotosa pēdām — lai  garīgas kalpošanas straume nepārstājoši atmostas manā sirdī un plūst pie tevis.
 
 #### 5
 
     biṣoye je prīti ebe āchoye āmāra
     sei-mata prīti hauk charaṇe tomāra
 
-Let me love Your lotus feet as much as I now love sense gratification; transfer my affection from the objects of the senses to Your lotus feet.
+Lai es iemīlu tavas lotosam līdzīgās pēdas tik pat ļoti, cik ļoti es šobrīd mīlu jutekliskās baudas. Pārvirzi manu pieķeršanos no jutekļu objektiem uz tavām lotosa pēdām.
 
 #### 6
 
     vipade sampade tāhā thākuka samabhāve
     dine dine bṛddhi hauk nāmera prabhāve
 
-In danger or success, good fortune or disaster, let me remain equipoised. And let my affection for You increase day by day by the influence of the Holy Name.
+Lai veiksmē, laimē vai bēdās es vienmēr palieku nosvērts. Lai Svētā Vārda ietekmē mana pieķeršanās tev aug dienu no dienas.
 
 #### 7
 
     paśu-pakṣī hoye thāki svarge bā niroye
     tava bhakti rahu bhaktivinoda-hṛdoye
 
-Whether I live as bird or beast, in heaven or in hell, let the humble Bhakti Vinod always cherish devotion to You in his heart of hearts.
+Lai es kļūstu par putnu vai zvēru, lai dzīvoju paradīzē vai ellē, bet ļauj pazemīgajam Bhaktivinodam savas sirds dziļumos vienmēr lolot mīlošu garīgu kalpošanu tev.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/prabhu-tava-pada-juge)
