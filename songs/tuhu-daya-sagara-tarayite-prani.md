@@ -1,61 +1,58 @@
 ---
-page: 218
+page: 185
 first_line: tuhu̐ dayā-sāgara tārayite prāṇī
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 2 
 
-## Song 2
 
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
-The second verse of the Śrī Śikṣāṣṭakam is as follows:
+Otrais Šrī Šikšāštakam pants ir šāds:
 
     nāmnām akāri bahudhā nija-sarva-śaktis
     tatrārpitā niyamitaḥ smaraṇe na kālaḥ
     etādṛśī tava kṛpā bhagavan mamāpi
     durdaivam īdṛśam ihājani nānurāgaḥ
 
-“Oh my Lord, Your Holy Name bestows auspiciousness upon all. And You have unlimited Names such as Krishna and Govinda by which You reveal Yourself. In Your many Holy Names You have kindly invested all Your transcendental potency. And in chanting these Names, there are no strict rules concerning time or place. Out of Your causless mercy, You have descended in the form of divine sound, but my great misfortune is that I have no love for Your Holy Name.”
+“Kungs, tavs Svētais Vārds dāvā labvēlību visiem un ikvienam. Tev ir neskaitāmi vārdi, tādi kā Krišna un Govinda, kuros tu sevi izpaud. Savos vārdos Tu esi ielicis visu savu transcendentālo spēku. Lai dziedātu tavus vārdus nav jāievēro nekādi īpaši nosacījumi attiecībā uz vietu un laiku. Pateicoties savai beziemesla žēlsirdībai, Tu esi nonācis šajā pasaulē dievišķas skaņas formā, taču, man par lielu nelaimi, tavs Svētais Vārds mani nesaista.”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Unlimited Names of God](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=13&p=10).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Unlimited Names of God](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=13&p=10).*
 
 #### 1
 
     tuhu̐ dayā-sāgara tārayite prāṇī
     nāma aneka tuyā śikhāoli āni
 
-O Lord! You are an ocean of mercy, and so you have brought the teachings of the glories of your unlimited Holy Names to deliver all souls.
+Ak, Kungs! Tu esi žēlsirdības okeāns. Lai glābtu kritušas dvēseles, Tu atnesi mācību par savu neskaitāmo Svēto Vārdu slavu.
 
 #### 2
 
     sakala śakati dei nāme tohārā
     grahaṇe rākholi nāhi kāla-vichārā
 
-You have conferred all Your power upon Your Name. And there are no rules governing the appropriate time or place for chanting the Holy Name.
+Tu piešķīri visu savu varenību Svētajam Vārdam! Nav nekādu priekšrakstu, kas noteiktu piemērotu vietu un laiku Svētā Vārda dziedāšanai.
 
 #### 3
 
     śrī-nāma-chintāmaṇi tohāri samānā
     biśve bilāoli karuṇā-nidānā
 
-The Holy Name is a *chintāmaṇi* gem, a divine touchstone, and is nondifferent from You. Out of Your kindness for all souls, You have distributed Your Holy Name throughout the universe.
+Svētais Vārds ir *čintāmanī*, dievišķais filosofu akmens, kurš nav atšķirams no tevis! Pateicoties savai žēlsirdībai pret visām dvēselēm, Tu izplatīji savu Svēto Vārdu pa visu Visumu.
 
 #### 4
 
     tuyā dayā aichana parama udārā
     atiśoya manda nātha! bhāga hāmārā
 
-This is Your mercy, O Lord. You are supremely kind. But, O Lord, I am most wicked and unfortunate.
+Tāda ir tava želsirdība, ak, Kungs. Tu esi bezgalīgi labsirdīgs. Taču, ak, Kungs, es esmu augstākajā mērā nožēlojams un nelaimīgs.
 
 #### 5
 
     nāhi janamalo nāme anurāga mora
     bhaktivinoda-chitta duḥkhe bibhora
 
-I have never known any attraction for the Holy Names. And so, the heart of Bhakti Vinod is filled with sadness.
-
+Manī nekad nav bijis ne kripatiņas pieķeršanās tavam Svētajam Vārdam. Tādēļ Bhaktivinoda sirds ir skumju pilna.
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/tuhu-doya-sagara-tarayite-prani)
 
