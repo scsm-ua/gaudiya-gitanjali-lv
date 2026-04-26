@@ -1,25 +1,22 @@
 ---
-page: 232
+page: 191
 first_line: bondhu-goṇ! śunoho vachana mora
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 8a
 
-## Song 8a
+### Šrīla Bhaktivinoda Thākurs
 
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The eighth verse of the Śrī Śikṣāṣṭakam is as follows:
+Astotais Šrī Šikšāštakam pants ir šāds:
 
     āśliṣya vā pāda-ratāṁ pinaṣṭu mām
     adarśanān marma-hatāṁ karotu vā
     yathā tathā vā vidadhātu lampaṭo
     mat-prāṇa-nāthas tu sa eva nāparaḥ
 
-“Krishna may embrace me in love or trample me under His feet. He may break my heart by hiding Himself from me. Let that debauchee do whatever He likes, but He will always be the only Lord of my life.”
+“Krišna var mani mīloši apskaut vai mīdīt ar savām kājām. Viņš var salauzt manu sirdi, slēpjoties no manis. Viņš var darīt ar mani visu, ko vien vēlas, un tomēr viņš vienmēr būs visas manas dzīves vienīgais Kungs.”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Union in Separation](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=19&p=8).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Union in Separation](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=19&p=8).*
 
 #### 1
 
@@ -27,7 +24,7 @@ The eighth verse of the Śrī Śikṣāṣṭakam is as follows:
     bhāvete bibhora, thākiye jokhon,
         dekhā deya chitta-chora
 
-Oh my friends! Listen to my words. I am filled to overflowing with devotional ecstasy when I have a divine vision of that thief who has stolen my heart.
+Mani draugi! Uzklausiet manus vārdus. Mani pārpilda garīgas kalpošanas jūtu ekstāze, kad es redzu šo zaglēnu, kurš nolaupījis manu sirdi.
 
 #### 2
 
@@ -36,14 +33,14 @@ Oh my friends! Listen to my words. I am filled to overflowing with devotional ec
     punaḥ nāhi dekhi’,    kā̐daye parāṇa,
         duḥkhera nā thāke ora
 
-And when I want to see Him more clearly, He disappears from sight and becomes invisible. Again, not seeing Him, my soul weeps and my grief knows no bounds.
+Taču, kad es vēlos viņu saskatīt labāk, viņš pazūd un kļūst neaizsniedzams. Bet, kad es viņu neredzu, mana dvēsele sēro un bēdām nav gala.
 
 #### 3
 
     jagatera bandhu sei kobhu more loya sātha
     yathā tathā rākhu more āmāra se prāṇanātha
 
-Sometimes Krishna, the friend of the universe, takes me as one of His own, and sometimes He ignores me, but however He keeps me, He is the only Lord of my life.
+Dažkārt Krišna, visuma draugs, pieņem mani kā vienu no sev tuvajiem, bet dažkārt viņš nepievērš man nekādu uzmanību. Taču, lai kā viņš arī attiektos pret mani, viņš vienmēr ir un paliek manas dzīves vienīgais Kungs.
 
 #### 4
 
@@ -52,14 +49,14 @@ Sometimes Krishna, the friend of the universe, takes me as one of His own, and s
     punaḥ adarśan diyā,    dagdha kore mora hiyā,
         prāṇe more māre prāṇa-dhan
 
-When He gives His blissful audience to me, He gives happiness to my soul. He gives me great ecstasy by allowing me to see Him and by speaking affectionately to me. Again He goes away, removing Himself from my sight. And by not letting me see Him, He burns my heart with the fire of separation.
+Kad viņš dāvā man savu svētlaimīgo sabiedrību, tā piepilda ar laimi visu manu dvēseli. Es piedzīvoju ekstāzi, kad viņš ļauj sevi redzēt un uzrunā mani ar maigumu. Pēc tam viņš atkal pazūd! Slēpjoties no manis, viņš dedzina manu sirdi atšķirtības jūtu ugunī.
 
 #### 5
 
     jāhe tā’ra sukha hoy, sei sukha mama
     nija sukhe-duḥkhe mora sarvadāi sama
 
-But even though He pains my soul in this way, He is still the Lord of my life. Whatever is His happiness is also my happiness. And so, for me, my own happiness and distress is all the same.
+Taču, neskatoties uz neciešamajām mokām, viņš ir visas manas dzīves Kungs. Viss, kas dara viņu laimīgu, dara laimīgu arī mani. Tādēļ es neredzu atšķirību starp savu laimi un ciešanām.
 
 #### 6
 
@@ -68,7 +65,7 @@ But even though He pains my soul in this way, He is still the Lord of my life. W
     tā’ra sukhe sukhī,    sei prāṇa-nātha,
         se kobhu nā hoya paro
 
-In this way, Bhakti Vinod, in both union and separation, knows that Krishna is the only Lord of his soul. Krishna’s happiness is my happiness. He is the Lord of my life; there is no other Lord for me than Him.
+Šādi, gan satiekot Krišnu, gan esot atšķirtībā no viņa, Bhaktivinoda zina, ka Krišna ir vienīgais viņa dvēseles Kungs. Krišnas laime ir mana laime. Viņš ir visas manas dzīves Kungs! Man nav neviena cita Kunga, kā vienīgi viņš.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bondhu-gon-sunoho-vachana-mora)
