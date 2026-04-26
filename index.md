@@ -68,3 +68,7 @@
 - [emona durmati, saṁsāra bhitore](songs/emona-durmati-samsara-bhitore.md)
 - [bhajahu̐ re mana śrī-nanda-nandana](songs/bhajahu-re-mana-shri-nanda-nandana.md)
 - [ātma-nivedana, tuyā pade kori](songs/atma-nivedana-tuya-pade-kori.md)
+- [durlabha mānava-janma labhiyā saṁsāre](songs/durlabha-manava-janma-labhiya-samsare.md)
+- [hari he dayāla mora jaya rādhā-nātha](songs/hari-he-dayala-mora-jaya-radha-natha.md)
+- [gopīnāth, āmāra upāya nāi](songs/gopinath-amara-upaya-nai.md)
+

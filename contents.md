@@ -92,4 +92,6 @@
 - [Goptṛtve Varaṇa](songs/ki-jani-ki-bale-tomara-dhamete.md)
 - [Ātma-nivedana](songs/atma-nivedana-tuya-pade-kori.md)
 - [Tumi sarveśvareśvara](songs/tumi-sarveshvareshvara-vrajendra-kumara.md)
-
+- [Nivedana 3](songs/gopinath-amara-upaya-nai.md)
+- [Durlabha mānava-janma](songs/durlabha-manava-janma-labhiya-samsare.md)
+- [Dainya O Prapatti](songs/hari-he-dayala-mora-jaya-radha-natha.md)
