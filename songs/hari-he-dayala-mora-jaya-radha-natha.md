@@ -1,6 +1,6 @@
 ---
-page: 195
-author: Śrīla Bhakti Vinod Ṭhākur
+page: 158
+author: Šrīla Bhaktivinoda Thākurs
 first_line: hari he dayāla mora jaya rādhā-nātha
 ---
 
@@ -11,33 +11,33 @@ first_line: hari he dayāla mora jaya rādhā-nātha
     hari he dayāla mora jaya rādhā-nātha
     bāro bāro ei-bāro loho nija sātha
 
-O Hari! O my merciful Lord! All glories to You, the Lord of Rādhā! Many times I have avoided You, but this time please take me as Your own.
+Ak, Harī! Visužēlīgais Kungs. Visa slava Tev, Rādhas Kungs! Esmu ilgi no Tevis izvairījies, taču tagad lūdzos - pieņem mani kā Savu īpašumu.
 
 #### 2
 
     bahu joni bhrami nātha! loinu śaraṇa
     nija-guṇe kṛpā kara adhama tāraṇa
 
-O Lord, after wandering through many wombs, I have taken refuge in You. Be merciful and deliver this wretched soul by Your divine power.
+Kungs, pēc daudzām jo daudzām dzimšanām esmu pieņēmis patvērumu Tevī. Esi žēlsirdīgs pret mani un ar savu dievišķo spēku atbrīvo šo nelaimīgo dvēseli.
 
 #### 3
 
     jagata-kāraṇa tumi jagata-jīvana
     tomā chāḍā kāro na’hi he rādhā-ramaṇa
 
-O lover of Rādhā, You are the cause of the universe and the life of the universe. Without You no-one has anything.
+Ak, Rādhas mīļotais, Tu esi Visuma pirmavots un dzīvība. Nekas nepastāv ārpus tevis.
 
 #### 4
 
     bhuvana-maṅgala tumi bhuvanera pati
     tumi upekṣile nātha, ki hoibe gati
 
-You bring about auspiciousness for the world, and You are the master of all the worlds as well. O Lord, what will be my refuge if You neglect me?
+Tu nes svētību visai pasaulei. Tu esi arī visu pasauļu saimnieks. Kungs, kur gan man rast patvērumu, ja Tu mani atraidīsi?
 
 #### 5
 
     bhāviyā dekhinu ei jagata-mājhāre
     tomā vinā keho nāhi e dāse uddhāre
 
-I have considered that in this world there is no one except You who can deliver this fallen servant.
+Šajā pasaulē nav neviena, kas varētu glābt šo kritušo kalpu – tikai Tu.
 
