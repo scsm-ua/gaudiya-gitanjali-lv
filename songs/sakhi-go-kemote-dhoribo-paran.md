@@ -1,21 +1,18 @@
 ---
-page: 231
+page: 191
 first_line: sakhi go kemote dhoribo parāṇ
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 7c
 
-## Song 7c
-
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
     sakhi go kemote dhoribo parāṇ
     nimeṣa hoilo jugera samān
 
-Oh my dear girlfriend! How will I  maintain my life? The passing of a mere moment has become like a vast age of time.
+Mana dārgā draudzene! Kā gan es varu turpināt dzīvot? Ikviens mirklis līdzinās veselai mūžībai.
 
 #### 2
 
@@ -24,7 +21,7 @@ Oh my dear girlfriend! How will I  maintain my life? The passing of a mere momen
     govinda-virahe,    prāṇa nāhi rohe,
         kemone bā̐chibo bolo
 
-Tears flow from my eyes like torrents of rain in the month of Śrāvaṇa, and the face of the earth has become totally void. In separation from Govinda my life cannot go on... please, tell how I will be able to live.
+Asaras no manām acīm tek un līdzinās Šrāvana mēneša lietus straumēm. Visa pasaule ir kļuvusi tukša. Es vairs nespēju dzīvot atšķirtībā no Govindas. Lūdzu, pasaki — kā lai dzīvoju tālāk?
 
 #### 3
 
@@ -33,9 +30,9 @@ Tears flow from my eyes like torrents of rain in the month of Śrāvaṇa, and t
     ḍāke rādhānātha,    diyā daraśana,
         prāṇa rākho, nahe mori
 
-Bhakti Vinod has become very restless and again takes shelter of the holy name, calling out, “Oh Lord of Rādhā! By bestowing Your audience, please save my life! By Your mercy alone I shall not perish!”
+Zaudējis mieru, Bhaktivinoda atkal meklē Svētā Vārda patvērumu un sauc: “Rādhas Kungs! Dāvā man saskarsmi ar sevi un glāb mani. Vienīgi pateicoties tavai žēlsirdībai es neiešu bojā.”
 
-Footnote to verse 1: *Śrīla Śrīdhar Mahārāja advised not to sing ‘sakhi go’ but ‘bandhu he’ instead.*
+Piezīme pie pirmā panta: *Šrīla Šrīdhārs Mahārādža ieteica nedziedāt "sakhi go", bet gan "bandhu he".*
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/sakhi-go-kemote)
