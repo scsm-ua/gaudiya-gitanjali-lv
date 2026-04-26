@@ -11,14 +11,14 @@ first_line: hari he dayāla mora jaya rādhā-nātha
     hari he dayāla mora jaya rādhā-nātha
     bāro bāro ei-bāro loho nija sātha
 
-Ak, Harī! Visužēlīgais Kungs. Visa slava Tev, Rādhas Kungs! Esmu ilgi no Tevis izvairījies, taču tagad lūdzos - pieņem mani kā Savu īpašumu.
+Ak, Harī! Visužēlīgais Kungs. Visa slava tev, Rādhas Kungs! Esmu ilgi no tevis izvairījies, taču tagad lūdzos - pieņem mani kā savu īpašumu.
 
 #### 2
 
     bahu joni bhrami nātha! loinu śaraṇa
     nija-guṇe kṛpā kara adhama tāraṇa
 
-Kungs, pēc daudzām jo daudzām dzimšanām esmu pieņēmis patvērumu Tevī. Esi žēlsirdīgs pret mani un ar savu dievišķo spēku atbrīvo šo nelaimīgo dvēseli.
+Kungs, pēc daudzām jo daudzām dzimšanām esmu pieņēmis patvērumu tevī. Esi žēlsirdīgs pret mani un ar savu dievišķo spēku atbrīvo šo nelaimīgo dvēseli.
 
 #### 3
 
