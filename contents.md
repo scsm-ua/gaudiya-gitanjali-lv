@@ -95,3 +95,17 @@
 - [Nivedana 3](songs/gopinath-amara-upaya-nai.md)
 - [Durlabha mānava-janma](songs/durlabha-manava-janma-labhiya-samsare.md)
 - [Dainya O Prapatti](songs/hari-he-dayala-mora-jaya-radha-natha.md)
+
+### Šrī Šikšāštakam
+
+- [1. Pita-varaṇa kali](songs/pita-varana-kali-pavana-gora.md)
+- [2. Tuhu̐ dayā-sāgara](songs/tuhu-daya-sagara-tarayite-prani.md)
+- [3. Śrī-Kṛṣṇa-kīrtane jodi](songs/shri-krishna-kirtane-jodi-manasa-tohara.md)
+- [4. Prabhu tava pada](songs/prabhu-tava-pada-juge-mora-nivedana.md)
+- [5. Anādi karama phole](songs/anadi-karama-phole.md)
+- [6. Aparādha-phole mama](songs/aparadha-phole-mama.md)
+- [7a. Gāite gāite nāma](songs/gaite-gaite-nama-ki-doshia-hoilo.md)
+- [7b. Gāite ‘govinda’–nām](songs/gaite-govinda-nam-upajilo-bhava-gram.md)
+- [7c. Sakhī go kemote](songs/sakhi-go-kemote-dhoribo-paran.md)
+- [8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
+- [8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
