@@ -1,25 +1,22 @@
 ---
-page: 224
+page: 187
 first_line: anādi karama-phole
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 5
 
-## Song 5
+### Šrīla Bhaktivinoda Thākurs
 
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The fifth verse of the Śrī Śikṣāṣṭakam is as follows:
+Piektais Šrī Šikšāštakam pants ir šāds:
 
     ayi nanda-tanuja kiṅkaraṁ
     patitaṁ māṁ viṣame bhavāmbudhau
     kṛpayā tava pāda-paṅkaja-
     sthita-dhūli-sadṛśaṁ vichintaya
 
-“Oh son of Nanda Mahārāj, I am Your eternal servant, yet because of my own *karma*, I have fallen into this terrible ocean of birth and death. Please accept this fallen soul and consider me a particle of dust at Your holy lotus feet.”
+“Ak, Mahārādža Nandas dēls, es esmu tavs mūžīgais kalps, taču savas karmas dēļ esmu iekritis šajā dzimšanu un miršanu bezdibenī. Lūdzu, pieņem šo kritušo dvēseli, lai es kļūstu par putekli pie tavām lotosu pēdām.”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: King of the Land of Love](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=16&p=8).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: King of the Land of Love](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=16&p=8).*
 
 #### 1
 
@@ -28,7 +25,7 @@ The fifth verse of the Śrī Śikṣāṣṭakam is as follows:
     e-viṣoya-holāhole,    divā-niśi hiyā jvole,
         mon kobhu sukha nāhi pāy
 
-As a result of my selfish fruitive activities, which are without beginning, I have fallen into the ocean of material existence. And now I can see no means of deliverance. Day and night my heart burns from the vicious poison of these worldly affairs, and due to this my mind never finds any true happiness.
+Manas savtīgās darbības, kurām nav sākuma, ir ievilkušas mani materiālās esības briesmu pilnajā bezdibenī. Man nav glābiņa! Dienu un nakti manu sirdi dedzina pasaulīgo nodarbju inde, tādēļ mans prāts nekad nespēj būt patiesi laimīgs.
 
 #### 2
 
@@ -37,7 +34,7 @@ As a result of my selfish fruitive activities, which are without beginning, I ha
     kāma-krodha-ādi choy,    bāṭapāḍe dey bhoy,
         abasāna hoilo āsi belā
 
-I am bound by hundreds and hundreds of desires that give unending distress and these desires play in the waves of ever-increasing materialistic tendency. Lust, anger, greed, pride, illusion and envy are like six highway robbers making me greatly fearful, and in this way my life is coming to an end.
+Neskaitāmi simti vēlmju ir pārņēmušas mani, tās ieved mani nebeidzamās bēdās un mētā mani turpu šurpu pa vienmēr augošā materiālisma kāres viļņiem. Iekāre, dusmas, skopums, lepnība, ilūzija un skaudība uzdzen man bailes līdzīgi sešiem lielceļa laupītājiem. Šādi mana dzīve tuvojas noslēgumam.
 
 #### 3
 
@@ -46,7 +43,7 @@ I am bound by hundreds and hundreds of desires that give unending distress and t
     e heno somoye, bandhu,    tumi kṛṣṇa kṛpā-sindhu
         kṛpā kori’ tolo more bole
 
-The two highway robbers named intellectual knowledge and fruitive activity have cheated and misled me, and finally they have thrown me into the ocean of misery. At such a time as this, dear Krishna, You are my only friend. You are an ocean of mercy. Please be kind upon me and uplift me from this condition of suffering by Your divine power.
+Divi laupītāji — intelektuālas zināšanas un savtīgas darbības,  ir noveduši mani no ceļa un iemetuši ciešanu bezdibenī. Šobrīd, dārgais Krišna, Tu esi mans vienīgais glābiņš. Tu esi žēlastības okeāns. Lūdzu tevi, esi labsirdīgs un glāb mani.
 
 #### 4
 
@@ -55,7 +52,7 @@ The two highway robbers named intellectual knowledge and fruitive activity have 
     āmi tava nitya-dās    bhuliyā māyāra pāś,
         baddha ho’ye āchi dayāmoy
 
-I am Your eternal servant, Oh merciful Lord. But, having forgotten this since time immemorial, I have become bound up in this network of illusion. Take this fallen servant of Yours, give him a place in the dust of Your lotus feet; give your shelter to this humble Bhakti Vinod.
+Esmu tavs mūžīgais kalps, ak, žēlsirdīgais Kungs. Kopš neatminamiem laikiem aizmirsis par to, tagad esmu sapinies ilūzijas tīklos. Pieņem savu kritušo kalpu, dāvā viņam vietu tavu lotosa pēdu putekļos. Dod savu pajumti pazemīgajam Bhaktivinodam.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/anadi-karama-phole)
