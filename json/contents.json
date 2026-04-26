@@ -401,6 +401,71 @@
         "id": "hari-he-dayala-mora-jaya-radha-natha",
         "filepath": "songs/hari-he-dayala-mora-jaya-radha-natha.md",
         "title": "Dainya O Prapatti"
+      },
+      {
+        "id": "shri-rupa-manjari-pada-sei-mora-sampada",
+        "filepath": "songs/shri-rupa-manjari-pada-sei-mora-sampada.md",
+        "title": "Śrī-Rūpa-Mañjarī-pada"
+      }
+    ]
+  },
+  {
+    "name": "Šrī Šikšāštakam",
+    "items": [
+      {
+        "id": "pita-varana-kali-pavana-gora",
+        "filepath": "songs/pita-varana-kali-pavana-gora.md",
+        "title": "1. Pita-varaṇa kali"
+      },
+      {
+        "id": "tuhu-daya-sagara-tarayite-prani",
+        "filepath": "songs/tuhu-daya-sagara-tarayite-prani.md",
+        "title": "2. Tuhu̐ dayā-sāgara"
+      },
+      {
+        "id": "shri-krishna-kirtane-jodi-manasa-tohara",
+        "filepath": "songs/shri-krishna-kirtane-jodi-manasa-tohara.md",
+        "title": "3. Śrī-Kṛṣṇa-kīrtane jodi"
+      },
+      {
+        "id": "prabhu-tava-pada-juge-mora-nivedana",
+        "filepath": "songs/prabhu-tava-pada-juge-mora-nivedana.md",
+        "title": "4. Prabhu tava pada"
+      },
+      {
+        "id": "anadi-karama-phole",
+        "filepath": "songs/anadi-karama-phole.md",
+        "title": "5. Anādi karama phole"
+      },
+      {
+        "id": "aparadha-phole-mama",
+        "filepath": "songs/aparadha-phole-mama.md",
+        "title": "6. Aparādha-phole mama"
+      },
+      {
+        "id": "gaite-gaite-nama-ki-doshia-hoilo",
+        "filepath": "songs/gaite-gaite-nama-ki-doshia-hoilo.md",
+        "title": "7a. Gāite gāite nāma"
+      },
+      {
+        "id": "gaite-govinda-nam-upajilo-bhava-gram",
+        "filepath": "songs/gaite-govinda-nam-upajilo-bhava-gram.md",
+        "title": "7b. Gāite ‘govinda’–nām"
+      },
+      {
+        "id": "sakhi-go-kemote-dhoribo-paran",
+        "filepath": "songs/sakhi-go-kemote-dhoribo-paran.md",
+        "title": "7c. Sakhī go kemote"
+      },
+      {
+        "id": "bondhu-gon-shiunoho-vachana-mora",
+        "filepath": "songs/bondhu-gon-shiunoho-vachana-mora.md",
+        "title": "8a. Bondhu-goṇ! śunoho"
+      },
+      {
+        "id": "yoga-pithopari-sthita-ashta-sakhi-subeshtita",
+        "filepath": "songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md",
+        "title": "8b. Yoga-pīṭhopari-sthita"
       }
     ]
   }
