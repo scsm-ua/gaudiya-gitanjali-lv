@@ -95,6 +95,7 @@
 - [Nivedana 3](songs/gopinath-amara-upaya-nai.md)
 - [Durlabha mānava-janma](songs/durlabha-manava-janma-labhiya-samsare.md)
 - [Dainya O Prapatti](songs/hari-he-dayala-mora-jaya-radha-natha.md)
+- [Śrī-Rūpa-Mañjarī-pada](songs/shri-rupa-manjari-pada-sei-mora-sampada.md)
 
 ### Šrī Šikšāštakam
 
