@@ -1,14 +1,10 @@
 ---
-page: 230
+page: 190
 first_line: gāite ‘govinda’-nām, upajilo bhāva-grām
-author: Śrīla Bhakti Vinod Ṭhākur
+author: Šrīla Bhaktivinoda Thākurs
 ---
 
-# Śrī Śikṣāṣṭakam
-
-## Song 7b
-
-### by Śrīla Bhakti Vinod Ṭhākur
+# Śrī Śikṣāṣṭakam 7b
 
 #### 1
 
@@ -17,7 +13,7 @@ author: Śrīla Bhakti Vinod Ṭhākur
     vṛṣabhānu-sutā-saṅge,    śyāma-naṭa-boro-raṅge,
         bā̐śarī bājāya nīpo-mūle
 
-And while I sang the name of Govinda a host of ecstasies arose within me. I saw Sundar-śyāma the best of dancers, on Yamunā’s shores, with Śrī Rādhā, Vṛṣabhānu’s daughter, sporting in Pastimes of love playing His flute beside the water while a kadamba tree above cast shade upon the divine couple.
+Kad es dziedāju Govindas Vārdu, manī sacēlās ekstātisku pārdzīvojumu vētra. Jamūnas upes krastā es ieraudzīju Sundar-šjāmu, labāko no dejotājiem, ar Šrī Rādhu, karaļa Vrišabhanū meitu. Aizrāvies mīlestībā uz Šrī Rādhu, viņš spēlēja savu flautu blakus dīķim zem kadambas koka, kurš dāvāja ēnu dievišķajam pārim. 
 
 #### 2
 
@@ -26,7 +22,7 @@ And while I sang the name of Govinda a host of ecstasies arose within me. I saw 
     koto-kṣane nāhi jāni,    jñāna-labha hoilo māni,
         āro nāhi bhelo daraśan
 
-On seeing this, my mind was stunned. I lost my senses. Unaware of time, I fainted. When I awoke after immeasurable time, the treasured couple had gone. My vision of Vraja had broken.
+Vērojot šo skatu es sastingu. Es zaudēju maņas! Es noģību, zaudējot laika izjūtu. Taču, kad es pamodos, Dievišķais Pāris jau bija zudis. Vradža, kuru redzēju, bija zudusi.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/gaite-govinda-nam)
