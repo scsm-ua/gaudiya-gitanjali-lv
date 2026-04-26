@@ -1,16 +1,12 @@
 ---
-page: 216
+page: 184
 first_line: pīta-varaṇa kali-pāvana gorā
-author: Śrīla Bhakti Vinod Ṭhākur
+author: Šrīla Bhaktivinoda Thākurs
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 1
 
-## Song 1
-
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The first verse of the Śrī Śikṣāṣṭakam is as follows:
+Pirmais Šrī Šikšāštakam pants ir šāds:
 
     cheto-darpaṇa-mārjanaṁ
         bhava-mahā-dāvāgni-nirvāpaṇaṁ
@@ -21,69 +17,70 @@ The first verse of the Śrī Śikṣāṣṭakam is as follows:
     sarvātma-snapanaṁ paraṁ
         vijayate śrī-kṛṣṇa-saṅkīrtanam
 
-The Holy Name of Krishna cleanses the mirror of the heart and extinguishes the fire of misery in the forest of birth and death. As the evening lotus blooms in the moon’s cooling rays, the heart begins to blossom in the nectar of the Name.
+Krišnas Svētais Vārds attīra sirds spoguli un dzēš ciešanu uguni dzimšanu un miršanu mežā! Kā vēsajos mēness staros uzplaukst nakts lotoss, tā Svētā Vārda nektārā uzplaukst sirds.
 
-And at last the soul awakens to its real inner treasure — a life of love with Krishna. Again and again tasting nectar, the soul dives and surfaces in the ever-increasing ocean of ecstatic joy.
+Tad dvēsele mostas un apzinās savu īsteno iekšējo bagātību – dzīvi mīlestībā ar Krišnu! Malkojot šo nektāru, dvēsele gremdējas pieaugošas svētlaimes okeānā.
 
-All phases of the self of which we may conceive are fully satisfied and purified, and at last conquered by the all-auspicious influence of the Holy Name of Krishna.
+Ikviena sirdī mītoša vēlēšanās, kāda vien iedomājama, tiek atbildēta un attīrīta. Tad dvēsele pilnībā nodod sevi Krišnas Svētā Vārda viļņiem, kas dvēseli attīra pilnībā.
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: The Holy Name of Kṛṣṇa](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=12&p=12)*
+
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: The Holy Name of Kṛṣṇa](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=12&p=12)*
 
 #### 1
 
     pīta-varaṇa kali-pāvana gorā
     gāoyāi aichana bhāva-bibhorā
 
-Lord Gaurāṅga, whose complexion is golden and who is the deliverer of the fallen souls of *Kali-yuga*, sings as follows, overwhelmed with spiritual ecstasy.
+Kungs Gauranga, kura ķermenis ir zelta krāsā, ir kritušo dvēseļu glābējs *Kali-jugā*! Pārdzīvojot garīgu svētlaimi, viņš dzied šo dziesmu.
 
 #### 2
 
     chitta-darpaṇa-parimārjana-kārī
     kṛṣṇa-kīrtana jaya chitta-bihārī
 
-“All glories to the chanting of the Holy Name of Krishna! It thoroughly cleanses the mirror of the heart and is the delight of the soul.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! Tā pilnībā notīra sirds spoguli un sajūsmina dvēseli.”
 
 #### 3
 
     helā-bhava-dāva-nirvāpaṇa-vṛtti
     kṛṣṇa-kīrtana jaya kleśa-nivṛtti
 
-“All glories to the chanting of the Holy Name of Krishna! It extinguishes the forest fire of material existence and removes all material tribulations.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! Tā dzēš materiālās esības uguni un atbrīvo no visām ciešanām un raizēm.”
 
 #### 4
 
     śreyaḥ-kumuda-bidhu-jyotsnā-prakāśa
     kṛṣṇa-kīrtana jaya bhakti-vilāsa
 
-“All glories to the chanting of the Holy Name of Krishna! It appears like the moon in the heart and distributes its cooling moonlight, making the white lotus of the soul’s good fortune blossom and bloom. Krishna-*kīrtan* is the *bhakti-vilāsa*, the beautiful pastime of devotion.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! Tā parādās sirdī līdzīgi mēnesim, kas lej dzīvinošu gaismu, pateicoties kurai plaukst un zied dvēseles labās veiksmes baltais lotoss. *Krišna-kīrtans* ir *bhakti-vilasa* — garīgas kalpošanas brīnišķīgā rotaļa.”
 
 #### 5
 
     viśuddha-vidyā-vadhu jīvana-rūpa
     kṛṣṇa-kīrtana jaya siddha-svarūpa
 
-“All glories to the chanting of the Holy Name of Krishna! It reveals one’s pure identity in relationship with the Lord even up to divine consorthood. This chanting is the real perfection of life.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! Tā atklāj dvēseles īsteno dabu attiecībās ar Kungu līdz pat dievišķai laulībai. Svētā Vārda dziedāšana ir pati dzīves pilnība”
 
 #### 6
 
     ānanda-payo-nidhi-vardhana-kīrti
     kṛṣṇa-kīrtana jaya plābana-mūrti
 
-“All glories to the chanting of the Holy Name of Krishna! Krishna-*kīrtan* causes the ocean of ecstatic joy to overflow. It is an inundation of divine love.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! *Krišna-kīrtans* liek ekstātiskas svētlaimes okeānam plūst pāri malām. Tā ir nebeidzama garīgās mīlestības plūsma.”
 
 #### 7
 
     pade pade pījuṣa-svāda-pradātā
     kṛṣṇa-kīrtana jaya prema-bidhātā
 
-“All glories to the chanting of the Holy Name of Krishna! Krishna-*kīrtan* gives one a taste of fully satisfying nectar at every step; ultimately it bestows ecstatic love of Godhead.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! *Krišna-kirtans* ik uz soļa sniedz nektāra garšu, bet noslēgumā apdāvina ar ekstātisku mīlestību uz Dievu.”
 
 #### 8
 
     bhakativinoda-svātma-snapana-vidhān
     kṛṣṇa-kīrtana jaya prema-nidān
 
-“All glories to the chanting of the Holy Name of Krishna! It bathes the soul of Bhakti Vinod. This chanting is a storehouse of love of Godhead.”
+“Visa slava Krišnas Svētā Vārda dziedāšanai! Tā atdzīvina Bhaktivinodas dvēseli. Svētā Vārda dziedāšana ir mīlestības uz Dievu dārgumu lāde.”
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/pita-barana-kali-pavana-gora)
