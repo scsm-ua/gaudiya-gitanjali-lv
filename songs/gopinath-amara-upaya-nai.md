@@ -1,14 +1,11 @@
 ---
-page: 204
+page: 171
 first_line: gopīnāth, āmāra upāya nāi
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Nivedana
+# Nivedana 3. daļa
 
-## Part 3
-
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
 #### 1
 
@@ -16,7 +13,7 @@ author: Śrīla Bhakti Vinod Ṭhākur
     tumi kṛpā kori,    āmāre loile,
         saṁsāre udhāra pāi
 
-Oh Gopīnāth, I have no means of success, but if You take me, having bestowed Your mercy upon me, then I will obtain deliverance from this world.
+Ak, Gopināth, man nav nekādu izredžu. Taču, ja Tu pieņemsi mani un dāvāsi man savu žēlastību, es tikšu glābts no šīs materiālās pasaules.
 
 #### 2
 
@@ -24,7 +21,7 @@ Oh Gopīnāth, I have no means of success, but if You take me, having bestowed Y
     dhon, dārā, suta,    ghireche āmāre,
         kāmete rekheche jere
 
-Oh Gopīnāth, I have fallen into the perils of material illusion. Wealth, wife, and sons have surrounded me, and lust has wasted me away.
+Ak, Gopināth, es esmu kļuvis par materiālās ilūzijas upuri. Man ir bagātība, sieva un dēli, taču mana ir pārņēmusi materiālā iekāre.
 
 #### 3
 
@@ -32,7 +29,7 @@ Oh Gopīnāth, I have fallen into the perils of material illusion. Wealth, wife,
     nā māne śāsana,    sadā achetana,
         viṣoye royeche bhora
 
-Oh Gopīnāth, my mind is crazy and does not care for any authority. It is always senseless and has remained in the dark pit of worldly affairs.
+Ak, Gopināth, esmu kļuvis neprātīgs un jebkura autoritāte manam prātam ir vienaldzīga. Tas ir iegrimis dziļā  miegā un pasaulīgo rūpju tumšajā bedrē.
 
 #### 4
 
@@ -40,7 +37,7 @@ Oh Gopīnāth, my mind is crazy and does not care for any authority. It is alway
     oneka jatana,    hoilo biphala,
         ekhona bharasā tumi
 
-Oh Gopīnāth, I have accepted my defeat. All of my various endeavours were useless. Now You are the only hope.
+Ak, Gopināth, es pieņemu savu sakāvi. Visi mani centieni ir bijuši veltīgi. Tagad Tu esi mana vienīgā cerība.
 
 #### 5
 
@@ -48,7 +45,7 @@ Oh Gopīnāth, I have accepted my defeat. All of my various endeavours were usel
     prabala indriya,    bośī-bhūta mana,
         nā chāḍe viṣoya-rati
 
-Oh Gopīnāth, how shall I make any advancement when my mind has come under the control of the powerful senses and does not abandon its attachment to materialism?
+Ak, Gopināth, kas gan notiks ar mani? Manas maņas ir ļoti spēcīgas. Tās kontrolē manu prātu un nevēlas atteikties no visa materiālā, kam tās ir pieķērušās.
 
 #### 6
 
@@ -56,7 +53,7 @@ Oh Gopīnāth, how shall I make any advancement when my mind has come under the 
     manake śamiyā,    loho nija pāne,
         ghuchibe vipada ghora
 
-Oh Gopīnāth, after sitting down in the core of my heart and subduing my mind, please take me to You. In this way the horrible dangers of this world will disappear.
+Ak, Gopināth, jel apmeties manā sirdī. Apklusini manu prātu un paņem mani pie sevis. Lūdzu, atbrīvo mani no visām šīm briesmām.
 
 #### 7
 
@@ -64,7 +61,7 @@ Oh Gopīnāth, after sitting down in the core of my heart and subduing my mind, 
     tumi hṛṣīkeśa,    hṛṣīka damiyā,
         tāro’ he saṁsṛti-ghore
 
-Oh Gopīnāth, You are Hṛṣīkeśa, the Lord of the senses. Seeing me so helpless, please control these senses of mine and deliver me from this dark and perilous worldly existence.
+Ak, Gopināth, Tu esi Hrišīkēša – jutekļu valdnieks. Tu redzi, ka esmu bezpalīdzīgs. Lūdzos Tevi, kļūsti par manu maņu saimnieku un glāb mani no šīs tumšās un briesmu pilnās pasaulīgās eksistences.
 
 #### 8
 
@@ -72,5 +69,5 @@ Oh Gopīnāth, You are Hṛṣīkeśa, the Lord of the senses. Seeing me so help
     kṛpā-asi dhori,    bandhana chediyā,
         vinode karaho dāsa
 
-Oh Gopīnāth, the noose of materialism has become fixed around my neck. Taking up the sword of Your mercy and cutting this bondage, make this Bhakti Vinod Your humble servant.
+Ak, Gopināth, materiālisma cilpa ir savilkusies cieši ap manu kaklu. Pārcērt šīs važas ar savas žēlastības zobenu un padari Bhaktivinodu par savu kalpu.
 
