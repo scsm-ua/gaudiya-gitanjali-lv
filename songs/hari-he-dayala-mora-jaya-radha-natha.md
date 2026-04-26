@@ -1,6 +1,6 @@
 ---
 page: 158
-author: Šrīla Bhaktivinoda Thākurs
+no-author: 1
 first_line: hari he dayāla mora jaya rādhā-nātha
 ---
 
