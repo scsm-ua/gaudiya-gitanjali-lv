@@ -1,60 +1,56 @@
 ---
-page: 228
+page: 189
 first_line: gāite gāite nāma ki dośā hoilo
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
-# Śrī Śikṣāṣṭakam
+# Śrī Śikṣāṣṭakam 7a
 
-## Song 7a
+### Šrīla Bhaktivinoda Thākurs
 
-### by Śrīla Bhakti Vinod Ṭhākur
-
-The seventh verse of the Śrī Śikṣāṣṭakam is as follows:
+Septītais Šrī Šikšāštakam pants ir šāds:
 
     yugāyitaṁ nimeṣeṇa
     chakṣuṣā prāvṛṣāyitaṁ
     śūnyāyitaṁ jagat sarvaṁ
     govinda-viraheṇa me
 
-“Oh Govinda! Without You, the world is empty. Tears are flooding my eyes like rain, and a moment seems like forever.”
+“Govinda, bez tevis pasaule ir tukša! Asaras nebeidzamām straumēm plūst no manām acīm un katrs mirklis līdzinās bezgalībai!”
 
-*Illumination in the book: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Forever Without You](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=18&p=8).*
+*Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: Forever Without You](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=18&p=8).*
 
 #### 1
 
     gāite gāite nāma ki dośā hoilo
     ‘kṛṣṇa-nitya-dāsa mui’ hṛdoye sphurilo
 
-Chanting the Name again and again, what was my condition? Within my heart I realised, “I am an eternal servant of Krishna.”
+Pie kā esmu nonācis atkal un atkal dziedot Svēto Vārdu? Savā sirdī esmu atklājis: “Es esmu Krišnas mūžīgais kalps!”
 
 #### 2
 
     jānilām māyā-pāśe e jaḍa-jagate
     govinda-virahe duḥkha pāi nānā-mate
 
-I realised that I was bound by Māyā’s ropes, in this dull mundane universe, and I simply experience misery in various ways due to separation from Lord Govinda.
+Es atskārtu, ka esmu šajā pelēkajā materiālajā Visumā majas virvju sasiets un neizturami ciešu atšķirtībā no Kunga Govindas.
 
 #### 3
 
     āro je saṁsāra mora nāhi lāge bhālo
     kā̐hā jāi kṛṣṇa heri e chintā biśālo
 
-And I don’t much like this world of birth and death. Where shall I go to see Krishna? This was my biggest worry.
-
+Nekas šajā dzimšanu un nāvju pasaulē man īpaši nepatīk. Kur gan man doties, lai ieraudzītu Krišnu? Šīs ir manas lielākās raizes.
 #### 4
 
     kā̐dite kā̐dite mora ā̐khi-boriṣoya
     barṣā-dhārā heno chakṣe hoilo udoya
 
-I began weeping and weeping; my tears fell. Torrents of rain poured from my eyes just like the rains of the monsoon season.
+Es neapturami raudu. Gluži kā lietus musonu periodā, man no acīm plūst asaras.
 
 #### 5
 
     nimeṣa hoilo mora śata-juga-sam
     govinda-viraha āra sohite akṣam
 
-Now, a moment for me is like a hundred ages. I cannot bear this separation from Lord Govinda.
+Tagad viens mirklis man ir kā simts mūžības. Atšķirtība no Kunga Govindas man vairs nav izturama.
 
 #### 6
 
@@ -63,7 +59,7 @@ Now, a moment for me is like a hundred ages. I cannot bear this separation from 
     ki kori, ki kori,    sthira nāhi hoya,
         jīvana nāhiko roya
 
-The world is empty; as I survey the four directions, the entire surface of the world is void. My life is empty, my mind is listless; I am indifferent and apathetic towards everything. Depressed, melancholy and forlorn, my life has no meaning now. What do I do now? I cannot remain steady. I can no longer maintain my life.
+Pasaule ir tukša. Es lūkojos uz visām pusēm, taču visapkārt ir vien tukšums. Mana dzīve ir tukša, prāts ir vienaldzīgs. Nekas nerada manī prieku. Esmu salauzts un vientuļš, dzīve ir zaudējusi jēgu. Ko man iesākt? Esmu zaudējis mieru un nespēju vairs turpināt šo dzīvi.
 
 #### 7
 
@@ -72,14 +68,14 @@ The world is empty; as I survey the four directions, the entire surface of the w
     bhakativinoda-    minati māniyā,
         laohe tāhāre sāthe
 
-Oh residents of Vṛndāvan; save my life and show me Rādhānāth, the Lord of Śrī Rādhā. Considering this humble prayer of Bhakti Vinod, please give him Your association and take him with You.
+Vrindāvanas iedzīvotāji, glābiet jel mani — parādiet man Rādhanāthu, Šrī Rādhas Kungu! Kungs, sadzirdi šo pazemīgo Bhaktivinoda lūgšanu, dāvā man savu sabiedrību un paņem mani sev līdzi.
 
 #### 8
 
     śrī kṛṣṇa-viraha āro sohite nā pāri
     parāṇa chāḍite āro din dui chāri
 
-I am unable to further tolerate this separation from my Lord Krishna and am ready to give up my life in two days or four.
+Nespējot ilgāk paciest atšķirtību no mana Kunga, esmu gatavs atvadīties no dzīves kaut pēc dažām dienām.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/gaite-gaite-nama-ki-dasa-hoilo)
