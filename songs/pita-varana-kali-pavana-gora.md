@@ -81,9 +81,3 @@ Kungs Gauranga, kura ķermenis ir zelta krāsā, ir kritušo dvēseļu glābējs
     kṛṣṇa-kīrtana jaya prema-nidān
 
 “Visa slava Krišnas Svētā Vārda dziedāšanai! Tā atdzīvina Bhaktivinodas dvēseli. Svētā Vārda dziedāšana ir mīlestības uz Dievu dārgumu lāde.”
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/pita-barana-kali-pavana-gora)
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-pita-barana-kali-pavana-gora)
-

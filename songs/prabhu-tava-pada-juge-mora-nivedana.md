@@ -66,7 +66,3 @@ Lai veiksmē, laimē vai bēdās es vienmēr palieku nosvērts. Lai Svētā Vār
     tava bhakti rahu bhaktivinoda-hṛdoye
 
 Lai es kļūstu par putnu vai zvēru, lai dzīvoju paradīzē vai ellē, bet ļauj pazemīgajam Bhaktivinodam savas sirds dziļumos vienmēr lolot mīlošu garīgu kalpošanu tev.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/prabhu-tava-pada-juge)
-

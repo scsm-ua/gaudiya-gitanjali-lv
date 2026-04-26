@@ -53,6 +53,3 @@ Tāda ir tava želsirdība, ak, Kungs. Tu esi bezgalīgi labsirdīgs. Taču, ak,
     bhaktivinoda-chitta duḥkhe bibhora
 
 Manī nekad nav bijis ne kripatiņas pieķeršanās tavam Svētajam Vārdam. Tādēļ Bhaktivinoda sirds ir skumju pilna.
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/tuhu-doya-sagara-tarayite-prani)
-

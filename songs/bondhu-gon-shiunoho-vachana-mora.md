@@ -66,7 +66,3 @@ Taču, neskatoties uz neciešamajām mokām, viņš ir visas manas dzīves Kungs
         se kobhu nā hoya paro
 
 Šādi, gan satiekot Krišnu, gan esot atšķirtībā no viņa, Bhaktivinoda zina, ka Krišna ir vienīgais viņa dvēseles Kungs. Krišnas laime ir mana laime. Viņš ir visas manas dzīves Kungs! Man nav neviena cita Kunga, kā vienīgi viņš.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bondhu-gon-sunoho-vachana-mora)
-

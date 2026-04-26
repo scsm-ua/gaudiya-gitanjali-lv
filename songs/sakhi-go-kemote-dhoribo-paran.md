@@ -33,7 +33,3 @@ Asaras no manām acīm tek un līdzinās Šrāvana mēneša lietus straumēm. Vi
 Zaudējis mieru, Bhaktivinoda atkal meklē Svētā Vārda patvērumu un sauc: “Rādhas Kungs! Dāvā man saskarsmi ar sevi un glāb mani. Vienīgi pateicoties tavai žēlsirdībai es neiešu bojā.”
 
 Piezīme pie pirmā panta: *Šrīla Šrīdhārs Mahārādža ieteica nedziedāt "sakhi go", bet gan "bandhu he".*
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/sakhi-go-kemote)
-

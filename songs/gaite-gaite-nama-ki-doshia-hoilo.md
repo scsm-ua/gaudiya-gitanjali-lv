@@ -76,7 +76,3 @@ Vrindāvanas iedzīvotāji, glābiet jel mani — parādiet man Rādhanāthu, Š
     parāṇa chāḍite āro din dui chāri
 
 Nespējot ilgāk paciest atšķirtību no mana Kunga, esmu gatavs atvadīties no dzīves kaut pēc dažām dienām.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/gaite-gaite-nama-ki-dasa-hoilo)
-

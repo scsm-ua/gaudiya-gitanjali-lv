@@ -73,7 +73,3 @@ Pazemība, žēlsirdība, cieņa pret citiem, atteikšanās no uzslavām un stā
     heno adhikāra kobe dibe he āmāya
 
 Bhaktivinoda, raudot pie Kunga lotosam līdzīgajām pēdām, lūdzas: “Mans Kungs, ak, kad gan Tu dāvāsi man īpašības, kuras nepieciešamas *Krišna-kīrtanam*?”
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/sri-krishna-kirtane-jodi-manasa-tohara)
-

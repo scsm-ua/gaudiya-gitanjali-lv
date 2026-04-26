@@ -53,7 +53,3 @@ Divi laupītāji — intelektuālas zināšanas un savtīgas darbības,  ir nove
         baddha ho’ye āchi dayāmoy
 
 Esmu tavs mūžīgais kalps, ak, žēlsirdīgais Kungs. Kopš neatminamiem laikiem aizmirsis par to, tagad esmu sapinies ilūzijas tīklos. Pieņem savu kritušo kalpu, dāvā viņam vietu tavu lotosa pēdu putekļos. Dod savu pajumti pazemīgajam Bhaktivinodam.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/anadi-karama-phole)
-

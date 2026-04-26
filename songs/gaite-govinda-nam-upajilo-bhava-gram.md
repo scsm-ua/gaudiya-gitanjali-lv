@@ -23,7 +23,3 @@ Kad es dziedāju Govindas Vārdu, manī sacēlās ekstātisku pārdzīvojumu vē
         āro nāhi bhelo daraśan
 
 Vērojot šo skatu es sastingu. Es zaudēju maņas! Es noģību, zaudējot laika izjūtu. Taču, kad es pamodos, Dievišķais Pāris jau bija zudis. Vradža, kuru redzēju, bija zudusi.
-
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/gaite-govinda-nam)
-
