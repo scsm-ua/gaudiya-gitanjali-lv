@@ -1,12 +1,11 @@
 ---
-page: 206
+page: 173
 first_line: śrī-rūpa-mañjarī-pada, sei mora sampada
-author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Śrī-Rūpa-Mañjarī-pada
 
-### by Śrīla Narottam Dās Ṭhākur
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 
@@ -36,33 +35,35 @@ author: Śrīla Narottam Dās Ṭhākur
     hā hā rūpa kara dayā,    deho more pada-chāyā,
         narottama loilo śaraṇa
 
-## Commentary by Śrīla B.R. Śrīdhar Dev-Goswāmī:
+## Šrīlas Bhakti Rakšaka Šrīdhāra Mahrārādžas komentārs:
 
 #### 1
 
-*Śrī-rūpa-mañjarī-pada, sei mora sampada, sei mora bhajana-pūjana* — my everything is Śrī Rūpa Goswāmī’s holy feet. We are to discuss so many classifications and positions of rasa: *śānta*, *dāsya*, *sakhya*, *vātsalya*, *madhura*. And in *madhura-rasa* Rādhārāṇī’s camp is special. Then again there are so many gradations of *sakhīs*. Then there is the class of the *mañjarīs*, the younger girls, and they have more freedom to approach: when Rādhā and Govinda are in union in a private environment, the *mañjarīs* can still approach. They have such freedom to visit Them. If any materials of service are necessary, the *sakhīs* send the *mañjarīs* to that place. The *sakhīs* do not approach there. In that way the *mañjarīs* enjoy the best confidence.
+*Śrī-rūpa-mañjarī-pada, sei mora sampada, sei mora bhajana-pūjana* – Šrī Rūpas Gosvāmī svētās pēdas man ir viss!
 
-The most secret service of both can be supplied through the *mañjarīs*. In the highest position they have free entrance, and their leader is Rūpa Mañjarī. She is understood to be the leader of the whole group of younger girls, the *mañjarīs*, therefore in *madhura-bhajan* she is all-in-all. This has been taught to us by Narottama Ṭhākur. For us — and the younger batch — she is our highest resort.
+Ir jāsaprot, ka pastāv daudzi *rasas* līmeņi un veidi: *šānta, dāsja, sakhja, vātsalja, madhura*. Un *madhura rasā* Rādharanī grupa ir īpaša. Tāpat arī *sakhī* vidū pastāv hierarhija. Ir *mandžarī*, jaunu meiteņu, grupa. Viņām ir lielāka brīvība tuvoties Dievišķajam Pārim: kad Rādha un Govinda ir tikai viens otra sabiedrībā, *mandžarī* joprojām var viņiem tuvoties. *Mandžarī* ir šāda privilēģija. Ja kalpošanai kaut kas ir nepieciešams, *sakhī* sūta uz šo vietu *mandžarī*. Sakhī netuvojas Rādhai un Krišnam. Vislielāko uzticību bauda *mandžarī*.
 
-*Sei mora sampada* — my wealth is there in her feet. *Sei mora bhajana-pūjana* — my worship and service is also in her. *Sei mora prāṇa-dhana, sei mora ābharaṇa* — the very wealth and gist of my life is there; and the ornaments of my life, if any there may be, that is within her grace. *Sei mora jīvanera jīvana* — indeed, the very life of my life, if there is anything, that is also her. I am for her pleasure.
+*Mandžarī* veic visslepenāko kalpošanu Dievišķajam Pārim un šajā augstākajā stāvoklī viņām ir brīva pieeja. Viņas vada Rūpa Mandžarī, kura *madhura-bhadžanā* ir burtiski viss. To mums māca Narottams Thākurs. Mums un jaunajām *mandžarī* viņa ir augstākais patvērums. 
+
+*Sei mora sampada* – mana bagātība slēpjas viņas pēdās. *Sei mora bhajana-pūjana* – es pielūdzu viņu un kalpoju viņai. *Sei mora prāṇa-dhana, sei mora ābharaṇa* – viņa ir manas dzīves jēga un patiesā bagātība. Manas dzīves rotājums, ja man tāds ir, ir viņas žēlastība. *Sei mora jīvanera jīvana* – manas dzīvības dzīvība, nešaubīgi, ir viņa. Es eksistēju viņas priekam.
 
 #### 2
 
-*Sei mora rasa-nidhi* — if there is anything, the source of any and all desirable ecstasy is only to be found there. The mine, source, and fountainhead of all rasa is there in her feet. *Sei mora vāñchā-siddhi* — and if I am to expect any other fulfilment in life, that is also there in her feet. *Sei mora vedera dharama* — if any duty is recommended by the Vedas for me, I would like that such duty be at her feet.
+*Sei mora rasa-nidhi* – ja kārotais ekstāzes avots eksistē, tad tas ir viņā. Visu *rasu* avots ir viņas pēdās.  *Sei mora vāñchā-siddhi* – jebkāds dzīves piepildījums, ko vien es varētu vēlēties, ir viņas pēdās. *Sei mora vedera dharama* – ja Vēdas man iesaka veikt kādu pienākumu, es vēlos, lai šis pienākums ir pie viņas pēdām.
 
-*Sei brata, sei tapa* — if at all there is any desired accumulation from any penance or observance of vows, that is also to be found there — *sei mora mantra-japa* — and the continuous repetition of a mantra in japa all ends there: all things have only one end in my case, and that is that they all meet in different phases in the feet of Rūpa Mañjarī. If she is satisfied then the variegated nature of all sorts of my devotional practices are satisfied. *Sei mor dharama-karama* — and any of my conceptions of duty or activity of any phases or form all have one end and meet in one point: the holy feet of Rūpa Mañjarī.
+*Sei brata, sei tapa* – ja vien ir iespējams uzkrāt dievbijību, kas rodas nožēlojot grēkus un stingri pildot zvērestus, tā visa ir viņā. *Sei mora mantra-japa* – nepārtraukta lūgšanu atkārtošana *džapā* – tā noved pie viņas. Manā dzīvē viss tiecas uz vienu mērķi, viss ved pie Rūpas Mandžarī pēdām. Ja viņa ir apmierināta, tad visu manu garīgo dzīvi var uzskatīt par veiksmīgu. *Sei mor dharama-karama* – visi mani priekšstati par pienākumu un visu veidu darbību visos līmeņos tiecas uz vienu mērķi un satiekas tur – pie Rūpas Mandžarī svētajām pēdām.
 
 #### 3
 
-*Anukūla habe viddhi, se-pade hoibe siddhi* — I only pray to the controller who is at the root of all these arrangements of affairs in this world, “Please connect me there. Oh Absolute Manager, may you grant my prayer that all my tendencies may go to attain her favour. *Nirakhibo e dui nayane* — and it will be so very intense and concrete as if I can see it with these eyes. It will not be vague, abstract, or imagination, but I want the most concrete realisation by the grace of the Absolute Manager.” *Se rūpa-mādhurī-rāśi, prāṇa-kuvalaya-śaśī* — what sort of high class beauty is there in her holy feet! I want to jump. Let my heart be a lotus.
+*Anukūla habe viddhi, se-pade hoibe siddhi* – mana vienīgā lūgšana šīs pasaules valdniekam ir: “Lūdzu Tevi, ļauj man ar viņu saskarties! Ak, Absolūtais Pavēlniek, jel sadzirdi manu lūgšanu par to, lai par manu mērķi kļūst viņas labvēlība! *Nirakhibo e dui nayane* – tas būs tik dziļi un reāli, it kā es to redzētu savām acīm. Es vēlos vienīgi patiesu atklāsmi, nevis kaut ko neskaidru, abstraktu vai iedomātu, – lai notiek tā pateicoties Absolūtā Pavēlnieka žēlastībai!” *Se rūpa-mādhurī-rāśi, prāṇa-kuvalaya-śaśī* – kāds neaptverams skaistums ir ietverts viņas svētajās pēdās! Es vēlos ielēkt tur. Lai mana sirds kļūst par lotosu.
 
-There are two classes of lotus: the white lotus came from the sun and the red from the moon. The *kuvalaya* is a mixture of the two. The lustre of her body will feed me day and night as the life of my life which is compared to a *kuvalaya*. The *kuvalaya* is fed and nourished by the lustre of the moon, and her holy feet are the moon, and my very vitality is likened to the lotus. May the lustre of her beauty maintain and nourish my heart of hearts. *Praphullita hobe niśi-dine* — and the lotus of my heart will grow by that ray, and dance.
+Pastāv divu veidu lotosi: baltais, kas nācis no saules, un sarkanais, kas nācis no mēness. *Kuvalaja* ir abu apvienojums. Viņas ķermeņa mirdzums kā manas dzīves dzīvības avots dienā un naktī baros mani līdzīgi kā *kuvalaju* (*kuvalaja* dzīvo un barojas pateicoties mēness gaismai). Viņas svētās pēdas ir mēness, kamēr mans dzīvības spēks līdzinās lotosam. Lai viņas skaistuma spožums uztur un baro manas sirds dzīles! *Praphullita hobe niśi-dine* – manas sirds lotoss, šīs gaismas apmirdzēts, plauks un ziedēs.
 
 #### 4
 
-*Tuyā adarśana-ahi* — this is my prayer, but what is my present condition? My present condition is in the negative side, my Mistress. My present position is such that without having a sight of you, Your Grace, my heart will burn into ashes. That is my present position. *Gorole jāralo dehī* — this is just like the poison of a cobra which produces pain within my heart. I have been bitten by a snake, and what is that snake? It is that I am not getting any direct contact with you, Your Grace. The serpent’s poison has captured my heart and I am going to die. *Chiro-dina tāpita jīvana* — and this is not a sudden thing, but from the beginning I have been suffering this sort of pain of separation from such a beautiful and hopeful life of fulfilment.
+*Tuyā adarśana-ahi* – tāda ir mana lūgšana, bet kāds gan ir mans pašreizējais stāvoklis? Tas ir briesmīgs, mana kundze! Ja es tevi neredzēšu, tava žēlastība, mana sirds sadegs līdz pelniem! Lūk, šāds ir mans pašreizējais stāvoklis! *Gorole jāralo dehī* – tas atgādina kobras indi, kura nodara sāpes manai sirdij. Man ir iedzēlusi čūska, bet kas gan tā ir par čūsku? Man nav pieejama saskarsme ar tevi, tava žēlastība! Čūskas inde saldē manu sirdi un es mirstu. *Chiro-dina tāpita jīvana* – tas nenotika piepeši, es vienmēr esmu cietis dēļ atšķirtības no tik brīnišķīgas, cerību pilnas un piepildītas dzīves.
 
-*Hā hā rūpa kara dayā, deho more pada-chāyā, narottama loilo śaraṇa* — but I have now reached the extreme position and for the last time I am begging for your favour; otherwise I am going to be finished.
+*Hā hā rūpa koro doyā, deho more pada-chāyā, narottama loilo śaraṇa* – šobrīd esmu sasniedzis izmisuma galējo robežu un pēdējo reizi lūdzu tavu labvēlību, jo pretējā gadījumā esmu pagalam!
 
-This was composed by Narottam Ṭhākur in praise of Śrīla Rūpa Goswāmī. In this way he has given us light of the higher quarter of bhajan life. This sampradāya is named as the Rūpānuga-sampradāya, and our Guru-paramparā and all these things are adjusted according to that. He wrote many songs and they are of very substantive firmament, very ecstatic, and of deep faith.
+Šādu lūgšanu uzrakstīja Narottams Thākurs slavinot Šrīlu Rūpu Gosvāmī. Šādi viņš mums ļāva ieskatīties augstākā līmeņa *bhadžana* dzīvē. Mūsu *sampradaja* nes *Rūpanūga-sampradajas* vārdu, un mūsu *guru-paramparas* mācības tiek saskaņotas ar šīm atklāsmēm. Narottams Thākurs uzrakstīja daudzas dziesmas. Tās visas ir Dieva iedvesmotas, ekstātiskas un dziļas ticības pilnas.
 
