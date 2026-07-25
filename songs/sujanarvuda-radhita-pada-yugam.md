@@ -85,8 +85,8 @@ Dāvājot žēlastību visām dvēselēm, viņš ir Harī-kirtana iemiesojums. K
 #### 9
 
     śaraṇāgata-kiṅkara-kalpa-taruṁ
-    taru-dhik-kṛta dhīra vadānya
-    varam varadendra-gaṇārchita-divya-padaṁ
+    taru-dhik-kṛta dhīra vadānya varam
+    varadendra-gaṇārchita-divya-padaṁ
     praṇamāmi sadā prabhupāda-padam
 
 Līdzīgi vēlmju kokam viņš piepilda savu uzticīgo kalpu sirdīs mītošās vēlēšanās. Taču pat šis salīdzinājums nevar visā pilnībā aprakstīt viņa augstsirdību un pacietību. Dižas personības, kuras dāvā svētību citiem, kalpo viņa lotosam līdzīgajām pēdām. Cieņpilnā pazemībā es klanos viņa priekšā. Atkal un atkal es klanos starojumam, kas nāk no mana Kunga lotosam līdzīgajām pēdām.
