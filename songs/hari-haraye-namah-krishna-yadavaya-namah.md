@@ -26,7 +26,7 @@ Ak, Gopal, Govinda, Rāma, Šrī Madhūsudana, Girīdharī, Gopinath, Mādana-mo
     śrī-chaitanya nityānanda śrī advaita-chandra
     gadādhara śrīvāsādi gaura-bhakta-vṛnda
 
-Visa slava Šrī Čaitanjam Mahāprabhū un Nitjānandam Prabhū! Visa slava Mēnesim līdzīgajam Šrī Advaitam Āčārjam! Visa slava Šrī Gadādhāram Panditam un visiem Šrī Čaitanjas bhaktām ar Šrīvāsu Thākuru priekšgalā!
+Visa slava Šrī Čaitanjam Mahāprabhu un Nitjānandam Prabhū! Visa slava Mēnesim līdzīgajam Šrī Advaitam Āčārjam! Visa slava Šrī Gadādhāram Panditam un visiem Šrī Čaitanjas bhaktām ar Šrīvāsu Thākuru priekšgalā!
 
 #### 4
 

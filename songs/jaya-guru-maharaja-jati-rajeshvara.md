@@ -117,5 +117,5 @@ Kalpošana tavām pēdām, kuru mirdzums līdzinās desmit miljoniem mēnešu, u
     avichintya-bhedābheda-siddhānta-prakāśa
     sānande ārati stuti kore dīna-dāsa
 
-Šrī Čaitanjas Mahāprabhū atklātās Brīnišķīgās Realitātes iemiesojums! Tavs pazemīgais kalps ar prieku dzied šo lūgšanu un velta to tev!
+Šrī Čaitanjas Mahāprabhu atklātās Brīnišķīgās Realitātes iemiesojums! Tavs pazemīgais kalps ar prieku dzied šo lūgšanu un velta to tev!
 

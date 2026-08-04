@@ -31,7 +31,7 @@ Viņš ir Gadādharas transcendentālais kupidons, pati Nitjānandas Prabhū dz�
     gṛhījana-śikṣaka    nyāsikula-nāyaka,
         mādhava-rādhābhāva pūra
 
-Viņš ir Nādijas mēness, Majāpuras Kungs un augstsirdīgais glābējs! Viņš atklāja visiem Krišnas Svētā Vārda dziedāšanas slavu. Viņš ir mājsaimnieku skolotājs un *sannjāsī* virspavēlnieks. Šrī Čaitanja Mahāprabhū – tas ir Krišna, Rādharānī ekstātiskās mīlas jūtu pārpilns.
+Viņš ir Nādijas mēness, Majāpuras Kungs un augstsirdīgais glābējs! Viņš atklāja visiem Krišnas Svētā Vārda dziedāšanas slavu. Viņš ir mājsaimnieku skolotājs un *sannjāsī* virspavēlnieks. Šrī Čaitanja Mahāprabhu – tas ir Krišna, Rādharānī ekstātiskās mīlas jūtu pārpilns.
 
 #### 4
 

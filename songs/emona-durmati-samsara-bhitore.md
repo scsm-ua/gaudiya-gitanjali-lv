@@ -43,7 +43,7 @@ Ieraugot mani, tik kritušu un nožēlojamu, viņš apžēlojās par mani un pie
     mahāprabhu nāme,    nadīyā mātāya,
         soṅge bhāi avadhūta
 
-“Lai piepildītu Vēdās solīto, brahmana dēls vārdā Mahāprabhū, kura ķermenis laistās zeltā, atnāca kopā ar savu brāli avadhūtu Nitjānandu. Kopīgi viņi pārpludināja Nādiju ar dievišķo ekstāzi.”
+“Lai piepildītu Vēdās solīto, brahmana dēls vārdā Mahāprabhu, kura ķermenis laistās zeltā, atnāca kopā ar savu brāli avadhūtu Nitjānandu. Kopīgi viņi pārpludināja Nādiju ar dievišķo ekstāzi.”
 
 #### 5
 

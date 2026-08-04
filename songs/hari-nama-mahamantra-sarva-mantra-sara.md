@@ -32,7 +32,7 @@ Vradžendra-nandana Krišna ir visu *rasu* ietvars un mūžam jaunais sākotnēj
 
 Kunga Svētais Vārds ir transcendentāls dārgakmens, kas piepilda mūsu vēlēšanās. Tas nav atšķirams no paša Kunga Krišnas (*Nāma chintāmaṇi Kṛṣṇa-Chaitanya-svarūpa*), tādēļ nedrīkst uzskatīt, ka Kunga veidols, īpašības un dievišķās rotaļas (*līlā-guṇa-rūpa*) ir atšķiramas no Viņa Svētā Vārda (jo tās izpaužas mūsu sirdīs pateicoties Viņa Svētajam Vārdam, kurš piepilda visas mūsu vēlēšanās).
 
-Vēl citādi “*Nāma chintāmaṇi Kṛṣṇa-Chaitanya-svarūpa...*” var tulkot šādi: Šrī Krišna Čaitanja Mahāprabhū ir visizcilākā, no Svētā Vārda – Harē Krišna mahā-mantras, neatšķirama Kunga forma. Svētais Vārds spēj piepildīt visas vēlēšanās. Nedrīkst domāt, ka ir atšķirība starp Svēto Vārdu, kurš piepilda vēlēšanās, pašu Mahāprabhū un viņa formu, īpašībām un rotaļām. Šajās rotaļās Viņš parāda Svētā Vārda bezgalīgi ekstātisko dievišķo dabu un piepilda ikviena vēlēšanās, personīgi dāvājot Vradžendra-nandana Krišnas *prēmu* visās iespējamās garīgajās attiecībās (*madhura-rasā* utt.) caur savu Svēto Vārdu, kurš piepilda visas vēlēšanās.
+Vēl citādi “*Nāma chintāmaṇi Kṛṣṇa-Chaitanya-svarūpa...*” var tulkot šādi: Šrī Krišna Čaitanja Mahāprabhu ir visizcilākā, no Svētā Vārda – Harē Krišna mahā-mantras, neatšķirama Kunga forma. Svētais Vārds spēj piepildīt visas vēlēšanās. Nedrīkst domāt, ka ir atšķirība starp Svēto Vārdu, kurš piepilda vēlēšanās, pašu Mahāprabhu un viņa formu, īpašībām un rotaļām. Šajās rotaļās Viņš parāda Svētā Vārda bezgalīgi ekstātisko dievišķo dabu un piepilda ikviena vēlēšanās, personīgi dāvājot Vradžendra-nandana Krišnas *prēmu* visās iespējamās garīgajās attiecībās (*madhura-rasā* utt.) caur savu Svēto Vārdu, kurš piepilda visas vēlēšanās.
 
 Otrais apvainojums: uzskatīt padievus vienlīdzīgus Visaugstajam, kā arī uzskatīt Kunga Svēto Vārdu, formu, īpašības un rotaļas par atšķirīgiem no viņa.
 
@@ -129,5 +129,5 @@ Desmitais apvainojums: dziedot Svēto Vārdu saglabāt savas materiālās pieķe
 
 Tās tīrās dvēseles, kas ir pārņemtas ar Harī-Nāma *sankirtanu*, izvairoties no šiem desmit Svētā Vārda apvainojumiem, izgaršo Šrī Krišnas *prēmas* brīnumaino augli, jo Šrī Nāma Prabhū (personiskais, patvarīgais un žēlsirdīgais Svētais Vārds, neatšķirams no paša Kunga) parādās viņu sirdīs un mūžam pauž tajā savu ekstātisko formu, īpašības un rotaļas.
 
-Vēl citādi šo vārsmu var tulkot šādi: Tās tīrās dvēseles, kuras piedalās personīgā Mahāprabhū Šrī Čaitanjadēva Harī-Nāma *sankirtanā*, izvairoties no šiem desmit apvainojumiem, izgaršo Krišna-prēmas neatkārtojamo augli, kuru brīvi izplata vienīgi Mahāprabhū, jo Viņš pats (Nāma Prabhū) ir viņu sirdīs un ar savu dievišķi ekstātisko rotaļu viņus aizrauj.
+Vēl citādi šo vārsmu var tulkot šādi: Tās tīrās dvēseles, kuras piedalās personīgā Mahāprabhu Šrī Čaitanjadēva Harī-Nāma *sankirtanā*, izvairoties no šiem desmit apvainojumiem, izgaršo Krišna-prēmas neatkārtojamo augli, kuru brīvi izplata vienīgi Mahāprabhu, jo Viņš pats (Nāma Prabhū) ir viņu sirdīs un ar savu dievišķi ekstātisko rotaļu viņus aizrauj.
 

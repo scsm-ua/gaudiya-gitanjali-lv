@@ -34,7 +34,7 @@ Mridangas spēlē “tāthai tāthai” karatalu ritmā, Kunga zeltītais ķerme
     miche nida-baśe gelo re rāti,
     divasa śorīra sāje
 
-Mahāprabhū sauc guļošajiem ļaudīm: “Neizniekojiet naktis bezjēdzīgajam miegam un dienas savu ķermeņu rotāšanai! Sauciet skaļi vārdus Mukunda, Mādhava, Jādava un Harī!”
+Mahāprabhu sauc guļošajiem ļaudīm: “Neizniekojiet naktis bezjēdzīgajam miegam un dienas savu ķermeņu rotāšanai! Sauciet skaļi vārdus Mukunda, Mādhava, Jādava un Harī!”
 
 #### 4
 

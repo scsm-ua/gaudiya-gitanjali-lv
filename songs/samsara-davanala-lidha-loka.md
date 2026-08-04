@@ -23,7 +23,7 @@ Es pielūdzu garīgā skolotāja, labvēlīgu īpašību okeāna, lotosam līdz�
     romāñcha-kampāśru-taraṅga-bhājo
     vande guroḥ śrī-charaṇāravindam
 
-Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņa sirds ir neprātīga no mīlestības nektāra uz Šrīmānu Mahāprabhū kopīgi dziedot Svēto Vārdu! Kad viņš, spēlējot kholu vai karatālas, dejo un dzied, viņa ķermenis laimē trīc un no viņa acīm plūst asaru straumes.
+Es pielūdzu garīgā skolotāja lotosam līdzīgās pēdas! Viņa sirds ir neprātīga no mīlestības nektāra uz Šrīmānu Mahāprabhu kopīgi dziedot Svēto Vārdu! Kad viņš, spēlējot kholu vai karatālas, dejo un dzied, viņa ķermenis laimē trīc un no viņa acīm plūst asaru straumes.
 
 #### 3
 

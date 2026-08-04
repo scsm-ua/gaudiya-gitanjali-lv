@@ -40,7 +40,7 @@ Vradžas (Vrindāvanas) garša jaunā noskaņojumā ir klātesoša Navadvipā. K
     mādhuryya kaivalya rāga brajera nirjāsa
     prāpti parākāṣṭhā tāhe gaurāṅga vilāsa
 
-Mādhurja-rasa (dievišķā laulāto mīlestība) ir Vradža-dhāmas būtība, bet Šrīmāna Mahāprabhū rotaļas uznes to līdz augstākajai pilnībai.
+Mādhurja-rasa (dievišķā laulāto mīlestība) ir Vradža-dhāmas būtība, bet Šrīmāna Mahāprabhu rotaļas uznes to līdz augstākajai pilnībai.
 
 #### 6
 
@@ -75,14 +75,14 @@ Centrā stāvošais Vamšidhāra (Flautu Spēlējošais) prāto: “Savas Rādha
     nadīyā prakāśe Mahaprabhu gaura-nidhi
     patita pāvana deve milāila vidhi
 
-Ar Kunga dievišķo gribu Visaugstais — kritušo dvēseļu glābējs, ieradās Nādijā kā visu mīļotais Šrī Gauranga Mahāprabhū.
+Ar Kunga dievišķo gribu Visaugstais — kritušo dvēseļu glābējs, ieradās Nādijā kā visu mīļotais Šrī Gauranga Mahāprabhu.
 
 #### 11
 
     e-rūpa ārati brahmā śambhu agochara
     gaura bhakta kṛpā pātra mātra siddhi sāra
 
-Šāda Mahāprabhū pielūgšana ir ārpus Kunga Brahmas un Kunga Šambhī (Šivas) redzes iespējām. Tikai saņemot Kunga Gaurangas bhaktu žēlastību, var sasniegt šādu pilnību.
+Šāda Mahāprabhu pielūgšana ir ārpus Kunga Brahmas un Kunga Šambhī (Šivas) redzes iespējām. Tikai saņemot Kunga Gaurangas bhaktu žēlastību, var sasniegt šādu pilnību.
 
 #### 12
 

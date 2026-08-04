@@ -22,5 +22,5 @@ Es atkal un atkal klanos savu garīgo skolotāju priekšā – Guru, kurš iesv�
 
     jayaḥ sa-parikara śrī-śrī-guru-gaurāṅga-gāndharvā-govindasundar-pādapadmānāṁ jayastu!
 
-Lai Šrī Gurudēva, Šrīmāna Mahāprabhū un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!
+Lai Šrī Gurudēva, Šrīmāna Mahāprabhu un Šrī Šrī Gandharva-Govindasundara, kā arī viņu mūžīgo pavadoņu lotosam līdzīgās pēdas uzgavilē mūsu sirdīs!
 

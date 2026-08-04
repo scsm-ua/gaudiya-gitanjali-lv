@@ -54,7 +54,7 @@ Kopā ar Šrī Govinda-*kundu*, šīs svētās dievišķo rotaļu vietas ir bezg
     abhinna śrī kṛṣṇa jñāne bhajibāra tore
     mahāprabhu samarpilā raghunātha kore
 
-Šrīmans Mahāprabhū dāvāja Šrī Raghunātham Gosvāmī Šrī Šrī Girirādžu-džiu, lai Šrī Dāsa Gosvāmī varētu pielūgt Šrī Girirādžu zinot, ka Viņš nav atšķirams no Kunga Krišnas.
+Šrīmans Mahāprabhu dāvāja Šrī Raghunātham Gosvāmī Šrī Šrī Girirādžu-džiu, lai Šrī Dāsa Gosvāmī varētu pielūgt Šrī Girirādžu zinot, ka Viņš nav atšķirams no Kunga Krišnas.
 
 #### 8
 

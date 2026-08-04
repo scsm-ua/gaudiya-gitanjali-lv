@@ -19,7 +19,7 @@ first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
     gūḍha-divya-marma-moda-mūrchanā-chamatkaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Vrindāvanā, Jamūnas svētajos ūdeņos, Šrī Šrī Rādha Govinda kopā ar savām visdārgākajām draudzenēm ganumeitenēm nododas valdzinošām izklaidēm. Dažkārt šīs dievišķās rotaļas ir atklātas, dažkārt slēptas, dažkārt tās nonāk pretrunās, bet dažkārt tās ir harmonijā... Tā Kunga rotaļas izpaužas daudzveidīgos žestos, kurus izsauc dažādas dievišķās vēlmes. Šrī Čaitanja Mahāprabhū izplatīja slepeno garīgo dārgumu maigo melodiju, kura izbrīnīja visu Visumu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
+Vrindāvanā, Jamūnas svētajos ūdeņos, Šrī Šrī Rādha Govinda kopā ar savām visdārgākajām draudzenēm ganumeitenēm nododas valdzinošām izklaidēm. Dažkārt šīs dievišķās rotaļas ir atklātas, dažkārt slēptas, dažkārt tās nonāk pretrunās, bet dažkārt tās ir harmonijā... Tā Kunga rotaļas izpaužas daudzveidīgos žestos, kurus izsauc dažādas dievišķās vēlmes. Šrī Čaitanja Mahāprabhu izplatīja slepeno garīgo dārgumu maigo melodiju, kura izbrīnīja visu Visumu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 62
 
@@ -37,7 +37,7 @@ Tikko kā Kungs palūkojās uz Čataka kalnu, Viņu pārņēma neciešamas atš�
     brahma-śambhu-veda-tantra-mṛgya-satya-sundaraṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Šrī Čaitanja Mahāprabhū ne tikai atrodas aiz materiālās redzes un skaņas robežām, bet arī aptur visus intelektuālos centienus viņu iepazīt. Vienmēr atrodoties tīras mīlestības uz Dievu stāvoklī, Viņš paliek noslēpums un izbrīna pat tās dzīvās būtnes, kuras nostiprinājušās savas garīgās dabas izpratnē. Kunga Brahmas atklātās Vēdas un Kunga Šivas tantriskie raksti ir Šrī Gaurasundara, Brīnišķīgās Realitātes, meklējumos! Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
+Šrī Čaitanja Mahāprabhu ne tikai atrodas aiz materiālās redzes un skaņas robežām, bet arī aptur visus intelektuālos centienus viņu iepazīt. Vienmēr atrodoties tīras mīlestības uz Dievu stāvoklī, Viņš paliek noslēpums un izbrīna pat tās dzīvās būtnes, kuras nostiprinājušās savas garīgās dabas izpratnē. Kunga Brahmas atklātās Vēdas un Kunga Šivas tantriskie raksti ir Šrī Gaurasundara, Brīnišķīgās Realitātes, meklējumos! Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 64
 
@@ -64,7 +64,7 @@ Līdzīgs zelta mēnesim, Šrī Gauračandra parādījās Šakabdas 1407. gada (
     advayaika-lakṣya-pūrṇa-tattva-tat-parātparaṁ
     prema-dhāma-devam eva naumi gaura-sundaram
 
-Lūk, visu uzvarošs secinājums: Sākotnējai Realitātei ir jābūt arī augstākajai *ānandas* formai, ekstāzei! Šrī Čaitanja Mahāprabhū ir Krišna, pati ekstāze, kura bauda savu saldo garšu un ekstātiskā sajūsmā dejo! Viņa paša Svētais Vārds ir Viņa dejā izpaustās ekstāzes cēlonis, un Svētais Vārds ir Viņa dziesmā izpaustās ekstāzes sekas. Cēlonis ir sekas! Cēlonis rada ekstāzes enerģiju, kura liek Viņam dejot, bet Viņa dziedāšana izplata šo ekstāzi citiem. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
+Lūk, visu uzvarošs secinājums: Sākotnējai Realitātei ir jābūt arī augstākajai *ānandas* formai, ekstāzei! Šrī Čaitanja Mahāprabhu ir Krišna, pati ekstāze, kura bauda savu saldo garšu un ekstātiskā sajūsmā dejo! Viņa paša Svētais Vārds ir Viņa dejā izpaustās ekstāzes cēlonis, un Svētais Vārds ir Viņa dziesmā izpaustās ekstāzes sekas. Cēlonis ir sekas! Cēlonis rada ekstāzes enerģiju, kura liek Viņam dejot, bet Viņa dziedāšana izplata šo ekstāzi citiem. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 
 #### 67
 
@@ -119,5 +119,5 @@ Katram, kurš ar ticību lasa šo darbu, sastāvošu no septiņdesmit lūgšanā
     pañchame śata-gaurābde śrī-siddhānta-sarasvatī
     śrīdharaḥ ko ’pi tach chiṣyas tridaṇḍī-nauti-sundaram
 
-Šīs lūgšanas piektajā gadsimtā pēc Šrī Čaitanjas Mahāprabhū atnākšanas sastādīja Šrī Sarasvatī Thākura sannjāsī-skolnieks vārdā Šrīdhārs (Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža).
+Šīs lūgšanas piektajā gadsimtā pēc Šrī Čaitanjas Mahāprabhu atnākšanas sastādīja Šrī Sarasvatī Thākura sannjāsī-skolnieks vārdā Šrīdhārs (Šrīla Bhakti Rakšak Šrīdhārs Dēv-Gosvāmī Mahārādža).
 

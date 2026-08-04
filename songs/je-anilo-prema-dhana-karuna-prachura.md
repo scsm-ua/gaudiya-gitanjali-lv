@@ -7,7 +7,7 @@ first_line: je ānilo prema-dhana karuṇā prachura
 
 ### Šrīla Narottams Dāsa Thākurs
 
-### Tiek dziedāta Šrīmana Mahāprabhū pavadoņu aiziešanas dienās
+### Tiek dziedāta Šrīmana Mahāprabhu pavadoņu aiziešanas dienās
 
 #### 1
 
