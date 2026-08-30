@@ -1,54 +1,52 @@
 ---
-page: 245
+page: 205
 first_line: rādhā-kṛṣṇa prāṇa mora jugala-kiśora
-author: Śrīla Narottam Dās Ṭhākur
 ---
 
 # Sakhi-vṛnde Vijñaptiḥ
 
-## Prayer to the Gopīs
+## Lūgšana gopijām
 
-### by Śrīla Narottam Dās Ṭhākur
+### Šrīla Narottams Dāsa Thākurs
 
 #### 1
 
     rādhā-kṛṣṇa prāṇa mora jugala-kiśora
     jīvane maraṇe gati āro nāhi mora
 
-The youthful Divine Couple Śrī Śrī Rādhā and Krishna are my life and soul. In life or death I have no other refuge but Them.
+Jauneklīgais Dievišķais Pāris, Šrī Šrī Rādha un Krišna, ir mana dzīvība un mana dvēsele. Dzīvē un nāvē man nav cita patvēruma kā vien viņi.
 
 #### 2
 
     kālindīra kūle keli-kadambera bon
     ratana-bedira upara bosābo du’jon
 
-I shall install the Divine Couple on a jewelled throne in a pleasant forest of kadamba trees on the shore of the Yamunā river.
+Es novietošu Dievišķo Pāri uz dārgakmeņiem rotāta troņa maigā kadambas koku birzī Jamunas upes krastā.
 
 #### 3
 
     śyāma-gaurī-aṅge dibo chandanera gandha
     chāmara ḍhulābo kobe heri mukha-chandra
 
-When will I place aromatic sandalwood paste on the limbs of Lord Śyāmasundar and Śrīmatī Rādhārāṇī? When will I fan Them with a *chāmara* wisk? When will I see Their moonlike faces?
+Ak, kad gan es varēšu uzlikt aromātisko sandalkoka pastu uz Kunga Šjāmasundara un Šrīmatī Rādharānī ķermeņiem? Kad gan es varēšu viņus vēdināt ar *čāmaras* vēdekli? Kad varēšu skatīt viņu mēnesim līdzīgās sejas?
 
 #### 4
 
     gāṅthiyā mālātir mālā dibo doṅhara gole
     adhare tuliyā dibo karpūra-tāmbule
 
-When will I string garlands of malati flowers and place them on the necks of the Divine Couple? When will I place betel nuts mixed with camphor in Their lotus mouths?
+Ak, kad gan es varēšu vērt malatī  ziedu vītnes un likt tās Dievišķajam Pārim kaklā? Kad gan es varēšu cienāt viņus ar betela riekstiem, samaisītiem ar kamparu?
 
 #### 5
 
     lalitā visākhā-ādi jata sakhī-vṛnda
     ājñāya koribo sevā charaṇāravinda
 
-When, following the orders of Lalitā, Viśākhā and the other *gopīs*, will I serve the lotus feet of the Divine Couple?
+Ak, kad gan, sekojot Lalitas, Višākhas un citu gopīju norādījumiem, es varēšu kalpot Dievišķā Pāra lotosu pēdām?
 
 #### 6
 
     śrī-kṛṣṇa-chaitanya-prabhur dāser anudāsa
     sevā abhilāṣa kore narottama-dāsa
 
-Narottam Dās, the servant of the servant of Śrī Krishna Chaitanya Mahāprabhu, longs for this service to the Divine Couple.
-
+Narottams Dāsa, Šrī Krišnas Čaitanjas Mahāprabhū kalpa kalps, ilgojas pēc kalpošanas Dievišķajam Pārim.
