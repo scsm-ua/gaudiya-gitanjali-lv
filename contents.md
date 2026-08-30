@@ -111,6 +111,6 @@
 - [8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
 
-### Dziesmas, kas veltītas Šrīmatī Rādhārānī
+### Šrīmatī Rādhārānī veltītas dziesmas
 
 - [Rādhā-kuṇḍataṭa-kuñja-kuṭīra](songs/radhakundatata-kunjakutira.md)
