@@ -1,17 +1,16 @@
 ---
-page: 243
+page: 203
 first_line: (jaya) rādhā-mādhava (jaya) kuñja-bihārī
-author: Śrīla Bhakti Vinod Ṭhākur
 ---
 
 # Jaya Rādhā-Mādhava
 
-### by Śrīla Bhakti Vinod Ṭhākur
+### Šrīla Bhaktivinoda Thākurs
 
     (jaya) rādhā-mādhava        (jaya) kuñja-bihārī
     (jaya) gopī-jana-vallabha    (jaya) giri-vara-dhārī
     (jaya) yaśodā-nandana,      (jaya) vraja-jana-rañjana,
             (jaya) jāmuna-tīra-vana-chārī
 
-Krishna is the lover of Rādhā. He displays many amorous Pastimes in the groves of Vṛndāvan, He is the lover of the cowherd maidens of Vraja, the holder of the great hill named Govardhan, the beloved son of Mother Yaśodā, the delighter of the inhabitants of Vraja, and He wanders in the forests along the banks of the River Yamunā.
+Krišna ir Rādhas mīļotais. Vrindāvanas svētajās birzīs viņš izspēlē neskaitāmas mīlestības pilnas *līlas*. Viņš ir Vradžas ganu meiteņu mīļotais, diženā Govardhana kalna nesējs, mātes Jašodas lolotais dēls un visu Vradžas iedzīvotāju prieka avots. Viņš bauda pastaigas pa Jamūnas upes krastu mežiem.
 
