@@ -110,3 +110,7 @@
 - [7c. Sakhī go kemote](songs/sakhi-go-kemote-dhoribo-paran.md)
 - [8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
+
+### Dziesmas, kas veltītas Šrīmatī Rādhārānī
+
+- [Rādhā-kuṇḍataṭa-kuñja-kuṭīra](songs/radhakundatata-kunjakutira.md)
