@@ -1,12 +1,11 @@
 ---
-page: 242
+page: 202
 first_line: he deva bhavantaṁ vande
-author: Śrīla Rūpa Goswāmī
 ---
 
 # He deva bhavantaṁ vande
 
-### by Śrīla Rūpa Goswāmī
+### Šrīla Rūpa Gosvāmī
 
 #### 1
 
@@ -14,7 +13,7 @@ author: Śrīla Rūpa Goswāmī
     man-mānasa-madhukara marpaya nija-pada-
             paṅkaja-makarande
 
-Oh Lord, I offer my respectful obeisances to You. May you place the bumblebee of my mind in the honey of Your lotus feet.
+Ak, Kungs, es klanos tavā priekšā lielā cieņā. Padzirdini jel mana prāta kameni ar savu lotosam līdzīgo pēdu medu!
 
 #### 2
 
@@ -23,7 +22,7 @@ Oh Lord, I offer my respectful obeisances to You. May you place the bumblebee of
     idam ichāmi niśamya tavāchyuta
             tad api kṛpādbhuta vīchim
 
-Although Brahmā in his *samādhi* cannot obtain a glimpse of even a ray of the tips of the nails of Your feet, still Oh Achyuta! Having heard of the waves of Your astonishing mercy, I yearn to see You.
+Pat Brahma savā dziļajā *samādhī* meditācijā nespēj ieraudzīt pat atblāzmu no tā stara, kas nāk no tavu pēdu nagu galiem. Tomēr, ak, Ačjuta, dzirdot par tavas apbrīnojamās žēlastības viļņiem, es ilgojos tevi ieraudzīt.
 
 #### 3
 
@@ -32,7 +31,7 @@ Although Brahmā in his *samādhi* cannot obtain a glimpse of even a ray of the 
     parameśvaratā tad api tavādhika-
             durghaṭa-ghaṭana-vidhātrī
 
-Oh Mādhava, although I have not even a sesame seed of devotion for You, Your supreme power can make even the impossible become possible.
+Ak, Madhava, manī nav pat ne sezama sēkliņas izmēra mīlestības un pašatdeves tev, taču tavā varā ir padarīt pat neiespējamo par iespējamu.
 
 #### 4
 
@@ -41,7 +40,7 @@ Oh Mādhava, although I have not even a sesame seed of devotion for You, Your su
     nivasatu nityam ihāmṛta-nindini
             vindan madhurima-sāram
 
-Oh eternal Lord, may the bumblebee of my mind, finding there the most wonderful sweetness, eternally stay in the honey of Your lotus feet, which rebuke the sweetest nectar.
+Ak, mūžīgais Kungs, lai mana prāta kamene saldākās garšas meklējumos nekad nepamet tavu lotosa pēdu medu, salīdzinot ar kuru pat saldākais nektārs šķiet zaudējis garšu.
 
 
 [Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella)
