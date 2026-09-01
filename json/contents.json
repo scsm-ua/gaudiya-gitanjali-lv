@@ -466,6 +466,16 @@
         "id": "yoga-pithopari-sthita-ashta-sakhi-subeshtita",
         "filepath": "songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md",
         "title": "8b. Yoga-pīṭhopari-sthita"
+      }
+    ]
+  },
+  {
+    "name": "Krišnam veltītas dziesmas",
+    "items": [
+      {
+        "id": "he-deva-bhavantam-vande",
+        "filepath": "songs/he-deva-bhavantam-vande.md",
+        "title": "He deva bhavantaṁ vande"
       },
       {
         "id": "radha-madhava-kunja-bihari",
