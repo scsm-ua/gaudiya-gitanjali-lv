@@ -468,5 +468,15 @@
         "title": "8b. Yoga-pīṭhopari-sthita"
       }
     ]
+  },
+  {
+    "name": "Šrīmatī Rādhārānī veltītas dziesmas",
+    "items": [
+      {
+        "id": "radhakundatata-kunjakutira",
+        "filepath": "songs/radhakundatata-kunjakutira.md",
+        "title": "Rādhā-kuṇḍataṭa-kuñja-kuṭīra"
+      }
+    ]
   }
 ]
