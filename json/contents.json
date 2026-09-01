@@ -466,6 +466,26 @@
         "id": "yoga-pithopari-sthita-ashta-sakhi-subeshtita",
         "filepath": "songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md",
         "title": "8b. Yoga-pīṭhopari-sthita"
+      },
+      {
+        "id": "radha-madhava-kunja-bihari",
+        "filepath": "songs/radha-madhava-kunja-bihari.md",
+        "title": "Jaya Rādhā-Mādhava"
+      },
+      {
+        "id": "radha-krishna-prana-mora-jugala-kishora",
+        "filepath": "songs/radha-krishna-prana-mora-jugala-kishora.md",
+        "title": "Sakhi-vṛnde Vijñaptiḥ"
+      }
+    ]
+  },
+  {
+    "name": "Šrīmatī Rādhārānī veltītas dziesmas",
+    "items": [
+      {
+        "id": "radhakundatata-kunjakutira",
+        "filepath": "songs/radhakundatata-kunjakutira.md",
+        "title": "Rādhā-kuṇḍataṭa-kuñja-kuṭīra"
       }
     ]
   }
