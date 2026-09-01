@@ -468,5 +468,35 @@
         "title": "8b. Yoga-pīṭhopari-sthita"
       }
     ]
+  },
+  {
+    "name": "Krišnam veltītas dziesmas",
+    "items": [
+      {
+        "id": "he-deva-bhavantam-vande",
+        "filepath": "songs/he-deva-bhavantam-vande.md",
+        "title": "He deva bhavantaṁ vande"
+      },
+      {
+        "id": "radha-madhava-kunja-bihari",
+        "filepath": "songs/radha-madhava-kunja-bihari.md",
+        "title": "Jaya Rādhā-Mādhava"
+      },
+      {
+        "id": "radha-krishna-prana-mora-jugala-kishora",
+        "filepath": "songs/radha-krishna-prana-mora-jugala-kishora.md",
+        "title": "Sakhi-vṛnde Vijñaptiḥ"
+      }
+    ]
+  },
+  {
+    "name": "Šrīmatī Rādhārānī veltītas dziesmas",
+    "items": [
+      {
+        "id": "radhakundatata-kunjakutira",
+        "filepath": "songs/radhakundatata-kunjakutira.md",
+        "title": "Rādhā-kuṇḍataṭa-kuñja-kuṭīra"
+      }
+    ]
   }
 ]

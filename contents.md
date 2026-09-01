@@ -111,6 +111,13 @@
 - [8a. Bondhu-goṇ! śunoho](songs/bondhu-gon-shiunoho-vachana-mora.md)
 - [8b. Yoga-pīṭhopari-sthita](songs/yoga-pithopari-sthita-ashta-sakhi-subeshtita.md)
 
-- ### Krišnam veltītas dziesmas
+### Krišnam veltītas dziesmas
 
 - [Mayura mukuṭa](songs/mayura-mukuta-pitambara-dhari.md)
+- [He deva bhavantaṁ vande](songs/he-deva-bhavantam-vande.md)
+- [Jaya Rādhā-Mādhava](songs/radha-madhava-kunja-bihari.md)
+- [Sakhi-vṛnde Vijñaptiḥ](songs/radha-krishna-prana-mora-jugala-kishora.md)
+
+### Šrīmatī Rādhārānī veltītas dziesmas
+
+- [Rādhā-kuṇḍataṭa-kuñja-kuṭīra](songs/radhakundatata-kunjakutira.md)

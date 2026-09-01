@@ -1,0 +1,16 @@
+---
+page: 203
+first_line: (jaya) rādhā-mādhava (jaya) kuñja-bihārī
+---
+
+# Jaya Rādhā-Mādhava
+
+### Šrīla Bhaktivinoda Thākurs
+
+    (jaya) rādhā-mādhava        (jaya) kuñja-bihārī
+    (jaya) gopī-jana-vallabha    (jaya) giri-vara-dhārī
+    (jaya) yaśodā-nandana,      (jaya) vraja-jana-rañjana,
+            (jaya) jāmuna-tīra-vana-chārī
+
+Krišna ir Rādhas mīļotais. Vrindāvanas svētajās birzīs viņš izspēlē neskaitāmas mīlestības pilnas *līlas*. Viņš ir Vradžas ganu meiteņu mīļotais, diženā Govardhana kalna nesējs, mātes Jašodas lolotais dēls un visu Vradžas iedzīvotāju prieka avots. Viņš bauda pastaigas pa Jamūnas upes krastu mežiem.
+
