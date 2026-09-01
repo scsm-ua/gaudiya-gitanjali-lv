@@ -473,6 +473,11 @@
     "name": "Krišnam veltītas dziesmas",
     "items": [
       {
+        "id": "mayura-mukuta-pitambara-dhari",
+        "filepath": "songs/mayura-mukuta-pitambara-dhari.md",
+        "title": "Mayura mukuṭa"
+      },
+      {
         "id": "he-deva-bhavantam-vande",
         "filepath": "songs/he-deva-bhavantam-vande.md",
         "title": "He deva bhavantaṁ vande"
