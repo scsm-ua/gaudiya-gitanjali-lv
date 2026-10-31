@@ -63,3 +63,4 @@ Es vairs nepaļaujos uz saviem spēkiem. Esmu pilnībā atkarīgs tikai no Tavas
     tomāra ichāya tā’ra jīvana maraṇa
 
 Bhaktivinoda lepnība ir sagrauta. Tagad viņš dzīvos vai mirs tikai saskaņā ar Tavu gribu.
+

@@ -15,7 +15,7 @@ author: Śrīla Govinda Dās Kavirāj
     dūrlabha mānava    janama sat-saṅge
         taroho e bhava-sindhu re
 
-Mans prāts, vienkārši pielūdz lotosam līdzīgās Nandas dēla pēdas, kuras dāvā cilvēkam bezbailību! Saņēmis tik reto dzimšanu cilvēka ķermenī, jel saskaries ar svētajiem un tu šķērsosi materiālās esības bezdibeni. 
+Mans prāts, vienkārši pielūdz lotosam līdzīgās Nandas dēla pēdas, kuras dāvā cilvēkam bezbailību! Saņēmis tik reto dzimšanu cilvēka ķermenī, jel saskaries ar svētajiem un tu šķērsosi materiālās esības bezdibeni.
 
 #### 2
 
@@ -24,7 +24,7 @@ Mans prāts, vienkārši pielūdz lotosam līdzīgās Nandas dēla pēdas, kuras
     biphale sevinu    kṛpaṇa durajana
         chapala sukha-laba lāgi’ re
 
-Dienu un nakti, nezinot mieru, es ciešu karstumā un aukstumā, vējā un lietū. Iedomātas laimes kripatiņas dēļ es bezjēdzīgi kalpoju netikumīgiem un skopiem cilvēkiem.  
+Dienu un nakti, nezinot mieru, es ciešu karstumā un aukstumā, vējā un lietū. Iedomātas laimes kripatiņas dēļ es bezjēdzīgi kalpoju netikumīgiem un skopiem cilvēkiem.
 
 #### 3
 

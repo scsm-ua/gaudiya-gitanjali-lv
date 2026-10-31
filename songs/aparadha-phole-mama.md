@@ -67,3 +67,4 @@ Ak, kad gan mans ķermenis ekstāzē nobālēs? Kad es zaudēšu samaņu? Un kad
     roye bhakativinoda mati hīna
 
 Bhaktivinoda, zaudējis saprātu raudot sauc: “Kad gan pienāks šī ilgi gaidītā diena?”
+

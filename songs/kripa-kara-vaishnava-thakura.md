@@ -49,6 +49,5 @@ Ja es dalīšu citiem sava ēdiena paliekas, sākšu uzskatīt, ka es ieņemu au
     tomāra charaṇe,    niṣkapaṭe āmi,
         kā̐diyā luṭibo bhūmi
 
-
 Ja tu dāvāsi man spēju dziedāt Svēto Vārdu, es izrādīšu cieņu citiem un necerēšu sagaidīt cieņu pret sevi. Ekstāzē es patiesi raudāšu, vārtoties pa zemi pie tavām lotosam līdzīgajām pēdām.
 

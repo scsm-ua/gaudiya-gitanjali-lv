@@ -1,6 +1,10 @@
 ---
 page: 81
 first_line: deva-siddha-mukta-yukta-bhakta-vṛnda
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī
@@ -21,8 +25,8 @@ first_line: deva-siddha-mukta-yukta-bhakta-vṛnda
 
 Debesu iemītnieki, pilnīgās dvēseles, atbrīvošanas tīkotāji, mistiskie jogi un augstie Absolūtās Patiesības – Šrī Krišnas, kalpi, vienmēr slavē Šrī Gaurasundaru. Šrīla Rūpa Gosvāmī savā “Šrī Čaitanjaštakam” min šādu vārsmu:
 
-*sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ*\
-*vahadbhir gīr-vāṇair giriśa-parameṣṭhi-prabhṛtibhiḥ*
+    sadopāsyaḥ śrīmān dhṛta-manuja-kāyaiḥ praṇayitāṁ
+    vahadbhir gīr-vāṇair giriśa-parameṣṭhi-prabhṛtibhiḥ
 
 “Debesu iemītnieki, ar Kungu Šivu un Kungu Brahmu priekšgalā, tērpušies vienkāršu cilvēku drānās, piedalījās Šrī Čaitanjadēva rotaļās, lai patiesā maigumā mūžīgi pielūgtu Viņu”. Šrī Čaitanjadēvs ir plašā tīra nektāra okeāna iemiesojums, kurš rod savu sākumu Svētajā Kunga Krišnas Vārdā, kas ir nekas cits kā tīrs paša Šrī Gaurangas Vārds. Šrī Čaitanjadēvu salīdzina ar dižo piena okeānu, kuru kuļot izdalījās nektārs. Nektārs, kuru izplata Mahāprabhu, ir svētie Kunga Krišnas Vārdi. Tie novērš tādas materiālās esības likstas kā prom no Kunga vedošs grēcīgas rīcības radīts nemiers un trīskāršas ciešanas, kuras tikai pastiprina meža ugunsgrēku, kurā deg juteklisko baudu un atbrīvošanas meklētāji un mistiskie jogi. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 

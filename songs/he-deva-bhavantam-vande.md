@@ -42,6 +42,3 @@ Ak, Madhava, manī nav pat ne sezama sēkliņas izmēra mīlestības un pašatde
 
 Ak, mūžīgais Kungs, lai mana prāta kamene saldākās garšas meklējumos nekad nepamet tavu lotosa pēdu medu, salīdzinot ar kuru pat saldākais nektārs šķiet zaudējis garšu.
 
-
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-kabe-habe-bolo-acapella)
-

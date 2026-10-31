@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 116
 first_line: ‘dayāl nitāi chaitanya’ bo’le nāch re
 ---

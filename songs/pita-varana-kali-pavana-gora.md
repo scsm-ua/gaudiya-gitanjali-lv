@@ -23,7 +23,6 @@ Tad dvēsele mostas un apzinās savu īsteno iekšējo bagātību – dzīvi mī
 
 Ikviena sirdī mītoša vēlēšanās, kāda vien iedomājama, tiek atbildēta un attīrīta. Tad dvēsele pilnībā nodod sevi Krišnas Svētā Vārda viļņiem, kas dvēseli attīra pilnībā.
 
-
 *Paskaidrojums grāmatā: [The Golden Volcano of Divine Love. Part II Śikṣāṣṭakam: The Holy Name of Kṛṣṇa](https://krishnasearch.com/#/book/en-GoldenVolcanoofDivineLove?c=12&p=12)*
 
 #### 1
@@ -81,3 +80,4 @@ Kungs Gauranga, kura ķermenis ir zelta krāsā, ir kritušo dvēseļu glābējs
     kṛṣṇa-kīrtana jaya prema-nidān
 
 “Visa slava Krišnas Svētā Vārda dziedāšanai! Tā atdzīvina Bhaktivinodas dvēseli. Svētā Vārda dziedāšana ir mīlestības uz Dievu dārgumu lāde.”
+

@@ -1,6 +1,10 @@
 ---
 page: 88
 first_line: dhvasta-sārvvabhauma-vāda-navya-tarka-śāṅkaraṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī
@@ -23,8 +27,8 @@ Dižais zinātnieks Sarvabhauma lika lietā visus spēkus cenšoties nostiprinā
 
 Tam piemērs ir Kunga sniegtais Upanišādu vārsmas skaidrojums:
 
-*apāṇipādo javano grahitā*\
-*paśyatyachakṣuḥ sa śṛṇotyakarṇaḥ*
+    apāṇipādo javano grahitā
+    paśyatyachakṣuḥ sa śṛṇotyakarṇaḥ
 
 “Kungam nav ne roku, ne kāju, tomēr Viņš var staigāt un pieskarties. Kungam nav ne acu, ne ausu, tomēr Viņš redz un dzird.”
 
@@ -111,10 +115,10 @@ Ceļojot pa Dienvidindiju, Kungs uzgāja sen nozaudēto darbu “Šrī Brahma-sa
 
 Neskaitāmu, Kunga Svēto Vārdu kopīgā dziedāšanā vienojušos bhaktu ieskauts, Kungs Gaurangasundars izpildīja savu dievišķi skaisto deju Ratha-jātras pajūga priekšā. Kunga personība visaptveroši aizrāva Mahārādža Pratāparudras, visu klātesošo svētceļnieku un citu valdnieka tuvo draugu, sirdis. Kungs atklāja Kunga Džagannātha ratos veiktā ceļojuma uz Gundiča templi iekšējo nozīmi citējot Šrīlas Rūpas Gosvāmī vārsmu:
 
-*priyaḥ so ’yam kṛṣṇaḥ saha-chari kuru-kṣetra-militas*\
-*tathāhaṁ sā rādhā tad idam ubhayoḥ saṅgama sukham*\
-*tathāpy antaḥ-khelan-madhura-muralī-pañchama-juṣe*\
-*mano me kālindī-pulina-vipināya spṛhayati*
+    priyaḥ so ’yam kṛṣṇaḥ saha-chari kuru-kṣetra-militas
+    tathāhaṁ sā rādhā tad idam ubhayoḥ saṅgama sukham
+    tathāpy antaḥ-khelan-madhura-muralī-pañchama-juṣe
+    mano me kālindī-pulina-vipināya spṛhayati
 
 “Mana dārgā draudzene, šeit Kurukšetrā, es beidzot atkal satiku savu mīļoto Krišnu! Es – tā pati Rādharānī, un Viņš – Tas pats Krišna! Mūsu satikšanās ir prieka pilna, taču es vēlos atgriezties Kālindī krastos. Tur, zem Vrindāvanas meža kokiem, es varētu klausīties Viņa piekto noti spēlējošās flautas saldo melodiju!” Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 

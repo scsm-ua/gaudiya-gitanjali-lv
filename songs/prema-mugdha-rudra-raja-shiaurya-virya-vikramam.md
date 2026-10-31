@@ -1,6 +1,10 @@
 ---
 page: 92
 first_line: prema-mugdha-rudra-rāja-śaurya-vīrya-vikramaṁ
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī
@@ -84,10 +88,10 @@ Kungs Gaurasundars izrādīja lielu cieņu Dievībām Gangas krastā, Kāšī un
 
 Kungs Čaitanja paziņoja, ka dziļais atšķirtības noskaņojums, kuru spēja piedzīvot Mādhavendra Purī, ir tīras Dieva pielūgsmes augstākā robeža un vēlamais mērķis. Tas aprakstīts sekojošā brīnišķīgā vārsmā, kuru pirmo reizi izteica Šrīmatī Rādharānī:
 
-*ayi dīna-dayārdra nātha he*\
-*mathurā-nātha kadāvalokyase*\
-*hṛdayaṁ tvad-aloka-kātaraṁ*\
-*dayita bhrāmyati kiṁ karomy aham*
+    ayi dīna-dayārdra nātha he
+    mathurā-nātha kadāvalokyase
+    hṛdayaṁ tvad-aloka-kātaraṁ
+    dayita bhrāmyati kiṁ karomy aham
 
 “Mans Kungs! Visžēlsirdīgākais Valdniek! Mathuras pavēlniek! Kad gan es atkal redzēšu Tevi? Atšķirtībā mana saviļņotā sirds sitas nevienmērīgi! Mīļotais, ko man tagad darīt?” Pēc tam, kad Kungs bija ienācis Vradžā, kur norisinājās Viņa tīrās mīlestības rotaļas, Viņš sajuta sirdi pārpildāmies ar sajūsmu. Kungu savaldzināja brīnišķīgie dārzi un audzes, kuras kalpojušas par Viņa garīgo rotaļu vietu iepriekšējā laikmetā. Ceļojot pa divpadsmit Vrindāvanas mežiem, Kungs izpauda visu Savu attiecību daudzveidību ar ganu zēniem un meitenēm. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 

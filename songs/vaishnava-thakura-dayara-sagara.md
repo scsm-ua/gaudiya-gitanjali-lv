@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 76
 first_line: (ohe) vaiṣṇava ṭhākura, dayāra sāgara
 ---

@@ -3,8 +3,7 @@ page: 185
 first_line: tuhu̐ dayā-sāgara tārayite prāṇī
 ---
 
-# Śrī Śikṣāṣṭakam 2 
-
+# Śrī Śikṣāṣṭakam 2
 
 ### Šrīla Bhaktivinoda Thākurs
 
@@ -53,3 +52,4 @@ Tāda ir tava želsirdība, ak, Kungs. Tu esi bezgalīgi labsirdīgs. Taču, ak,
     bhaktivinoda-chitta duḥkhe bibhora
 
 Manī nekad nav bijis ne kripatiņas pieķeršanās tavam Svētajam Vārdam. Tādēļ Bhaktivinoda sirds ir skumju pilna.
+

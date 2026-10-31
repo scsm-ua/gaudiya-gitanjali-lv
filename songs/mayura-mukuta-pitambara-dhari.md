@@ -35,6 +35,3 @@ Ak, Krišna, Muralī flautas turētāj un Govardhana kalna pacēlāj. Visa slava
 
 Ak, Krišna, Muralī flautas turētāj un Govardhana kalna pacēlāj. Visa slava tev, Krišna, visu Vrindāvanas ganumeiteņu visdārgākais mīļotais un Vamšī flautas spēlētāj.
 
-
-[Sadhu Priya Prabhu](https://soundcloud.com/huron/mayura-mukuta)
-
