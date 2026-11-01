@@ -35,5 +35,3 @@ Ak, jaunais mēness, kas uzausis no ķēniņa Vrišabhānu okeāna. Ak, Lalitas 
 
 Ak, līdzjūtības pilnā. Ak, tu, kuras dievišķās īpašības apdzied diženi gudrie Sanaka un Sanātana. Ak, Rādha, lūdzu, esi žēlsirdīga pret mani.
 
-[Bhakti Lalita Devi](https://soundcloud.com/bhakti-lalita-devi/bhakti-lalita-devi-sri-radhika-stava)
-

@@ -48,3 +48,4 @@ Tavā sirdī vienmēr mīt Kungs Govinda. Pats Šrī Govinda saka: “Mani bhakt
     narottame kara dayā āpanāra vali
 
 Es ceru, ka katrā dzīvē saskaršos ar putekļiem no tavām lotosam līdzīgajām pēdām. Šrī Narottams lūdzas: “Ak, svētais Vaišnav, lūdzu, esi žēlsirdīgs pret mani!”
+

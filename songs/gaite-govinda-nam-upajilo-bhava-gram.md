@@ -13,7 +13,7 @@ author: Šrīla Bhaktivinoda Thākurs
     vṛṣabhānu-sutā-saṅge,    śyāma-naṭa-boro-raṅge,
         bā̐śarī bājāya nīpo-mūle
 
-Kad es dziedāju Govindas Vārdu, manī sacēlās ekstātisku pārdzīvojumu vētra. Jamūnas upes krastā es ieraudzīju Sundar-šjāmu, labāko no dejotājiem, ar Šrī Rādhu, karaļa Vrišabhanū meitu. Aizrāvies mīlestībā uz Šrī Rādhu, viņš spēlēja savu flautu blakus dīķim zem kadambas koka, kurš dāvāja ēnu dievišķajam pārim. 
+Kad es dziedāju Govindas Vārdu, manī sacēlās ekstātisku pārdzīvojumu vētra. Jamūnas upes krastā es ieraudzīju Sundar-šjāmu, labāko no dejotājiem, ar Šrī Rādhu, karaļa Vrišabhanū meitu. Aizrāvies mīlestībā uz Šrī Rādhu, viņš spēlēja savu flautu blakus dīķim zem kadambas koka, kurš dāvāja ēnu dievišķajam pārim.
 
 #### 2
 
@@ -23,3 +23,4 @@ Kad es dziedāju Govindas Vārdu, manī sacēlās ekstātisku pārdzīvojumu vē
         āro nāhi bhelo daraśan
 
 Vērojot šo skatu es sastingu. Es zaudēju maņas! Es noģību, zaudējot laika izjūtu. Taču, kad es pamodos, Dievišķais Pāris jau bija zudis. Vradža, kuru redzēju, bija zudusi.
+

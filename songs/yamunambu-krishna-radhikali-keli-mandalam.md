@@ -1,6 +1,10 @@
 ---
 page: 104
 first_line: yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Śrī Śrī
@@ -93,8 +97,8 @@ Lūk, visu uzvarošs secinājums: Sākotnējai Realitātei ir jābūt arī augst
 
 Ar lielu prieku Šrī Gauranga Sundars pavēstīja saviem dārgākajiem pavadoņiem, Šrī Svarūpam Damodāram un Rāmanānda Rajam, ka kopīga Kunga Krišnas Svēto Vārdu dziedāšana dāvā Kali laikmeta dzīvajām būtnēm visaugstāko svētību:
 
-*harṣe prabhu kohena, “śuno svarūpa-rāma-rāya*\
-*nāma saṅkīrttana kalau, parama upāya”*
+    harṣe prabhu kohena, “śuno svarūpa-rāma-rāya
+    nāma saṅkīrttana kalau, parama upāya”
 
 Savā slavenajā darbā “Šrī Šikšāštakam” Kungs Gauranga nostiprināja Šrī Krišnas Svēto Vārdu dziedāšana dāvā dzīvām būtnēm augstāko labumu. Tāpat Visaugstais mācīja, ka Šrī Krišnas Svēto Vārdu dziedāšana, kas izpildīta tīrā mīlestībā uz Dievu, pilnīgā veidā uztur visas dzīvās būtnes Visumā un dod viņām pilnīgu apmierinājumu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!
 

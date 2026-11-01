@@ -59,4 +59,5 @@ Milzīgā sajūsmā Ananta Šēša ar tūkstoš sejām dzied un sauc: “Harī! 
     śrī-rūpa-pade,    jāchaye ihā,
         bhakativinoda-dāsa
 
-Dejodams uz visu mēlēm, Šrī Krišnas Svētais Vārds piepildīja visas manas vēlēšanās! Tādēļ Kunga pazemīgais kalps Bhaktivinoda lūdzas pie Šrī Rūpas Gosvāmī pēdām, lai Harīnāma – Svētā Vārda dziedāšana šādā veidā turpinātos mūžam! 
+Dejodams uz visu mēlēm, Šrī Krišnas Svētais Vārds piepildīja visas manas vēlēšanās! Tādēļ Kunga pazemīgais kalps Bhaktivinoda lūdzas pie Šrī Rūpas Gosvāmī pēdām, lai Harīnāma – Svētā Vārda dziedāšana šādā veidā turpinātos mūžam!
+

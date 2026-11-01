@@ -50,3 +50,4 @@ Ak, kad gan, sekojot Lalitas, Višākhas un citu gopīju norādījumiem, es var�
     sevā abhilāṣa kore narottama-dāsa
 
 Narottams Dāsa, Šrī Krišnas Čaitanjas Mahāprabhū kalpa kalps, ilgojas pēc kalpošanas Dievišķajam Pārim.
+

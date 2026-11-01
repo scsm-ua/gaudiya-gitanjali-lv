@@ -1,7 +1,14 @@
 {
   "meta": {
     "page": 104,
-    "first_line": "yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam"
+    "first_line": "yāmunāmbu-kṛṣṇa-rādhikāli-keli-maṇḍalam",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Śrī Śrī",
@@ -121,9 +128,15 @@
         "prema-dhāma-devam eva naumi gaura-sundaram"
       ],
       "translation": [
-        "Ar lielu prieku Šrī Gauranga Sundars pavēstīja saviem dārgākajiem pavadoņiem, Šrī Svarūpam Damodāram un Rāmanānda Rajam, ka kopīga Kunga Krišnas Svēto Vārdu dziedāšana dāvā Kali laikmeta dzīvajām būtnēm visaugstāko svētību:",
-        "*harṣe prabhu kohena, “śuno svarūpa-rāma-rāya*\\",
-        "*nāma saṅkīrttana kalau, parama upāya”*",
+        "Ar lielu prieku Šrī Gauranga Sundars pavēstīja saviem dārgākajiem pavadoņiem, Šrī Svarūpam Damodāram un Rāmanānda Rajam, ka kopīga Kunga Krišnas Svēto Vārdu dziedāšana dāvā Kali laikmeta dzīvajām būtnēm visaugstāko svētību:"
+      ]
+    },
+    {
+      "text": [
+        "harṣe prabhu kohena, “śuno svarūpa-rāma-rāya",
+        "nāma saṅkīrttana kalau, parama upāya”"
+      ],
+      "translation": [
         "Savā slavenajā darbā “Šrī Šikšāštakam” Kungs Gauranga nostiprināja Šrī Krišnas Svēto Vārdu dziedāšana dāvā dzīvām būtnēm augstāko labumu. Tāpat Visaugstais mācīja, ka Šrī Krišnas Svēto Vārdu dziedāšana, kas izpildīta tīrā mīlestībā uz Dievu, pilnīgā veidā uztur visas dzīvās būtnes Visumā un dod viņām pilnīgu apmierinājumu. Es cieņpilni klanos brīnumskaistā Zeltītā Kunga, Gauranga Sundara – dievišķā Krišna-*prēmas* iemiesojuma, priekšā!"
       ]
     },

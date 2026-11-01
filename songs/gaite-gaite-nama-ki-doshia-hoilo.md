@@ -38,6 +38,7 @@ Es atskārtu, ka esmu šajā pelēkajā materiālajā Visumā majas virvju sasie
     kā̐hā jāi kṛṣṇa heri e chintā biśālo
 
 Nekas šajā dzimšanu un nāvju pasaulē man īpaši nepatīk. Kur gan man doties, lai ieraudzītu Krišnu? Šīs ir manas lielākās raizes.
+
 #### 4
 
     kā̐dite kā̐dite mora ā̐khi-boriṣoya
@@ -76,3 +77,4 @@ Vrindāvanas iedzīvotāji, glābiet jel mani — parādiet man Rādhanāthu, Š
     parāṇa chāḍite āro din dui chāri
 
 Nespējot ilgāk paciest atšķirtību no mana Kunga, esmu gatavs atvadīties no dzīves kaut pēc dažām dienām.
+

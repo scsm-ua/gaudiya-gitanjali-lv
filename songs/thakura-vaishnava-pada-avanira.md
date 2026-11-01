@@ -42,3 +42,4 @@ Purānas apdzied svētvietās esošā ūdens attīrošo spēku, taču tas nav ne
         mora dośā keno hoilo bhaṅga
 
 Mirkli pēc mirkļa mans prāts smeļ nebeidzamu prieku Vaišnavu sabiedrībā. Es vienmēr meklēju Kunga Krišnas bhaktu sabiedrību. Garīgais ubags Narottams Dāsa raud: “Es vairs nevaldu pār sevi. Kā gan es varēju krist tik zemu, ka Vaišnavi mani atraida?”
+

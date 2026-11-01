@@ -1,7 +1,6 @@
 ---
 page: 64
 first_line: (kiba) jaya jaya gaurāchā̐der ārotiko śobhā
-verse parentheses: non bold
 ---
 
 # Śrī Gaura-ārati

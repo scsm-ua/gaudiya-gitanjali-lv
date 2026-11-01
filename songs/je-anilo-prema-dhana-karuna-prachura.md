@@ -35,7 +35,7 @@ Kur gan ir mani Raghunāths Bhatta un Gopals Bhatta Gosvāmī? Kur tagad ir Šr�
     pāṣāṇe kuṭibo māthā anale paśibo
     gaurāṅga guṇera nidhi kothā gele pābo
 
-Esmu gatavs pārsist savu galvu pret akmeni, lai tikai atrastos blakus Kungam Čaitanjam kopā ar viņiem! 
+Esmu gatavs pārsist savu galvu pret akmeni, lai tikai atrastos blakus Kungam Čaitanjam kopā ar viņiem!
 
 #### 5
 
@@ -43,3 +43,4 @@ Esmu gatavs pārsist savu galvu pret akmeni, lai tikai atrastos blakus Kungam Č
     se-saṅga nā pāyā kānde narottama dāsa
 
 Viņi visi ir aizgājuši, lai gremdētos savās rotaļās. Narottams Dāsa Thākurs sauc: “Man atliek vienīgi apraudāt savu rūgto likteni, jo nevaru būt viņu sabiedrībā!”
+

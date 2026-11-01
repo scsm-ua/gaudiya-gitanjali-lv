@@ -43,7 +43,7 @@ first_line: śrī-rūpa-mañjarī-pada, sei mora sampada
 
 Ir jāsaprot, ka pastāv daudzi *rasas* līmeņi un veidi: *šānta, dāsja, sakhja, vātsalja, madhura*. Un *madhura rasā* Rādharanī grupa ir īpaša. Tāpat arī *sakhī* vidū pastāv hierarhija. Ir *mandžarī*, jaunu meiteņu, grupa. Viņām ir lielāka brīvība tuvoties Dievišķajam Pārim: kad Rādha un Govinda ir tikai viens otra sabiedrībā, *mandžarī* joprojām var viņiem tuvoties. *Mandžarī* ir šāda privilēģija. Ja kalpošanai kaut kas ir nepieciešams, *sakhī* sūta uz šo vietu *mandžarī*. Sakhī netuvojas Rādhai un Krišnam. Vislielāko uzticību bauda *mandžarī*.
 
-*Mandžarī* veic visslepenāko kalpošanu Dievišķajam Pārim un šajā augstākajā stāvoklī viņām ir brīva pieeja. Viņas vada Rūpa Mandžarī, kura *madhura-bhadžanā* ir burtiski viss. To mums māca Narottams Thākurs. Mums un jaunajām *mandžarī* viņa ir augstākais patvērums. 
+*Mandžarī* veic visslepenāko kalpošanu Dievišķajam Pārim un šajā augstākajā stāvoklī viņām ir brīva pieeja. Viņas vada Rūpa Mandžarī, kura *madhura-bhadžanā* ir burtiski viss. To mums māca Narottams Thākurs. Mums un jaunajām *mandžarī* viņa ir augstākais patvērums.
 
 *Sei mora sampada* – mana bagātība slēpjas viņas pēdās. *Sei mora bhajana-pūjana* – es pielūdzu viņu un kalpoju viņai. *Sei mora prāṇa-dhana, sei mora ābharaṇa* – viņa ir manas dzīves jēga un patiesā bagātība. Manas dzīves rotājums, ja man tāds ir, ir viņas žēlastība. *Sei mora jīvanera jīvana* – manas dzīvības dzīvība, nešaubīgi, ir viņa. Es eksistēju viņas priekam.
 
