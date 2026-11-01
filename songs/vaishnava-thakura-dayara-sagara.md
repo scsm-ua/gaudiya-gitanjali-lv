@@ -23,7 +23,7 @@ Ak, mans kungs, ak, Vaišnav, žēlastības okeān, lūdzu, esi žēlsirdīgs pr
     choya sat-saṅga,    deho’ he āmāre,
         bosechi saṅgera āśe
 
-Pakļauj sešus dzinuļus, novērs sešus trūkumus, dāvā sešas labvēlīgas īpašības savam kalpam! Lūdzu, dāvā man sešus svētas saskarsmes veidus. Es klanos pie tavām pēdām cerībā ienākt *bhaktu* ģimenē (sk. piezīmi).
+Pakļauj sešus dzinuļus, novērs sešus trūkumus, dāvā sešas labvēlīgas īpašības savam kalpam! Lūdzu, dāvā man sešus svētas saskarsmes veidus. Es klanos pie tavām pēdām cerībā ienākt *bhaktu* ģimenē *(sk. piezīmi)*.
 
 #### 3
 
@@ -49,7 +49,7 @@ Pats saviem spēkiem es nespēju kopā ar citiem dziedāt Svēto Vārdu! Lūdzu,
 
 Krišna pieder tev, tu vari Viņu atklāt citiem, tev piemīt tāds spēks! Kā neprātīgs es saucu: “Krišna, Krišna!” un izmisis skrienu tev pakaļ.
 
-**Piezīme pie 2. vārsmas:**
+## Piezīme pie 2. vārsmas
 
 Seši dzinuļi: runa, prāts, dusmas, mēle, kuņģis un ģenitālijas.
 
