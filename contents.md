@@ -121,3 +121,4 @@
 ### Šrīmatī Rādhārānī veltītas dziesmas
 
 - [Rādhā-kuṇḍataṭa-kuñja-kuṭīra](songs/radhakundatata-kunjakutira.md)
+- [Śrī Rādhikā-stava](songs/radhe-jaya-jaya-madhava-dayite.md)
